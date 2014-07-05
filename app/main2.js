@@ -18,7 +18,8 @@ var map = L.map('leaflet')
   .setView([22.35, 114.13], 11)
   .addLayer(new L.TileLayer('http://{s}.tiles.mapbox.com/v3/felixlaumon.im90hil1/{z}/{x}/{y}.png', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18
+    maxZoom: 18,
+    minZoom: 11
   }))
   .setMaxBounds([[22.736, 113.715], [22.094, 114.505]]);
 map._initPathRoot();
@@ -40,7 +41,7 @@ var coastlineClip = svg.append('clipPath')
 
 $.when(
   $.getJSON('/data/hongkong-admin.topojson'),
-  $.getJSON('/data/hongkong-coastline.topojson'),
+  $.getJSON('/data/hongkong-coastline-intersection.topojson'),
   $.getJSON('/data/parknshop.geojson'),
   $.getJSON('/data/wellcome.geojson')
 ).then(function (hkdistrict, hkcoastline, parknshop, wellcome) {
@@ -52,7 +53,7 @@ $.when(
   topojson.presimplify(hkdistrict);
 
   var district = topojson.feature(hkdistrict, hkdistrict.objects['hongkong-admin']).features;
-  var coastline = topojson.feature(hkcoastline, hkcoastline.objects['hongkong-coastline']);
+  var coastline = topojson.feature(hkcoastline, hkcoastline.objects['hongkong-coastline-intersection']);
 
   function update () {
     var parknshop_points = parknshop.features.map(function (d) {
@@ -126,7 +127,7 @@ $.when(
     map.setView([22.35, 114.13], 11);
   }
 
-  var map_opacity_scale = d3.scale.linear().domain([11, 18]).range([0.1, 0.9]);
+  var map_opacity_scale = d3.scale.linear().domain([11, 18]).range([0.25, 0.9]);
   var voronoi_opacity_scale = d3.scale.linear().domain([11, 18]).range([0.75, 0.4]);
 
   function viewreset () {

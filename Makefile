@@ -26,13 +26,6 @@ data/hongkong-admin.geojson:
 data/hongkong-admin.topojson: data/hongkong-admin.geojson
 	$(topojson) $< -p name=ENAME -p code=CACODE -s 1e-12 -q 1e7 -o $@
 
-# data/hongkong-land.geojson:
-# 	mkdir -p data
-# 	curl http://echarts.baidu.com/doc/example/geoJson/HK_geo.json > $@
-
-# data/hongkong-land.topojson: data/hongkong-land.geojson
-# 	$(topojson) $< -p name -s 1e-12 -q 1e7 -o $@
-
 data/hongkong-coastline.geojson:
 	curl http://osm-extracted-metros.s3.amazonaws.com/hong-kong.coastline.zip > data/coastline.zip
 	unzip data/coastline.zip -d data/coastline
@@ -43,6 +36,11 @@ data/hongkong-coastline.geojson:
 data/hongkong-coastline.topojson: data/hongkong-coastline.geojson
 	$(topojson) $< -s 1e-12 -q 1e7 -o $@
 
+# data/hongkong-coastline-intersection.geojson comes from the intersection of
+# data/hongkong-coastline.geojson and data/hongkong-admin.geojson with qgis
+# by qgis 2.2
+data/hongkong-coastline-intersection.topojson: data/hongkong-coastline-intersection.geojson
+	$(topojson) $< -s 1e-12 -q 1e7 -o $@
 
 # LatLong Data
 
