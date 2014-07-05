@@ -1,0 +1,4023 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1648363,
+          22.244771
+        ]
+      },
+      "properties": {
+        "name": "Aberdeen Marina Club",
+        "address": "Marina Tower, Aberdeen Marina Club, 8 Shum Wan Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Aldrich Garden",
+        "address": "Aldrich Garden, No2 Oi Lai Street, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1514598,
+          22.2444316
+        ]
+      },
+      "properties": {
+        "name": "Ap Lei Chau Estate",
+        "address": "Ap Lei Chau Estate Multi-storey Car Park, Ap Lei Chau Bridge Road, Ap Lei Chau, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1751935,
+          22.3030887
+        ]
+      },
+      "properties": {
+        "name": "Austin Tower",
+        "address": "Austin Tower, 22-26A Austin Avenue, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1676263,
+          22.3075506
+        ]
+      },
+      "properties": {
+        "name": "Best-O-Best Commercial Centre, Ferry Street",
+        "address": "Best-O-Best Commercial Centre, 32-36 Ferry Street, Yau Ma Tei, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1693183,
+          22.323961
+        ]
+      },
+      "properties": {
+        "name": "Bijou Court",
+        "address": "Bijou Court, No 171 Prince Edward Road West, Mong Kok Kowloon, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1924704,
+          22.3308797
+        ]
+      },
+      "properties": {
+        "name": "Billionnaire Royale",
+        "address": "Billionnaire Royale, No 83 Sa Po Road City, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9686551,
+          22.4082199
+        ]
+      },
+      "properties": {
+        "name": "Blossom Garden",
+        "address": "Blossom Garden, 11 Leung Tak Street, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1684822,
+          22.3221308
+        ]
+      },
+      "properties": {
+        "name": "Bute Street",
+        "address": "Carprio Mansion, 1 Lai Chi Kok Road, Mong Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1778408,
+          22.2777777
+        ]
+      },
+      "properties": {
+        "name": "CC Wu Building",
+        "address": "CC Wu Building, 302-308 Hennessy Road, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1792574,
+          22.3137613
+        ]
+      },
+      "properties": {
+        "name": "Carmel Hill",
+        "address": "Carmel-on-the-hill, 9 Carmel Village Street, Ho Man Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.165585,
+          22.314508
+        ]
+      },
+      "properties": {
+        "name": "Charming Garden",
+        "address": "Site 2 of Charming Garden, No 8 Hoi Ting Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.250305,
+          22.263288
+        ]
+      },
+      "properties": {
+        "name": "Cheerful Garden",
+        "address": "Carport Building, Cheerful Garden, 23 Siu Sai Wan Road, Siu Sai Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.97413,
+          22.40064
+        ]
+      },
+      "properties": {
+        "name": "Chelsea Heights",
+        "address": "Chelsea Heights, 1 Shek Pai Path, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1662761,
+          22.3193177
+        ]
+      },
+      "properties": {
+        "name": "Cheong Fai Mansion, Tong Mi Road",
+        "address": "Cheong Fai Mansion, No 22 Tong Mi Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1356212,
+          22.2862963
+        ]
+      },
+      "properties": {
+        "name": "Cheung Fat Building",
+        "address": "Cheung Fat Building, No 7-9 Hill Road, Shek Tong Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1309011,
+          22.3784201
+        ]
+      },
+      "properties": {
+        "name": "Cheung Shan Estate",
+        "address": "Cheung Shan Shopping Centre, Cheung Shan Estate, Cheung Shan Estate Road West, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13799,
+          22.4869909
+        ]
+      },
+      "properties": {
+        "name": "Cheung Wah Shopping Centre",
+        "address": "Cheung Wah Shopping Centre, Cheung Wah Estate, Fanling, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.107261,
+          22.358487
+        ]
+      },
+      "properties": {
+        "name": "Cheung Wang Estate",
+        "address": "Cheung Wang Shopping Centre, Cheung Wang Estate, Tsing Yi, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2112792,
+          22.3213269
+        ]
+      },
+      "properties": {
+        "name": "Chevalier Commeicial Centre",
+        "address": "Chevalier Commercial Centre, 8 Wang Hoi Road Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Chinese University",
+        "address": "New Staff & Student Centre, Chinese University, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1260991,
+          22.5112008
+        ]
+      },
+      "properties": {
+        "name": "Ching Ho Estate",
+        "address": "Ching Ho Shopping Centre, Ching Ho Estate, Sheung Shui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2029199,
+          22.3315397
+        ]
+      },
+      "properties": {
+        "name": "Ching Long Shopping Centre",
+        "address": "Ching Long Shopping Centre City, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.129088,
+          22.346043
+        ]
+      },
+      "properties": {
+        "name": "Cho Yiu Chuen",
+        "address": "Cho Yiu Chuen, 6 King Cho Road, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.213055,
+          22.32233
+        ]
+      },
+      "properties": {
+        "name": "Choi Tak Estate",
+        "address": "Choi Tak Shopping Centre, Choi Tak Estate, Ngau Tau Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.213143,
+          22.333414
+        ]
+      },
+      "properties": {
+        "name": "Choi Wan Estate",
+        "address": "Third Floor, Choi Wan Shopping Centre (Phase 2), Choi Wan (1) Estate, 45 Clear Water Bay Road, Ngau Chi Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1858807,
+          22.3204342
+        ]
+      },
+      "properties": {
+        "name": "Choi Ying Estate",
+        "address": "Choi Ying Place, Choi Ying Estate, Ngau Tau Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.194235,
+          22.343992
+        ]
+      },
+      "properties": {
+        "name": "Chuk Yuen 2",
+        "address": "Chuk Yuen Shopping Centre, 15 Chuk Yuen Road, Wong Tai Sin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0324707,
+          22.4425159
+        ]
+      },
+      "properties": {
+        "name": "Comet Mansion",
+        "address": "Comet Mansion, Fung Cheung Road, Yuen Long, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1542002,
+          22.243347
+        ]
+      },
+      "properties": {
+        "name": "Command Tower",
+        "address": "Command Tower, 145 Main Street, Ap Lei Chau, Ap Lei Chau, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2075175,
+          22.2919752
+        ]
+      },
+      "properties": {
+        "name": "Eastern Central Plaza, Quarry Bay",
+        "address": "Eastern Central Plaza, 1032-1044 King's Road, Quarry Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0295438,
+          22.2084954
+        ]
+      },
+      "properties": {
+        "name": "Eastern Commercial Plaza",
+        "address": "Eastern Commercial Plaza, 80 Tung Wan Road, Cheung Chau, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.159495,
+          22.3355597
+        ]
+      },
+      "properties": {
+        "name": "Eastland Towers, Castle Peak Road",
+        "address": "Eastland Towers, Castle Peak Road, Sham Shui Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Fairview Heights",
+        "address": "Fairview Heights, 1 Seymour Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13799,
+          22.4869909
+        ]
+      },
+      "properties": {
+        "name": "Flora Plaza",
+        "address": "Flora Plaza Shopping Arcade, Fanling, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1886621,
+          22.3238085
+        ]
+      },
+      "properties": {
+        "name": "Fok On Building, Ma Tau Chung Road",
+        "address": "Fok On Building, 90-98 Ma Tau Chung Road, To Kwa Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1948208,
+          22.3354212
+        ]
+      },
+      "properties": {
+        "name": "Foo Yuen Building, Yin Hing Street",
+        "address": "Foo Yuen Building, 21-29 Yin Hing Street, San Po Kong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1943746,
+          22.2885994
+        ]
+      },
+      "properties": {
+        "name": "Fortress Tower",
+        "address": "Fortress Tower, 250 King's Road, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.010589,
+          22.231794
+        ]
+      },
+      "properties": {
+        "name": "Fortune Estate",
+        "address": "Fortune Shopping Centre, Fortune Estate, Cheung Sha Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1602846,
+          22.3285899
+        ]
+      },
+      "properties": {
+        "name": "Fu Cheong Estate",
+        "address": "Fu Cheong Shopping Centre, Fu Cheong Estate, Sham Shui Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.171039,
+          22.456213
+        ]
+      },
+      "properties": {
+        "name": "Fu Heng Estate",
+        "address": "Fu Heng Shopping Centre, Fu Heng Estate, Tai Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9834772,
+          22.4138836
+        ]
+      },
+      "properties": {
+        "name": "Fu Tai Shopping Centre",
+        "address": "Fu Tai Shopping Centre, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1699917,
+          22.3148953
+        ]
+      },
+      "properties": {
+        "name": "Full Win Commercial Centre",
+        "address": "Full Win Commercial Centre, 573 Nathan Road, Yau Ma Tei, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2048704,
+          22.3438727
+        ]
+      },
+      "properties": {
+        "name": "Fung Tak Estate",
+        "address": "Fung Tak Shopping Centre, Fung Tak Estate, Diamond Hill, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1536428,
+          22.2826769
+        ]
+      },
+      "properties": {
+        "name": "Gage Street",
+        "address": "Lyndhurst Building, 2A Gage Street, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9663261,
+          22.3825544
+        ]
+      },
+      "properties": {
+        "name": "Glorious Garden, Lung Mun Road",
+        "address": "Glorious Garden, No 45 Lung Mun Road, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1717566,
+          22.3183665
+        ]
+      },
+      "properties": {
+        "name": "Golden Era Plaza",
+        "address": "Golden Era Plaza, 39-55 Sai Yee Street, Mongkok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1646041,
+          22.3247261
+        ]
+      },
+      "properties": {
+        "name": "Good World Building, Tong Mi Road",
+        "address": "Good World Building, No 197-199 Tong Mi Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1916345,
+          22.2878544
+        ]
+      },
+      "properties": {
+        "name": "Harbour Heights, Fook Yum Road",
+        "address": "Nam Fung Court, Harbour Heights, No 1 Fook Yum Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1747987,
+          22.3190421
+        ]
+      },
+      "properties": {
+        "name": "Healthy House, Victory Avenue",
+        "address": "Healthy House, 14-14A Victory Avenue, Mong Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.237139,
+          22.264625
+        ]
+      },
+      "properties": {
+        "name": "Hing Man Estate",
+        "address": "Hing Man Shopping Centre, Hing Man Estate, Chai Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.221905,
+          22.282096
+        ]
+      },
+      "properties": {
+        "name": "Hing Tung Estate",
+        "address": "Hing Tung Shopping Centre, Hing Tung Estate, Sai Wan Ho, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.237139,
+          22.264625
+        ]
+      },
+      "properties": {
+        "name": "Hing Wah Estate",
+        "address": "Hing Wah Shopping Centre, Hing Wah Estate, Chai Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2330499,
+          22.3178955
+        ]
+      },
+      "properties": {
+        "name": "Hiu Lai Court",
+        "address": "Hiu Lai Shopping Centre, Sau Mau Ping, Kwun Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1281646,
+          22.3561644
+        ]
+      },
+      "properties": {
+        "name": "Ho Chuck Centre",
+        "address": "Ho Chuck Centre, 2-10 Kwai Yi Road, Kwai Fong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0263149,
+          22.4454696
+        ]
+      },
+      "properties": {
+        "name": "Ho Shun Fook Building",
+        "address": "Ho Shun Fook Building, Sau Fu Street, Yuen Long, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1669263,
+          22.3289814
+        ]
+      },
+      "properties": {
+        "name": "Hoi Cheung Building",
+        "address": "Hoi Cheung Building, 72- 74 Tai Po Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1468151,
+          22.3325441
+        ]
+      },
+      "properties": {
+        "name": "Hoi Lai Estate",
+        "address": "Hoi Lai Shopping Centre, Lai Chi Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.043515,
+          22.3629
+        ]
+      },
+      "properties": {
+        "name": "Hong Kong Garden",
+        "address": "100 Castle Peak Road, Tsing Lung Tau, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2343596,
+          22.3077855
+        ]
+      },
+      "properties": {
+        "name": "Hong Tin Court",
+        "address": "Hong Tin Court, Lam Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2273938,
+          22.4263899
+        ]
+      },
+      "properties": {
+        "name": "Horizon Suite Hotel",
+        "address": "Horizon Suite Hotel, 29 On Chun Street, Ma On Shan, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.171385,
+          22.3049096
+        ]
+      },
+      "properties": {
+        "name": "JD Mall",
+        "address": "JD Mall, 233-239 Nathan Road, Jordan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1917738,
+          22.3767189
+        ]
+      },
+      "properties": {
+        "name": "Jat Min Chuen",
+        "address": "Jat Min Chuen, 7 Jat Min Chuen Street, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2002727,
+          22.3973879
+        ]
+      },
+      "properties": {
+        "name": "Jubilee Garden",
+        "address": "Jubilee Garden, 2-18 Lok King Street, Fo Tan, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13799,
+          22.4869909
+        ]
+      },
+      "properties": {
+        "name": "Ka Fuk Estate",
+        "address": "Shopping Centre, Ka Fuk Estate, Fanling, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Ka Wai Chuen",
+        "address": "Ka Lim Lau, Ma Tau Wai Road, Ka Wai Chuen, Hunghom, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1908783,
+          22.3430662
+        ]
+      },
+      "properties": {
+        "name": "Kai Tak Garden",
+        "address": "Kai Tak Garden Phase II, 121 Choi Hung Road, Wong Tai Sin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1681803,
+          22.3131317
+        ]
+      },
+      "properties": {
+        "name": "Kam Wah Building, Canton Road",
+        "address": "Kam Wah Building, No 831 Canton Road, Yau Ma Tei, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2291701,
+          22.2782168
+        ]
+      },
+      "properties": {
+        "name": "Kam Wah Street",
+        "address": "Kam Wa Building, 2-18 Kam Wa Street, Shau Kei Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2449937,
+          22.4030699
+        ]
+      },
+      "properties": {
+        "name": "Kam Ying Court",
+        "address": "Kam Ying Court Shopping Centre, Ma On Shan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2568776,
+          22.3119357
+        ]
+      },
+      "properties": {
+        "name": "King Lam Estate",
+        "address": "King Lam Shopping Centre, King Lam Estate, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.196209,
+          22.2897705
+        ]
+      },
+      "properties": {
+        "name": "King Man Court, Fort Street",
+        "address": "King Man Court, No 19 Fort Street, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0041996,
+          22.4606419
+        ]
+      },
+      "properties": {
+        "name": "Kingswood Villa, Phase 1",
+        "address": "Commercial Centre, Kingswood Villas, Phase I, Tin Shui Wai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14638,
+          22.2866
+        ]
+      },
+      "properties": {
+        "name": "Kiu Fat Building",
+        "address": "Kiu Fat Building, Nos 115, 117 & 119 Queen’s Road West, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.233938,
+          22.266491
+        ]
+      },
+      "properties": {
+        "name": "Koway Court",
+        "address": "Portion B on 1/ Fl, Koway Court, No 111 Chai Wan Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2098216,
+          22.3833718
+        ]
+      },
+      "properties": {
+        "name": "Kwong Yuen Shopping Centre",
+        "address": "Kwong Yuen Shopping Centre Block 2, Kwong Yuen Estate, Siu Lek Yuen Road, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.164488,
+          22.4532104
+        ]
+      },
+      "properties": {
+        "name": "La Fontaine",
+        "address": "La Fontaine, 6 Chui Lok Street, Tai Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1615035,
+          22.3279217
+        ]
+      },
+      "properties": {
+        "name": "Lai Chi Kok",
+        "address": "288 Lai Chi Kok Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1309097,
+          22.3535179
+        ]
+      },
+      "properties": {
+        "name": "Lai Yiu Estate",
+        "address": "Lai Yiu Shopping Centre, Lai Yiu Estate, Lai Yiu Street, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.22165,
+          22.281323
+        ]
+      },
+      "properties": {
+        "name": "Lee Ga Building",
+        "address": "129-133 Sai Wan Ho Street, Sai Wan Ho, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1974398,
+          22.3771304
+        ]
+      },
+      "properties": {
+        "name": "Lee On Estate",
+        "address": "Lee On Shopping Centre, Lee On Estate, Ma On Shan, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1578885,
+          22.2433743
+        ]
+      },
+      "properties": {
+        "name": "Lei Tung Estate",
+        "address": "Lei Tung Commercial Centre (Phase 1), Lei Tung Estate, Lei Tung Estate Road, Ap Lei Chau, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.188228,
+          22.339594
+        ]
+      },
+      "properties": {
+        "name": "Lok Fu Plaza",
+        "address": "Lok Fu Plaza, Wang Tau Hom, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.186565,
+          22.315266
+        ]
+      },
+      "properties": {
+        "name": "Lok Man Sun Chuen",
+        "address": "Lok Man Sun Chuen, To Kwa Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1676927,
+          22.319683
+        ]
+      },
+      "properties": {
+        "name": "Lok Wah Estate",
+        "address": "Lok Wah Commercial Centre, Lok Wah North Estate, Ngau Tau Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1322769,
+          22.3674962
+        ]
+      },
+      "properties": {
+        "name": "Mai Chung Mansion, Wo Tong Tsui Street",
+        "address": "Mai Chung Mansion, 87-89 Wo Tong Tsui Street, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.187176,
+          22.3275306
+        ]
+      },
+      "properties": {
+        "name": "Man Sang Commercial Building, Prince Edward Road",
+        "address": "Man Sang Commercial Building, 348-352 Prince Edward Road West City, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1382223,
+          22.3380404
+        ]
+      },
+      "properties": {
+        "name": "Mei Foo Sun Chuen",
+        "address": "Stage 7, Mei Foo Sun Chuen, 12 Lai Wan Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2511234,
+          22.3060498
+        ]
+      },
+      "properties": {
+        "name": "Ming Tak Estate",
+        "address": "Ming Tak Estate Shopping Centre, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1122338,
+          22.3723339
+        ]
+      },
+      "properties": {
+        "name": "Moon Lok Dai Ha, Sha Tsui Road",
+        "address": "Fook Chi Lau, Moon Lok Dai Ha, Sha Tsui Road, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.000715,
+          22.2641581
+        ]
+      },
+      "properties": {
+        "name": "Mui Wo",
+        "address": "Mui Wo Building, 12 Mui Wo Ferry Pier Road, Mui Wo, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1626069,
+          22.3197653
+        ]
+      },
+      "properties": {
+        "name": "New Kowloon Plaza",
+        "address": "New Kowloon Plaza, 38 Tai Kok Tsui Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.133998,
+          22.286118
+        ]
+      },
+      "properties": {
+        "name": "Pak Hoo Mansion",
+        "address": "Pak Hoo Mansion, Nos 554, 558 & 560 Queen’s Road West, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1670838,
+          22.3368312
+        ]
+      },
+      "properties": {
+        "name": "Pak Tin Estate",
+        "address": "Pak Tin Commercial Centre, Pak Tin Estate, Pak Wan Street, Shek Kip Mei, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.96611,
+          22.372715
+        ]
+      },
+      "properties": {
+        "name": "Pierhead Garden",
+        "address": "Pierhead Garden, 168-236 Wu Chui Road, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.213787,
+          22.3368838
+        ]
+      },
+      "properties": {
+        "name": "Ping Shek Estate",
+        "address": "Tsuen Shek House, Ping Shek Estate, Tsuen Shek House, Ping Shek Estate, Ngau Chi Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2559991,
+          22.3251934
+        ]
+      },
+      "properties": {
+        "name": "Po Lam Estate",
+        "address": "Po Lam Shopping Centre, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9672059,
+          22.4040222
+        ]
+      },
+      "properties": {
+        "name": "Po Tin Estate",
+        "address": "Po Tin Shopping Centre, Po Tin Estate, Ming Kum Road, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0287036,
+          22.2069769
+        ]
+      },
+      "properties": {
+        "name": "Praya Street",
+        "address": "97A-99 Praya Road, Cheung Chau, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1104373,
+          22.3418319
+        ]
+      },
+      "properties": {
+        "name": "Rambler Crest",
+        "address": "Rambler Plaza, 1 Tsing Yi Road, Tsing Yi, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.201942,
+          22.33599
+        ]
+      },
+      "properties": {
+        "name": "Rhythm Garden",
+        "address": "Rhythm Garden, 242 Choi Hung Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2058921,
+          22.3296753
+        ]
+      },
+      "properties": {
+        "name": "Richland Gardens",
+        "address": "Richland Gardens Shopping Centre, 80 Wang Kwong Road Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3222577,
+          22.4075171
+        ]
+      },
+      "properties": {
+        "name": "Sai Kung Town Villa",
+        "address": "Sai Kung Town Centre, Sai Kung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1268183,
+          22.50463
+        ]
+      },
+      "properties": {
+        "name": "San Fung Avenue",
+        "address": "100 San Fung Avenue, Sheung Shui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2836275,
+          22.3104901
+        ]
+      },
+      "properties": {
+        "name": "Science University",
+        "address": "Academy Building, The Hong Kong University of Science and Technology, Clear Water Bay Road, Clear Water Bay, Sai Kung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.167205,
+          22.3332974
+        ]
+      },
+      "properties": {
+        "name": "Shek Kip Mei Estate",
+        "address": "Ancillary Facilities Block, Shek Kip Mei Estate Phase II, Shek Kip Mei, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1391977,
+          22.3656637
+        ]
+      },
+      "properties": {
+        "name": "Shek Lei Estate",
+        "address": "Shek Lei Shopping Centre, Shek Lei (I) Estate, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2082308,
+          22.387077
+        ]
+      },
+      "properties": {
+        "name": "Shek Mun Estate",
+        "address": "Shek Mun Estate, On Ming Street, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1587983,
+          22.2520859
+        ]
+      },
+      "properties": {
+        "name": "Shek Pai Wan Estate",
+        "address": "Shek Pai Wan Shopping Centre, Shek Pai Wan Estate, Aberdeen, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1702704,
+          22.3164209
+        ]
+      },
+      "properties": {
+        "name": "Shek Wai Kok Estate",
+        "address": "Shek Wai Kok Estate Commercial Centre, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1350173,
+          22.3618749
+        ]
+      },
+      "properties": {
+        "name": "Shek Yam Estate",
+        "address": "Shek Yam Shopping Centre, Shek Yam Estate, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Shouson Place",
+        "address": "Shouson Place, 16E Shouson Hill Road, Shouson Hill, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2246391,
+          22.315447
+        ]
+      },
+      "properties": {
+        "name": "Shui Wo Street",
+        "address": "42 Shui Wo Street, Kwun Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2262793,
+          22.3305935
+        ]
+      },
+      "properties": {
+        "name": "Shun Lee Estate",
+        "address": "Lee Hong House, Shun Lee Estate, Kwun Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.977034,
+          22.412942
+        ]
+      },
+      "properties": {
+        "name": "Siu Hong Court",
+        "address": "Siu Hong Shopping Centre, Siu Hong Court, 2-22 Siu Hong Road, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9768777,
+          22.3855447
+        ]
+      },
+      "properties": {
+        "name": "Siu Lun Court",
+        "address": "Siu Lun Court Shopping Centre, Siu Lun Court, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2513555,
+          22.2625651
+        ]
+      },
+      "properties": {
+        "name": "Siu Sai Wan Shopping Centre",
+        "address": "Siu Sai Wan Shopping Centre, Siu Sai Wan Estate, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Smiling Shaukeiwan Plaza",
+        "address": "Smiling Shaukeiwan Plaza, No 360A Shaukeiwan Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.021398,
+          22.440633
+        ]
+      },
+      "properties": {
+        "name": "Springdale Villas",
+        "address": "Springdale Villas, 80 Ma Tin Road, Yuen Long, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1929823,
+          22.3985002
+        ]
+      },
+      "properties": {
+        "name": "Sui Wo Court",
+        "address": "Shopping Centre, Sui Wo Court, Sui Wo Road, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1677623,
+          22.3259721
+        ]
+      },
+      "properties": {
+        "name": "Summit Insurance Building, Nathan Road",
+        "address": "Summit Insurance Building, No 789-793 Nathan Road, Mong Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1819743,
+          22.3714238
+        ]
+      },
+      "properties": {
+        "name": "Sun Chui Estate",
+        "address": "Sun Chui Estate, 2 Chui Tin Street, Shatin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1974398,
+          22.3771304
+        ]
+      },
+      "properties": {
+        "name": "Sun Tin Wai Estate",
+        "address": "Sun Tin Wai Shopping Centre, Sun Tin Wai Estate, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9658671,
+          22.3807222
+        ]
+      },
+      "properties": {
+        "name": "Sun Tuen Mun Centre",
+        "address": "Sun Tuen Mun Centre, 55-65 Lung Mun Road, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1584732,
+          22.3372904
+        ]
+      },
+      "properties": {
+        "name": "Sunlight Building, Shun Ning Road",
+        "address": "Sunlight Building, 273 Shun Ning Road, Cheung Sha Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1776086,
+          22.3750783
+        ]
+      },
+      "properties": {
+        "name": "Tai Wai Road",
+        "address": "Yuet On Building, 49-53 Tai Wai Road, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1665548,
+          22.4473678
+        ]
+      },
+      "properties": {
+        "name": "Tai Wing Lane",
+        "address": "Foon Lok Building, 16-22 Tai Wing Lane, Tai Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1230799,
+          22.366591
+        ]
+      },
+      "properties": {
+        "name": "Tai Wo Hau Commerical Centre 2",
+        "address": "Tai Wo Hau Commercial Centre 2, Shek Tau Street, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.259396,
+          22.310903
+        ]
+      },
+      "properties": {
+        "name": "Tak Tin Shopping Centre",
+        "address": "Tak Tin Shopping Centre, Tak Tin Estate, Lam Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Tin Ma Court",
+        "address": "Tin Ma Court Commercial Centre, Lung Cheung Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1241947,
+          22.4948004
+        ]
+      },
+      "properties": {
+        "name": "Tin Ping Estate",
+        "address": "Tin Ping Estate Shopping Centre, Sheung Shui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0028987,
+          22.4488023
+        ]
+      },
+      "properties": {
+        "name": "Tin Shing Court",
+        "address": "Tin Shing Shopping Centre, Tin Shing Court, Tin Shui Wai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9984383,
+          22.4561363
+        ]
+      },
+      "properties": {
+        "name": "Tin Shui Shopping Centre",
+        "address": "Tin Shui Shopping Centre, 9 Tin Shui Road, Tin Shui Wai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1496302,
+          22.2500719
+        ]
+      },
+      "properties": {
+        "name": "Tin Wan Estate",
+        "address": "Tin Wan Shopping Centre, Tin Wan Estate, Tin Wan Street, Aberdeen, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.00217,
+          22.45222
+        ]
+      },
+      "properties": {
+        "name": "Tin Yiu Plaza",
+        "address": "Tin Yiu Plaza, Tin Yiu Estate, Tin Shui Wai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9779248,
+          22.4024246
+        ]
+      },
+      "properties": {
+        "name": "Tseng Choi Street",
+        "address": "Kam Men Mansion, No 15 Tseng Choi Street, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1082083,
+          22.3343524
+        ]
+      },
+      "properties": {
+        "name": "Tsing Yi Garden",
+        "address": "Tsing Yi Square, 7-19 Tsing Luk Street, Tsing Yi, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Tsui Chuk Garden",
+        "address": "Tsui Chuk Commercial Complex, Chuk Yuen, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2489873,
+          22.3226864
+        ]
+      },
+      "properties": {
+        "name": "Tsui Lam Estate",
+        "address": "Tsui Lam Shopping Centre, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.200412,
+          22.3515518
+        ]
+      },
+      "properties": {
+        "name": "Tsz Ching Estate",
+        "address": "Tsz Ching Shopping Centre II, Tsz Ching Estate, Tsz Wan Shan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2005978,
+          22.3482096
+        ]
+      },
+      "properties": {
+        "name": "Tsz Wan Shan Shopping Centre",
+        "address": "Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Tsz Wan Shan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1899161,
+          22.3220848
+        ]
+      },
+      "properties": {
+        "name": "Tung Nam Factory Building, Ma Tau Kok Road",
+        "address": "Tung Nam Factory Building, 40 Ma Tau Kok Road, To Kwa Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1934922,
+          22.3327236
+        ]
+      },
+      "properties": {
+        "name": "Tung Tau Estate",
+        "address": "Hong Tung House, Tung Tau Estate, Wong Tai Sin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2211477,
+          22.2813028
+        ]
+      },
+      "properties": {
+        "name": "Upper East 18",
+        "address": "18 Upper East, No 18-36 Shing On Street, Sai Wan Ho, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.169509,
+          22.444039
+        ]
+      },
+      "properties": {
+        "name": "Uptown Plaza",
+        "address": "Uptown Plaza, 9 Nam Wan Road, Tai Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1961394,
+          22.3973884
+        ]
+      },
+      "properties": {
+        "name": "Valiant Industrial Centre, Fo Tan",
+        "address": "Valiant Industrial Centre, 2-12 Au Pui Wan Street, Fo Tan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2559063,
+          22.3225934
+        ]
+      },
+      "properties": {
+        "name": "Verbena Heights",
+        "address": "Verbena Heights, 8 Mau Tai Road, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1392186,
+          22.2496493
+        ]
+      },
+      "properties": {
+        "name": "Wah Kwai Estate",
+        "address": "Wah Kwai Shopping Centre, Wah Kwai Estate, Wah Lung Path, Aberdeen, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1419504,
+          22.4879076
+        ]
+      },
+      "properties": {
+        "name": "Wah Sum Estate",
+        "address": "Wah Sum Shopping Centre, Wah Sum Estate, 18 Yat Ming Road, Fanling, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1919717,
+          22.317928
+        ]
+      },
+      "properties": {
+        "name": "Wai Hang Cheong",
+        "address": "Portion of Arcade Shop, Hang Chien Court, 108 Mei King Street, To Kwa Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.187083,
+          22.380828
+        ]
+      },
+      "properties": {
+        "name": "Wai Wah Centre",
+        "address": "Wai Wah Centre, 11-17 Sha Tin Centre Street, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9782,
+          22.391902
+        ]
+      },
+      "properties": {
+        "name": "Waldorf Garden",
+        "address": "2B-4A & 2B-5, Waldorf Garden, 1 Tuen Lee Street, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.239437,
+          22.265036
+        ]
+      },
+      "properties": {
+        "name": "Walton Estate",
+        "address": "Walton Estate, Yee Shing Street, Chai Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1866336,
+          22.340641
+        ]
+      },
+      "properties": {
+        "name": "Wang Fai Centre",
+        "address": "Wang Fai Centre, Wang Tau Hom Estate, Fu Mei Street, Wang Tau Hom, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1143008,
+          22.3638311
+        ]
+      },
+      "properties": {
+        "name": "Waterside Plaza",
+        "address": "Waterside Plaza, 38 Wing Shun Street, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.140758,
+          22.286575
+        ]
+      },
+      "properties": {
+        "name": "Western Garden",
+        "address": "Western Garden, 84-84A First Street, Sai Ying Pun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1626534,
+          22.3332304
+        ]
+      },
+      "properties": {
+        "name": "Wing Shing Building, Yen Chow Street",
+        "address": "Wing Shing Building, 116 Yen Chow Street, Sham Shui Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.235589,
+          22.307152
+        ]
+      },
+      "properties": {
+        "name": "Wong Tai Sin Shopping Centre",
+        "address": "Wong Tai Sin Shopping Centre, Wong Tai Sin Estate, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1932135,
+          22.2782766
+        ]
+      },
+      "properties": {
+        "name": "Wun Sha Tower",
+        "address": "Wun Sha Tower, No 33-45 Wun Sha Street, Tai Hang, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.975941,
+          22.396487
+        ]
+      },
+      "properties": {
+        "name": "Yan Oi Tong Jockey Club Community",
+        "address": "18 Kai Man Path, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.237053,
+          22.2985562
+        ]
+      },
+      "properties": {
+        "name": "Yau Lai Shopping Centre",
+        "address": "Yau Lai Shopping Centre, No 9 Yau Tong Road, Yau Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1760992,
+          22.3202757
+        ]
+      },
+      "properties": {
+        "name": "Yee On Court",
+        "address": "Yee On Court, 124C-124D Argyle Street, Mong Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Yiu On Estate",
+        "address": "Yiu On Shopping Centre, Yiu On Estate, No 2 Hang Hong Street, Ma On Shan, Shatin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.205136,
+          22.380353
+        ]
+      },
+      "properties": {
+        "name": "Yu Chui Court",
+        "address": "Yu Chui Shopping Centre, Yu Chui Court, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0240858,
+          22.4443636
+        ]
+      },
+      "properties": {
+        "name": "Yuen Long Plaza",
+        "address": "Yuen Long Plaza, 249-251 Castle Peak Road, Yuen Long, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15445,
+          22.248275
+        ]
+      },
+      "properties": {
+        "name": "Aberdeen Centre",
+        "address": "Aberdeen Centre, 13-23 Nam Ning Street, Aberdeen, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.216218,
+          22.323976
+        ]
+      },
+      "properties": {
+        "name": "Amoy Plaza",
+        "address": "Amoy Plaza, Phase I, 77 Ngau Tau Kok Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1454914,
+          22.501173
+        ]
+      },
+      "properties": {
+        "name": "Belair Monte",
+        "address": "Belair Monte, 3 Ma Sik Road, Fanling, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1313733,
+          22.2852054
+        ]
+      },
+      "properties": {
+        "name": "Belcher's Street",
+        "address": "17-35 Belcher's Street & 36 - 38 Kennedy Town Praya, Kennedy Town, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1202205,
+          22.3706047
+        ]
+      },
+      "properties": {
+        "name": "Belvedere Garden",
+        "address": "Belvedere Garden Phase 3, 625 Castle Peak Road, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.107261,
+          22.358487
+        ]
+      },
+      "properties": {
+        "name": "Cheung Fat Estate",
+        "address": "Cheung Fat Plaza, Cheung Fat Estate, Tsing Yi, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1388261,
+          22.257928
+        ]
+      },
+      "properties": {
+        "name": "Chi Fu Superstore",
+        "address": "Chi Fu Landmark Pok Fu Lam, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.125776,
+          22.500708
+        ]
+      },
+      "properties": {
+        "name": "Choi Yuen Plaza",
+        "address": "Choi Yuen Plaza, Choi Yuen Estate, Sheung Shui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.997919,
+          22.462461
+        ]
+      },
+      "properties": {
+        "name": "Chung Fu Superstore",
+        "address": "Chung Fu Plaza Stage 2, Tin Fu Court, 33 Tin Wah Road, Tin Shui Wai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Chung Hwa Building, Ma Hang Chung",
+        "address": "Chung Hwa Building, Nos 3A-3C Ma Hang Chung Road, To Ka Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2617571,
+          22.3069383
+        ]
+      },
+      "properties": {
+        "name": "Commercial Complex, Park Island",
+        "address": "Commercial Complex, Park Island, Ma Wan Island, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1116067,
+          22.3763797
+        ]
+      },
+      "properties": {
+        "name": "Discovery Park",
+        "address": "Discovery Park, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.139073,
+          22.492937
+        ]
+      },
+      "properties": {
+        "name": "Fanling Superstore",
+        "address": "Fanling Town Centre, 18 Fanling Station Road, Fanling, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1278523,
+          22.3604769
+        ]
+      },
+      "properties": {
+        "name": "Hang King Shopping Arcade",
+        "address": "Hang King Shopping Arcade, Hang King Garden, 9 Wing Fong Road, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.213055,
+          22.32233
+        ]
+      },
+      "properties": {
+        "name": "Hau Tak Estate",
+        "address": "Hau Tak Shopping Centre, Hau Tak Estate, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2029268,
+          22.2919191
+        ]
+      },
+      "properties": {
+        "name": "Healthy Garden",
+        "address": "Fitfort, Healthy Garden, 560 King’s Road, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Heng Fa Chuen",
+        "address": "West Wing, Heng Fa Chuen Shopping Centre, Heng Fa Chuen, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2504921,
+          22.2666145
+        ]
+      },
+      "properties": {
+        "name": "Island Resort",
+        "address": "Island Resort Mall, 28 Siu Sai Wan Rd, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1669263,
+          22.3346493
+        ]
+      },
+      "properties": {
+        "name": "Kam Yuck Building, Wai Chi Lane",
+        "address": "Kam Yuck Building, No 2 Wai Chi Lane, Sham Shui Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.148033,
+          22.337265
+        ]
+      },
+      "properties": {
+        "name": "Kau Wah Keng Superstore",
+        "address": "The Household Centre, Nob Hill, 8 King Lai Path, Kau Wah Keng, Lai Chi Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.004134,
+          22.457249
+        ]
+      },
+      "properties": {
+        "name": "Kingswood Ginza",
+        "address": "Harbour Plaza Resort City Tower 1, Kingswood Villas, 12 - 18 Tin Yan Road, Tin Shui Wai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2158703,
+          22.2850769
+        ]
+      },
+      "properties": {
+        "name": "Kornhill Plaza",
+        "address": "Wet Market, Portion of Mezzanine Floor, Kornhill Plaza (North), 1 Kornhill Rd, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2279975,
+          22.3068298
+        ]
+      },
+      "properties": {
+        "name": "Laguna Plaza",
+        "address": "Laguna Plaza, Laguna City, 88 Cha Kwo Ling Road, Kwun Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.963784,
+          22.408183
+        ]
+      },
+      "properties": {
+        "name": "Leung King Estate",
+        "address": "Leung King Shopping Centre, 31 Tin King Road, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.191239,
+          22.382688
+        ]
+      },
+      "properties": {
+        "name": "Lucky Plaza Superstore",
+        "address": "Lucky Plaza, 1-15 Wang Pok Street, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2310624,
+          22.4253282
+        ]
+      },
+      "properties": {
+        "name": "Ma On Shan Plaza",
+        "address": "Ma On Shan Plaza, 608 Sai Sha Road, Ma On Shan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1468151,
+          22.2437659
+        ]
+      },
+      "properties": {
+        "name": "Marina Square",
+        "address": "Marina Square, South Horizon, Ap Lei Chau, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1402195,
+          22.3366356
+        ]
+      },
+      "properties": {
+        "name": "Mei Foo Plaza",
+        "address": "Shopping Centre, No 69-119 Broadway, Stage IV, Mei Foo Sun Chuen, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2592728,
+          22.3225615
+        ]
+      },
+      "properties": {
+        "name": "Metro City",
+        "address": "Metro City Phase II, 8 Yan King Road, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.251991,
+          22.304119
+        ]
+      },
+      "properties": {
+        "name": "Metro Town",
+        "address": "Metro Town, 8 King Ling Road, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2020839,
+          22.3406515
+        ]
+      },
+      "properties": {
+        "name": "Plaza Hollywood",
+        "address": "Plaza Hollywood, Diamond Hill, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.236095,
+          22.317809
+        ]
+      },
+      "properties": {
+        "name": "Po Tat Shopping Centre",
+        "address": "Po Tat Shopping Centre, Sau Mau Ping, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.195394,
+          22.291975
+        ]
+      },
+      "properties": {
+        "name": "Provident Centre Homeworld",
+        "address": "Homeworld, Provident Centre, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2335701,
+          22.3069951
+        ]
+      },
+      "properties": {
+        "name": "Sceneway Plaza",
+        "address": "Sceneway Plaza, 8 Sceneway Road, Lam Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20305,
+          22.386894
+        ]
+      },
+      "properties": {
+        "name": "Sha Tin City One",
+        "address": "Ngan Shing Commercial Centre, Sha Tin City One, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.259396,
+          22.310903
+        ]
+      },
+      "properties": {
+        "name": "Sheung Tak Estate",
+        "address": "Sheung Tak Shopping Centre, Sheung Tak Estate, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1213304,
+          22.368726
+        ]
+      },
+      "properties": {
+        "name": "Smartland",
+        "address": "Smartland, Tsuen Wah Street, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.128118,
+          22.283279
+        ]
+      },
+      "properties": {
+        "name": "Smithfield Road",
+        "address": "Smithfield Road, Kennedy Town, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.171077,
+          22.458008
+        ]
+      },
+      "properties": {
+        "name": "Tai Po Centre",
+        "address": "Tai Po Shopping Centre, Tai Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1623052,
+          22.4518708
+        ]
+      },
+      "properties": {
+        "name": "Tai Wo Estate",
+        "address": "Tai Wo Shopping Centre Phase 1, Tai Wo Estate, Kai Wo Road, Tai Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.197224,
+          22.335078
+        ]
+      },
+      "properties": {
+        "name": "Tseuk Luk Street",
+        "address": "No 86 Tseuk Luk Street, San Po Kong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.108169,
+          22.37898
+        ]
+      },
+      "properties": {
+        "name": "Tsuen Wan Centre, Tsuen King Circuit",
+        "address": "Tsuen Wan Centre, 88 Tsuen King Circuit, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1371404,
+          22.2865041
+        ]
+      },
+      "properties": {
+        "name": "Wah Ming Centre",
+        "address": "Wah Ming Centre, No 421 Queen’s Road West, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.239784,
+          22.26404
+        ]
+      },
+      "properties": {
+        "name": "Walton Estate",
+        "address": "Walton Estate, Chai Wan Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1907003,
+          22.3057531
+        ]
+      },
+      "properties": {
+        "name": "Whampoa Garden Site 12",
+        "address": "Homeworld, Wonderful Worlds of Whampoa, Tak Hong Street, Hung Hom, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1922,
+          22.3039
+        ]
+      },
+      "properties": {
+        "name": "Whampoa Garden Site 3",
+        "address": "Whampoa Garden, Hung Hom, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13234,
+          22.367665
+        ]
+      },
+      "properties": {
+        "name": "87-89 Wo Tong Tsui Street",
+        "address": "87-89 Wo Tong Tsui Street, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2029199,
+          22.3315397
+        ]
+      },
+      "properties": {
+        "name": "Ching Long Shopping Centre",
+        "address": "Ching Long Shopping Centre City, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1887499,
+          22.3173128
+        ]
+      },
+      "properties": {
+        "name": "Chung Shun Building, Kowloon City Road",
+        "address": "Chung Shun Bldg, No 56B & 56C Kowloon City Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.161086,
+          22.321578
+        ]
+      },
+      "properties": {
+        "name": "Cosmopolitan Estate, Ivy Street",
+        "address": "Tai Shing Building (Block H of Cosmopolitan Estate), Nos 70-86 Ivy Street, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1394067,
+          22.3700567
+        ]
+      },
+      "properties": {
+        "name": "Kwai Fat Building, Shek Yam Road",
+        "address": "Kwai Fat Building, No 98 Shek Yam Road, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1600393,
+          22.3292336
+        ]
+      },
+      "properties": {
+        "name": "Kweilin Street",
+        "address": "No 75 Kweilin Street, Sham Shui Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1263314,
+          22.3500305
+        ]
+      },
+      "properties": {
+        "name": "Lai King Estate",
+        "address": "Ming King House, Lai King Estate, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1757943,
+          22.3773267
+        ]
+      },
+      "properties": {
+        "name": "Mei Lam Estate",
+        "address": "Mei Lam Shopping Centre, Mei Lam Estate, 30 Mei Tin Road, Tai Wai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.222306,
+          22.546612
+        ]
+      },
+      "properties": {
+        "name": "Sha Tau Kok Chuen",
+        "address": "Sha Tau Kok Chuen, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.157949,
+          22.337697
+        ]
+      },
+      "properties": {
+        "name": "Shun Ning Road",
+        "address": "No 281 Shun Ning Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2280672,
+          22.3154267
+        ]
+      },
+      "properties": {
+        "name": "Wo Lok Estate",
+        "address": "Ping On House, Wo Lok Estate, Kwun Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2449937,
+          22.4030699
+        ]
+      },
+      "properties": {
+        "name": "Yan On Estate",
+        "address": "Yan On shopping Centre, Yan On Estate, Ma On Shan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.198498,
+          22.291568
+        ]
+      },
+      "properties": {
+        "name": "Yen Dack Building, Chun Yeung Street",
+        "address": "Ground Floor, Yen Dack Building, Nos 93-101, 105-113 Chun Yeung Street, Nos 7A & 7B Tong Shui Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2015325,
+          22.3466396
+        ]
+      },
+      "properties": {
+        "name": "Yuk Wah Crescent",
+        "address": "Ming Fung Mansion, Nos 12 & 14 Yuk Wah Crescent, Tsz Wan Shan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1323001,
+          22.262071
+        ]
+      },
+      "properties": {
+        "name": "Baguio Villa",
+        "address": "Baguio Villa, 550 Victoria Road, Pok Fu Lam, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.141822,
+          22.2848198
+        ]
+      },
+      "properties": {
+        "name": "Bonham Road",
+        "address": "Wing Cheong Court, 37-47 Bonham Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.949882,
+          22.29212
+        ]
+      },
+      "properties": {
+        "name": "Caribbean Coast",
+        "address": "Caribbean Bazaar, 1 Kin Tung Road, Tung Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1933064,
+          22.272682
+        ]
+      },
+      "properties": {
+        "name": "Chun Fai Road",
+        "address": "Chun Fai Centre, No 9 Chun Fai Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1290719,
+          22.2679201
+        ]
+      },
+      "properties": {
+        "name": "Cyberport",
+        "address": "Service Annex, Cyberport, Pok Fu Lam, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1486962,
+          22.2859623
+        ]
+      },
+      "properties": {
+        "name": "Fook Sing Court",
+        "address": "Entrance Lobby, 378 Fook Sing Court, Queen's Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1771442,
+          22.299555
+        ]
+      },
+      "properties": {
+        "name": "Hilton Tower",
+        "address": "Hilton Towers, 96 Granville Road, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1690628,
+          22.4474938
+        ]
+      },
+      "properties": {
+        "name": "Hong Lok Yuen",
+        "address": "Hong Lok Yuen Commercial Centre, Tai Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20234,
+          22.291181
+        ]
+      },
+      "properties": {
+        "name": "Island Place",
+        "address": "Island Place, 500 King's Road, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.223924,
+          22.283681
+        ]
+      },
+      "properties": {
+        "name": "Lei King Wan",
+        "address": "Lei King Wan, 25D Tai On Street, Sai Wan Ho, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1210974,
+          22.3695266
+        ]
+      },
+      "properties": {
+        "name": "Luk Yeung Sun Chuen",
+        "address": "Market Luk Yeung Sun Chuen, No 22-26 Wai Tsuen Road, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1724068,
+          22.2982961
+        ]
+      },
+      "properties": {
+        "name": "Manson House",
+        "address": "Manson House, 74-78 Nathan Road, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.183191,
+          22.302663
+        ]
+      },
+      "properties": {
+        "name": "Metropolis",
+        "address": "Metropolis Mall, 6 Metropolis Drive, Hung Hom Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1653072,
+          22.317701
+        ]
+      },
+      "properties": {
+        "name": "Olympian City 3",
+        "address": "Olympian City 3 (The Hermitage), 1 Hoi Wang Road, Tai Kok Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9725126,
+          22.3908295
+        ]
+      },
+      "properties": {
+        "name": "On Ting Shopping Centre",
+        "address": "On Ting Shopping Centre, On Ting Estate, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.149868,
+          22.334453
+        ]
+      },
+      "properties": {
+        "name": "Pacifica Mall",
+        "address": "The Pacifica Mall, 9 Sham Shing Road, Lai Chi Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1924937,
+          22.2825531
+        ]
+      },
+      "properties": {
+        "name": "Pak Lee Mansion",
+        "address": "Pak Lee Mansion 6-8 King's Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1499227,
+          22.2703965
+        ]
+      },
+      "properties": {
+        "name": "Peak Galleria",
+        "address": "Peak Galleria, 118 Peak Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1290934,
+          22.5030033
+        ]
+      },
+      "properties": {
+        "name": "Sheung Shui Spot",
+        "address": "No 48 Lung Sum Avenue, Sheung Shui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.172816,
+          22.303837
+        ]
+      },
+      "properties": {
+        "name": "Tak Shing Street",
+        "address": "1-5 Tak Shing Street, Jordan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1672979,
+          22.4496045
+        ]
+      },
+      "properties": {
+        "name": "The Golden Gate, Plover Cove Road",
+        "address": "The Golden Gate, No 1 Plover Cove Road, Tai Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.171594,
+          22.2961788
+        ]
+      },
+      "properties": {
+        "name": "Universal Commercial Building, Peking Road",
+        "address": "Universal Commercial Building, 65-69 Peking Road, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1865722,
+          22.280413
+        ]
+      },
+      "properties": {
+        "name": "Windsor House",
+        "address": "Windsor House, 311 Gloucester Road, Causeway Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.934158,
+          22.298149
+        ]
+      },
+      "properties": {
+        "name": "Cathay City",
+        "address": "Cathay Pacific City International Airport, 8 Scenic Road, Chek Lap Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.12518,
+          22.502573
+        ]
+      },
+      "properties": {
+        "name": "Choi Yuen Estate",
+        "address": "Choi Yuen Shopping Centre, Choi Yuen Estate, Choi Yuen Road, Sheung Shui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1390859,
+          22.2826895
+        ]
+      },
+      "properties": {
+        "name": "H.K. University",
+        "address": "Room 204, Chong Yuet Ming Amenities Centre, The University of Hong Kong, Pok Fu Lam Road, Po Fu Lam, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1859204,
+          22.3186182
+        ]
+      },
+      "properties": {
+        "name": "Celestial Heights",
+        "address": "Celestrial Place, Celestial Heights, No 80 Sheung Shing Street, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.028452,
+          22.4426028
+        ]
+      },
+      "properties": {
+        "name": "Citimall, Yuen Long",
+        "address": "Citimall, 1 Kau Yuk Road, Yuen Long, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9405428,
+          22.2896486
+        ]
+      },
+      "properties": {
+        "name": "Citygate",
+        "address": "Citygate, No 20 Tat Tung Road, Tung Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.264659,
+          22.3165218
+        ]
+      },
+      "properties": {
+        "name": "East Point City",
+        "address": "East Point City, 8 Chung Wa Road, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.175444,
+          22.332693
+        ]
+      },
+      "properties": {
+        "name": "Festival Walk",
+        "address": "Festival Walk, Tat Chee Avenue, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1715708,
+          22.2747104
+        ]
+      },
+      "properties": {
+        "name": "Hopewell Centre",
+        "address": "Hopewell Centre, 183 Queen's Road East, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1083016,
+          22.3557491
+        ]
+      },
+      "properties": {
+        "name": "Maritime Square",
+        "address": "Maritime Square, 33 Tsing King Road, Tsing Yi, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1273968,
+          22.3571261
+        ]
+      },
+      "properties": {
+        "name": "Metro Plaza",
+        "address": "Metroplaza, 223 Hing Fong Road, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1617597,
+          22.3166563
+        ]
+      },
+      "properties": {
+        "name": "Olympian City 2",
+        "address": "Olympian City 2, 18 Hoi Ting Road, West Kowloon, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2134222,
+          22.218258
+        ]
+      },
+      "properties": {
+        "name": "Stanley Plaza",
+        "address": "Stanley Plaza, Ma Hang, Stanley, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.976655,
+          22.392641
+        ]
+      },
+      "properties": {
+        "name": "Tuen Mun Plaza",
+        "address": "Tuen Mun Town Plaza, Phase 2, 1 Tuen Shing Street, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1772835,
+          22.2794349
+        ]
+      },
+      "properties": {
+        "name": "AXA Centre",
+        "address": "AXA Centre, 151 Gloucester Road, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2680981,
+          22.3801203
+        ]
+      },
+      "properties": {
+        "name": "Centro, Chui Tong Road",
+        "address": "No 1A Chui Tong Road, Sai Kung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1862625,
+          22.3111211
+        ]
+      },
+      "properties": {
+        "name": "Chatham Gate",
+        "address": "Chatham Gate, No 388 Chatham Road North, To Kwa Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1562206,
+          22.2763632
+        ]
+      },
+      "properties": {
+        "name": "Coda Plaza, Garden Road",
+        "address": "Coda Plaza, 51 Garden Road, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0165583,
+          22.2952398
+        ]
+      },
+      "properties": {
+        "name": "Discovery Bay",
+        "address": "Discovery Bay Plaza, Discovery Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0443408,
+          22.4780591
+        ]
+      },
+      "properties": {
+        "name": "Fairview Park",
+        "address": "Town Centre, Fairview Park, Yuen Long, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1769119,
+          22.3199514
+        ]
+      },
+      "properties": {
+        "name": "Man Kee Mansion",
+        "address": "Man Kee Mansion, Waterloo Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Manhattan Heights",
+        "address": "Manhattan Heights, Cachick Street, Sai Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2568776,
+          22.3119357
+        ]
+      },
+      "properties": {
+        "name": "Ocean Shores",
+        "address": "Commercial Accomodation Phase 1, Ocean Shores, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1632339,
+          22.3205167
+        ]
+      },
+      "properties": {
+        "name": "Park Summit",
+        "address": "Park Summit, 88 Beech Street, Tai Kok Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.199174,
+          22.2569
+        ]
+      },
+      "properties": {
+        "name": "Park View",
+        "address": "88 Tai Tam Reservoir Road, Repulse Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0616976,
+          22.3676524
+        ]
+      },
+      "properties": {
+        "name": "Rhine Garden",
+        "address": "Rhine Garden Shopping Centre, 38 Castle Peak Road, Sham Tseng, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.199876,
+          22.400672
+        ]
+      },
+      "properties": {
+        "name": "Royal Ascot",
+        "address": "Plaza Ascot, Royal Ascot, Fo Tan, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1655064,
+          22.4423218
+        ]
+      },
+      "properties": {
+        "name": "Science Park",
+        "address": "S085 and S086, Harbour View 1, No 12 Science Park East Avenue, Phase 2 Science Park, Pak Shek Kok, Tai Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2718334,
+          22.3208118
+        ]
+      },
+      "properties": {
+        "name": "Silverstrand Mart",
+        "address": "Silverstrand Mart, Clear Water Bay, Sai Kung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15002,
+          22.2829852
+        ]
+      },
+      "properties": {
+        "name": "Tai Shing Building, Caine Road",
+        "address": "Tai Shing Building, 129-133 Caine Road, Sheung Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.191588,
+          22.3094404
+        ]
+      },
+      "properties": {
+        "name": "The Laguna Mall",
+        "address": "The Laguna Mall, 8 Laguna Verde Avenue, Hung Hom, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Tsang Yung Mansion",
+        "address": "Tsang Yung Mansion, 70 Waterloo Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1652079,
+          22.278546
+        ]
+      },
+      "properties": {
+        "name": "United Centre",
+        "address": "United Centre 95 Queensway, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.168837,
+          22.30264
+        ]
+      },
+      "properties": {
+        "name": "Victoria Mall, Canton Road",
+        "address": "Victoria Mall, No 188 Canton Road, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1845751,
+          22.2676056
+        ]
+      },
+      "properties": {
+        "name": "Village Road, Happy Valley",
+        "address": "Fine Mansion, 32-40 Village Road, Happy Valley, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2133691,
+          22.2867801
+        ]
+      },
+      "properties": {
+        "name": "Westlands Centre",
+        "address": "Westlands Centre, Westlands Road, Quarry Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1829035,
+          22.2776353
+        ]
+      },
+      "properties": {
+        "name": "Leighton Centre",
+        "address": "Leighton Centre, 77 Leighton Road, Causeway Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1653472,
+          22.2768237
+        ]
+      },
+      "properties": {
+        "name": "Pacific Place",
+        "address": "Two Pacific Place, Admiralty, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2375638,
+          22.2940736
+        ]
+      },
+      "properties": {
+        "name": "Domain",
+        "address": "Domain, 38 Ko Chiu Road, Yau Tong, Hong Kong"
+      }
+    }
+  ]
+}

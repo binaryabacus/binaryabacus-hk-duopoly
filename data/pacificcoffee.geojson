@@ -1,0 +1,1713 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1644322,
+          22.2764268
+        ]
+      },
+      "properties": {
+        "name": "British Council",
+        "address": "3 Supreme Court Road, Admiralty, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1636752,
+          22.2791796
+        ]
+      },
+      "properties": {
+        "name": "Lippo Centre",
+        "address": "Lippo Centre, 89 Queensway, Admiralty, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.152621,
+          22.2390604
+        ]
+      },
+      "properties": {
+        "name": "Shambala",
+        "address": "Shambala, Horizon Plaza, 2 Lee Wing Street, Ap Lei Chau, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1902876,
+          22.2862794
+        ]
+      },
+      "properties": {
+        "name": "Citicorp Centre",
+        "address": "Citicorp Centre, 18 Whitefield Road, Causeway Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1862702,
+          22.2788075
+        ]
+      },
+      "properties": {
+        "name": "Irving Street",
+        "address": "1-5 Irving Street, Causeway Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1837856,
+          22.2798058
+        ]
+      },
+      "properties": {
+        "name": "KPMG office",
+        "address": "KPMG office, Hysan Place, 500 Hennessy Road, Causeway Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1852544,
+          22.2787079
+        ]
+      },
+      "properties": {
+        "name": "Lee Gardens Two",
+        "address": "Lee Gardens Two, 28 Yun Ping Road, Causeway Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1870366,
+          22.2797295
+        ]
+      },
+      "properties": {
+        "name": "Pacific Coffee Emporium",
+        "address": "9 Kingston Street, Fashion Walk, Causeway Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1865722,
+          22.280413
+        ]
+      },
+      "properties": {
+        "name": "Windsor House",
+        "address": "Windsor House, 311 Gloucester Road, Causeway Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1545101,
+          22.2828588
+        ]
+      },
+      "properties": {
+        "name": "CafeSalon",
+        "address": "No 86 Wellington Street, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1574417,
+          22.2812167
+        ]
+      },
+      "properties": {
+        "name": "Central Building",
+        "address": "2/F Central Building, 1-3 Pedder Street, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1607,
+          22.2787
+        ]
+      },
+      "properties": {
+        "name": "Citibank Plaza",
+        "address": "Citibank Plaza, 3 Garden Road, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1564296,
+          22.2814535
+        ]
+      },
+      "properties": {
+        "name": "Entertainment Building",
+        "address": "Entertainment Building, 30 Queen's Road, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.157614,
+          22.2829894
+        ]
+      },
+      "properties": {
+        "name": "Grand Building",
+        "address": "Grand Building, 15-18 Connaught Road Central, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1562438,
+          22.2846221
+        ]
+      },
+      "properties": {
+        "name": "Hang Seng Bank",
+        "address": "Hang Seng Bank Headquarters Building, 83 Des Voeux Road, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.159539,
+          22.280308
+        ]
+      },
+      "properties": {
+        "name": "HSBC Main Building",
+        "address": "HSBC Main Building, 1 Queen's Road Central, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.159539,
+          22.280308
+        ]
+      },
+      "properties": {
+        "name": "",
+        "address": "HSBC Main Building, 1 Queen's Road Central, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.159539,
+          22.280308
+        ]
+      },
+      "properties": {
+        "name": "",
+        "address": "South Bay, HSBC Main Building, 1 Queen's Road Central, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1626069,
+          22.2810482
+        ]
+      },
+      "properties": {
+        "name": "Hutchison House",
+        "address": "Hutchison House, 10 Harcourt Road, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.153321,
+          22.282667
+        ]
+      },
+      "properties": {
+        "name": "Lyndhurst Terrace",
+        "address": "The Workstation, 43 Lyndhurst Terrace, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.151427,
+          22.280324
+        ]
+      },
+      "properties": {
+        "name": "Mosque Street",
+        "address": "22 Mosque Street, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1592342,
+          22.2776978
+        ]
+      },
+      "properties": {
+        "name": "St. John’s Building",
+        "address": "St John's Building, 33 Garden Road, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15474,
+          22.284609
+        ]
+      },
+      "properties": {
+        "name": "The Center",
+        "address": "The Center, 99 Queen's Road, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1528764,
+          22.275276
+        ]
+      },
+      "properties": {
+        "name": "The Peak Tower",
+        "address": "The Peak Tower, 128 Peak Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.156546,
+          22.281048
+        ]
+      },
+      "properties": {
+        "name": "8 Wyndham Street",
+        "address": "8 Wyndham Street, Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18664,
+          22.268343
+        ]
+      },
+      "properties": {
+        "name": "Sing Woo Road",
+        "address": "53 Sing Woo Road, Happy Valley, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.206137,
+          22.292281
+        ]
+      },
+      "properties": {
+        "name": "625 King's Road",
+        "address": "625 King's Road, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20234,
+          22.291181
+        ]
+      },
+      "properties": {
+        "name": "Island Place",
+        "address": "Island Place, 500 King's Road, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2047775,
+          22.2932357
+        ]
+      },
+      "properties": {
+        "name": "K. Wah Centre",
+        "address": "K Wah Centre, 191 Java Road, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.213358,
+          22.2861176
+        ]
+      },
+      "properties": {
+        "name": "DBS Bank",
+        "address": "DBS Bank, One Island East, 18 Westlands Road, Quarry Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.213776,
+          22.284818
+        ]
+      },
+      "properties": {
+        "name": "Fortis Centre",
+        "address": "Fortis Centre, 1063 King's Road, Quarry Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2108067,
+          22.2880734
+        ]
+      },
+      "properties": {
+        "name": "Hoi Kwong Street",
+        "address": "Tai Fung Building, 26 & 28 Hoi Kwong Street, Quarry Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2130328,
+          22.2863301
+        ]
+      },
+      "properties": {
+        "name": "Westlands Gardens",
+        "address": "Westlands Gardens, 12A-12H Westlands Road, Quarry Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.213338,
+          22.2861485
+        ]
+      },
+      "properties": {
+        "name": "One Island East",
+        "address": "Area A, One Island East, 18 Westlands Road, Quarry Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.223924,
+          22.283681
+        ]
+      },
+      "properties": {
+        "name": "Lei King Wan",
+        "address": "25 Tai On Street, Lei King Wan, Sai Wan Ho, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1481621,
+          22.2855449
+        ]
+      },
+      "properties": {
+        "name": "Hollywood Centre",
+        "address": "Hollywood Centre, 233 Hollywood Road, Sheung Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15355,
+          22.28528
+        ]
+      },
+      "properties": {
+        "name": "the L.plaza",
+        "address": "the Lplaza, 367-375 Queen's Road, Sheung Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1517914,
+          22.2879098
+        ]
+      },
+      "properties": {
+        "name": "Shun Tak Centre",
+        "address": "Shun Tak Centre, 200 Connaught Road Central, Sheung Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1536893,
+          22.286463
+        ]
+      },
+      "properties": {
+        "name": "Infinitus Plaza",
+        "address": "Infinitus Plaza, 199 Des Voeux Road Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.196213,
+          22.239155
+        ]
+      },
+      "properties": {
+        "name": "The Repulse Bay",
+        "address": "The Repulse Bay, 109 Repulse Bay Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.212889,
+          22.218461
+        ]
+      },
+      "properties": {
+        "name": "The Stanley",
+        "address": "80 Stanley Village Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.217719,
+          22.286944
+        ]
+      },
+      "properties": {
+        "name": "Cityplaza 5/F",
+        "address": "Cityplaza 1, Taikoo Shing, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1924124,
+          22.2837975
+        ]
+      },
+      "properties": {
+        "name": "King's Commercial Centre",
+        "address": "King's Commercial Centre, 25 King’s Road, Tin Hau, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1773299,
+          22.2738036
+        ]
+      },
+      "properties": {
+        "name": "AIA Building",
+        "address": "AIA Building, No1 Stubbs Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.176401,
+          22.2792687
+        ]
+      },
+      "properties": {
+        "name": "Allied Kajima Building",
+        "address": "Allied Kajima Building, 138 Gloucester Road, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1761456,
+          22.2802899
+        ]
+      },
+      "properties": {
+        "name": "Causeway Centre",
+        "address": "Causeway Centre, 28 Harbour Road, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1778408,
+          22.2777777
+        ]
+      },
+      "properties": {
+        "name": "CC Wu Building",
+        "address": "CC Wu Building, 302-308 Hennessy Road, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.173727,
+          22.2798732
+        ]
+      },
+      "properties": {
+        "name": "Central Plaza",
+        "address": "Central Plaza, 18 Harbour Road, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1706419,
+          22.2785189
+        ]
+      },
+      "properties": {
+        "name": "East Town Building",
+        "address": "East Town Building, 41 Lockhart Road, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1726781,
+          22.2788601
+        ]
+      },
+      "properties": {
+        "name": "Fortis Bank Tower",
+        "address": "Fortis Bank Tower, 77 - 79 Gloucester Road, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1748684,
+          22.281036
+        ]
+      },
+      "properties": {
+        "name": "Great Eagle Centre",
+        "address": "Great Eagle Centre, 23 Harbour Road, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1756812,
+          22.2770061
+        ]
+      },
+      "properties": {
+        "name": "Tai Yau Plaza",
+        "address": "Tai Yau Plaza, 181 Johnston Road, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1763354,
+          22.2761865
+        ]
+      },
+      "properties": {
+        "name": "The Vine Centre",
+        "address": "The Vine Centre, 29 Burrows Street, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Bonham Road",
+        "address": "Kam Ning Mansion, 13 & 15 Bonham Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Davis Street",
+        "address": "Luen Wai Apartments, Nos 136, 140 & 142 Belcher’s Street and Nos 7 & 7A Davis Street, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1354472,
+          22.2645749
+        ]
+      },
+      "properties": {
+        "name": "HKU, Swire Hall",
+        "address": "Global Lounge, Registry, The University of Hong Kong, Pok Fu Lam Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.183191,
+          22.302663
+        ]
+      },
+      "properties": {
+        "name": "Fortune Metropolis",
+        "address": "Atrium B1, Fortune Metropolis, 6 Metropolis Drive, Hung Hom, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1794674,
+          22.3051948
+        ]
+      },
+      "properties": {
+        "name": "Poly U",
+        "address": "Podium, Pao Yue-kong Library, The Hong Kong Polytechnic University, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1922,
+          22.3039
+        ]
+      },
+      "properties": {
+        "name": "Whampoa Garden",
+        "address": "Whampoa Garden, Hung Hom, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1743861,
+          22.3071831
+        ]
+      },
+      "properties": {
+        "name": "Queen Elizabeth Hospital",
+        "address": "Queen Elizabeth Hospital, 30 Gasscoigne Road, Jordan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2112792,
+          22.3221986
+        ]
+      },
+      "properties": {
+        "name": "Chevalier Engineering Service Centre",
+        "address": "Chevalier Engineering Service Centre, 21 Sheung Yuet Road, Kowloon Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2039416,
+          22.323968
+        ]
+      },
+      "properties": {
+        "name": "EMax",
+        "address": "EMax, 1 Trademart Drive, Kowloon Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2118365,
+          22.3156595
+        ]
+      },
+      "properties": {
+        "name": "Octa Tower",
+        "address": "Octa Tower, 8 Lam Chak Street, Kowloon Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.211002,
+          22.324276
+        ]
+      },
+      "properties": {
+        "name": "HKU SPACE",
+        "address": "HKU SPACE, Kowloon East Campus, 28 Wang Hoi Road, Kowloon Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2055206,
+          22.3264211
+        ]
+      },
+      "properties": {
+        "name": "Skyline Tower",
+        "address": "Skyline Tower, 39 Wang Kwong Road, Kowloon Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2091786,
+          22.3198993
+        ]
+      },
+      "properties": {
+        "name": "MegaBox",
+        "address": "MegaBox, Enterprise Square Five, 38 Wang Chiu Road, Kowloon Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2141193,
+          22.3255374
+        ]
+      },
+      "properties": {
+        "name": "Telford Plaza Phase 2",
+        "address": "Telford Plaza Phase 2, Kowloon Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.175444,
+          22.332693
+        ]
+      },
+      "properties": {
+        "name": "Festival Walk",
+        "address": "Festival Walk, Tat Chee Avenue, Kowloon Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.175444,
+          22.332693
+        ]
+      },
+      "properties": {
+        "name": "",
+        "address": "Festival Walk, Tat Chee Avenue, Kowloon Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1761688,
+          22.3352403
+        ]
+      },
+      "properties": {
+        "name": "Inno Centre",
+        "address": "Inno Centre, 72 Tat Chee Avenue, Kowloon Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.168536,
+          22.340143
+        ]
+      },
+      "properties": {
+        "name": "Run Run Shaw Creative Media Centre",
+        "address": "Run Run Shaw Creative Media Centre, City University of Hong Kong, 18 Tat Hong Avenue, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2252932,
+          22.3124122
+        ]
+      },
+      "properties": {
+        "name": "APM",
+        "address": "APM, Kwun Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2240966,
+          22.3072719
+        ]
+      },
+      "properties": {
+        "name": "Manulife Financial Centre",
+        "address": "Manulife Financial Centre, 223 Wai Yip Street, Kwun Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.222047,
+          22.313323
+        ]
+      },
+      "properties": {
+        "name": "Millennium City 6",
+        "address": "Office Lobby, Millennium City 6, 392 Kwun Tong Road, Kwun Tong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2279975,
+          22.3068298
+        ]
+      },
+      "properties": {
+        "name": "Laguna Plaza",
+        "address": "Laguna Plaza, 88 Cha Kwo Ling Road, Lam Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.170404,
+          22.324559
+        ]
+      },
+      "properties": {
+        "name": "Flower Market",
+        "address": "152A-D Prince Edward Road West, Mong Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1720817,
+          22.3229802
+        ]
+      },
+      "properties": {
+        "name": "Grand Century Place",
+        "address": "Grand Century Place, 193 Prince Edward Road West, MongKok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1610742,
+          22.3188296
+        ]
+      },
+      "properties": {
+        "name": "HSBC Centre",
+        "address": "HSBC Centre, 1 Sham Mong Road, Tai Kok Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16796,
+          22.31824
+        ]
+      },
+      "properties": {
+        "name": "Langham Place",
+        "address": "Langham Place, Mong Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1639371,
+          22.3174202
+        ]
+      },
+      "properties": {
+        "name": "Olympian City 3",
+        "address": "Olympian City 3, 1 Hoi Wang Road, Mong Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1757508,
+          22.312505
+        ]
+      },
+      "properties": {
+        "name": "Tung Wah College",
+        "address": "Tung Wah College, 31 Wylie Road, Ho Man Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1457004,
+          22.3384755
+        ]
+      },
+      "properties": {
+        "name": "9 Wing Hong Street",
+        "address": "Lobby, 9 Wing Hong Street, Cheung Sha Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "Manhattan Mid-Town",
+        "address": "Manhattan Mid-Town, 1 Po Lun Street, Meifoo, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1726391,
+          22.2958616
+        ]
+      },
+      "properties": {
+        "name": "26 Nathan Road",
+        "address": "26 Nathan Road, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1678504,
+          22.3007936
+        ]
+      },
+      "properties": {
+        "name": "China Hong Kong City",
+        "address": "Tower 1, China Hong Kong City, 33 Canton Road, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1783981,
+          22.2982675
+        ]
+      },
+      "properties": {
+        "name": "Empire Centre",
+        "address": "Empire Centre, 68 Mody Road Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1502,
+          22.287723
+        ]
+      },
+      "properties": {
+        "name": "Harbour City",
+        "address": "Ocean Terminal, Harbour City, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.172221,
+          22.3009412
+        ]
+      },
+      "properties": {
+        "name": "Miramar Shopping Centre",
+        "address": "Miramar Shopping Centre, 132 Nathan Road, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.169373,
+          22.297667
+        ]
+      },
+      "properties": {
+        "name": "Silvercord",
+        "address": "Shopping Arcade, Silvercord, 30 Canton Road, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1726855,
+          22.2998217
+        ]
+      },
+      "properties": {
+        "name": "The One",
+        "address": "The One, 100 Nathan Road, Tsim Sha Tsui, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1325091,
+          22.3614854
+        ]
+      },
+      "properties": {
+        "name": "Kowloon Commerce Centre",
+        "address": "Tower 1, Kowloon Commerce Centre, 51 Kwai Cheong Road, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1350173,
+          22.3618749
+        ]
+      },
+      "properties": {
+        "name": "Princess Margaret Hospital",
+        "address": "Main Block, Princess Margaret Hospital, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1276543,
+          22.3574288
+        ]
+      },
+      "properties": {
+        "name": "Metroplaza",
+        "address": "Metroplaza, Kwai Fong, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.136906,
+          22.351746
+        ]
+      },
+      "properties": {
+        "name": "Wonderland Villas",
+        "address": "9 Wah King Hill Road, Kwai Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0640849,
+          22.3527556
+        ]
+      },
+      "properties": {
+        "name": "Park Island",
+        "address": "Park Island - Pier, Ma Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1974398,
+          22.3771304
+        ]
+      },
+      "properties": {
+        "name": "HomeSquare",
+        "address": "HomeSquare, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2005758,
+          22.3808902
+        ]
+      },
+      "properties": {
+        "name": "Hong Kong Science Park",
+        "address": "Hong Kong Science Park, Pak Shek Kok, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "HSBC Data Centre Building",
+        "address": "HSBC Data Centre Building, 8 On Kwan Street, Shek Mun, Shatin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.187849,
+          22.381714
+        ]
+      },
+      "properties": {
+        "name": "New Town Plaza",
+        "address": "New Town Plaza, Phase I, Sha Tin, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1972335,
+          22.4704144
+        ]
+      },
+      "properties": {
+        "name": "The Hong Kong Institute of Education",
+        "address": "Learning Commons, The Hong Kong Institute of Education, 10 Lo Ping Road, Tai Po, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.265007,
+          22.316905
+        ]
+      },
+      "properties": {
+        "name": "East Point City",
+        "address": "Area C, East Point City, 8 Chung Wa Road, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.254184,
+          22.306143
+        ]
+      },
+      "properties": {
+        "name": "Hong Kong Design Institute and Hong Kong Institute of Vocational Education (Lee Wai Lee)",
+        "address": "Hong Kong Design Institute and Hong Kong Institute of Vocational Education (Lee Wai Lee), 3 King Ling Rd, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2568776,
+          22.3119357
+        ]
+      },
+      "properties": {
+        "name": "HSBC Building Tseung Kwan O",
+        "address": "HSBC Building Tseung Kwan O, 2 Chun Sing Street, Tseung Kwan O Industrial Estate, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2571368,
+          22.3241635
+        ]
+      },
+      "properties": {
+        "name": "Metro City",
+        "address": "Metro City Phase II, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.257989,
+          22.307763
+        ]
+      },
+      "properties": {
+        "name": "Park Central",
+        "address": "9 Tong Tak Street, Tseung Kwan O, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1130002,
+          22.368746
+        ]
+      },
+      "properties": {
+        "name": "Nina Tower",
+        "address": "Nina Tower, 8 Yeung Uk Road, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1113664,
+          22.3705677
+        ]
+      },
+      "properties": {
+        "name": "Tsuen Wan Plaza",
+        "address": "Open Café B, Tsuen Wan Plaza, 4-30 Tai Pa Street, Tsuen Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9932306,
+          22.3722635
+        ]
+      },
+      "properties": {
+        "name": "Hong Kong Gold Coast Piazza",
+        "address": "Hong Kong Gold Coast Piazza, 1 Castle Peak Road, Tuen Mun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0443408,
+          22.4780591
+        ]
+      },
+      "properties": {
+        "name": "Fairview Park",
+        "address": "Town Centre, Fairview Park, Yuen Long, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9411831,
+          22.3218126
+        ]
+      },
+      "properties": {
+        "name": "Asia World-Expo",
+        "address": "Asia World Expo, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9411831,
+          22.3218126
+        ]
+      },
+      "properties": {
+        "name": "",
+        "address": "Asia World-Expo, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9411831,
+          22.3218126
+        ]
+      },
+      "properties": {
+        "name": "",
+        "address": "Asia World-Expo, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9411831,
+          22.3218126
+        ]
+      },
+      "properties": {
+        "name": "",
+        "address": "Asia World-Expo, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9411831,
+          22.3218126
+        ]
+      },
+      "properties": {
+        "name": "Discovery Bay Ferry Pier",
+        "address": "Asia World-Expo, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.017773,
+          22.29679
+        ]
+      },
+      "properties": {
+        "name": "",
+        "address": "Discovery Bay Ferry Pier, Discovery Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0165583,
+          22.2952398
+        ]
+      },
+      "properties": {
+        "name": "Airport Gate 28",
+        "address": "Discovery Bay Plaza, Discovery Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9184808,
+          22.308047
+        ]
+      },
+      "properties": {
+        "name": "Skyplaza",
+        "address": "Airport Gate 28, Passenger Terminal Building, Hong Kong International Airport, Chek Lap Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.936618,
+          22.314559
+        ]
+      },
+      "properties": {
+        "name": "",
+        "address": "South Concourse, Terminal 1, Hong Kong International Airport, Chep Lap Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9377118,
+          22.3163316
+        ]
+      },
+      "properties": {
+        "name": "Mui Wo Pier",
+        "address": "Skyplaza, Terminal 2, Hong Kong International Airport, Chek Lap Kok, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9982525,
+          22.260484
+        ]
+      },
+      "properties": {
+        "name": "Citygate outlets",
+        "address": "Lower Deck, Mui Wo Pier, Mui Wo, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9405428,
+          22.2896486
+        ]
+      },
+      "properties": {
+        "name": "Kiang Wu Hospital",
+        "address": "Citygate outlets, 20 Tat Tung Road, Tung Chung, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "name": "City of Dreams - Dancing Water Boulevard",
+        "address": "Travessa dos Anjos 16, EdfTin Fook G FL, Hong Kong"
+      }
+    }
+  ]
+}

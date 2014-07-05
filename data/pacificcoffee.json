@@ -1,0 +1,734 @@
+[
+  {
+    "name": "British Council",
+    "address": "3 Supreme Court Road, Admiralty, Hong Kong",
+    "lat": 22.2764268,
+    "lng": 114.1644322
+  },
+  {
+    "name": "Lippo Centre",
+    "address": "Lippo Centre, 89 Queensway, Admiralty, Hong Kong",
+    "lat": 22.2791796,
+    "lng": 114.1636752
+  },
+  {
+    "name": "Shambala",
+    "address": "Shambala, Horizon Plaza, 2 Lee Wing Street, Ap Lei Chau, Hong Kong",
+    "lat": 22.2390604,
+    "lng": 114.152621
+  },
+  {
+    "name": "Citicorp Centre",
+    "address": "Citicorp Centre, 18 Whitefield Road, Causeway Bay, Hong Kong",
+    "lat": 22.2862794,
+    "lng": 114.1902876
+  },
+  {
+    "name": "Irving Street",
+    "address": "1-5 Irving Street, Causeway Bay, Hong Kong",
+    "lat": 22.2788075,
+    "lng": 114.1862702
+  },
+  {
+    "name": "KPMG office",
+    "address": "KPMG office, Hysan Place, 500 Hennessy Road, Causeway Bay, Hong Kong",
+    "lat": 22.2798058,
+    "lng": 114.1837856
+  },
+  {
+    "name": "Lee Gardens Two",
+    "address": "Lee Gardens Two, 28 Yun Ping Road, Causeway Bay, Hong Kong",
+    "lat": 22.2787079,
+    "lng": 114.1852544
+  },
+  {
+    "name": "Pacific Coffee Emporium",
+    "address": "9 Kingston Street, Fashion Walk, Causeway Bay, Hong Kong",
+    "lat": 22.2797295,
+    "lng": 114.1870366
+  },
+  {
+    "name": "Windsor House",
+    "address": "Windsor House, 311 Gloucester Road, Causeway Bay, Hong Kong",
+    "lat": 22.280413,
+    "lng": 114.1865722
+  },
+  {
+    "name": "CafeSalon",
+    "address": "No 86 Wellington Street, Central, Hong Kong",
+    "lat": 22.2828588,
+    "lng": 114.1545101
+  },
+  {
+    "name": "Central Building",
+    "address": "2/F Central Building, 1-3 Pedder Street, Central, Hong Kong",
+    "lat": 22.2812167,
+    "lng": 114.1574417
+  },
+  {
+    "name": "Citibank Plaza",
+    "address": "Citibank Plaza, 3 Garden Road, Central, Hong Kong",
+    "lat": 22.2787,
+    "lng": 114.1607
+  },
+  {
+    "name": "Entertainment Building",
+    "address": "Entertainment Building, 30 Queen's Road, Central, Hong Kong",
+    "lat": 22.2814535,
+    "lng": 114.1564296
+  },
+  {
+    "name": "Grand Building",
+    "address": "Grand Building, 15-18 Connaught Road Central, Central, Hong Kong",
+    "lat": 22.2829894,
+    "lng": 114.157614
+  },
+  {
+    "name": "Hang Seng Bank",
+    "address": "Hang Seng Bank Headquarters Building, 83 Des Voeux Road, Central, Hong Kong",
+    "lat": 22.2846221,
+    "lng": 114.1562438
+  },
+  {
+    "name": "HSBC Main Building",
+    "address": "HSBC Main Building, 1 Queen's Road Central, Central, Hong Kong",
+    "lat": 22.280308,
+    "lng": 114.159539
+  },
+  {
+    "name": "",
+    "address": "HSBC Main Building, 1 Queen's Road Central, Central, Hong Kong",
+    "lat": 22.280308,
+    "lng": 114.159539
+  },
+  {
+    "name": "",
+    "address": "South Bay, HSBC Main Building, 1 Queen's Road Central, Central, Hong Kong",
+    "lat": 22.280308,
+    "lng": 114.159539
+  },
+  {
+    "name": "Hutchison House",
+    "address": "Hutchison House, 10 Harcourt Road, Central, Hong Kong",
+    "lat": 22.2810482,
+    "lng": 114.1626069
+  },
+  {
+    "name": "Lyndhurst Terrace",
+    "address": "The Workstation, 43 Lyndhurst Terrace, Central, Hong Kong",
+    "lat": 22.282667,
+    "lng": 114.153321
+  },
+  {
+    "name": "Mosque Street",
+    "address": "22 Mosque Street, Hong Kong",
+    "lat": 22.280324,
+    "lng": 114.151427
+  },
+  {
+    "name": "St. John’s Building",
+    "address": "St John's Building, 33 Garden Road, Central, Hong Kong",
+    "lat": 22.2776978,
+    "lng": 114.1592342
+  },
+  {
+    "name": "The Center",
+    "address": "The Center, 99 Queen's Road, Central, Hong Kong",
+    "lat": 22.284609,
+    "lng": 114.15474
+  },
+  {
+    "name": "The Peak Tower",
+    "address": "The Peak Tower, 128 Peak Road, Hong Kong",
+    "lat": 22.275276,
+    "lng": 114.1528764
+  },
+  {
+    "name": "8 Wyndham Street",
+    "address": "8 Wyndham Street, Central, Hong Kong",
+    "lat": 22.281048,
+    "lng": 114.156546
+  },
+  {
+    "name": "Sing Woo Road",
+    "address": "53 Sing Woo Road, Happy Valley, Hong Kong",
+    "lat": 22.268343,
+    "lng": 114.18664
+  },
+  {
+    "name": "625 King's Road",
+    "address": "625 King's Road, North Point, Hong Kong",
+    "lat": 22.292281,
+    "lng": 114.206137
+  },
+  {
+    "name": "Island Place",
+    "address": "Island Place, 500 King's Road, North Point, Hong Kong",
+    "lat": 22.291181,
+    "lng": 114.20234
+  },
+  {
+    "name": "K. Wah Centre",
+    "address": "K Wah Centre, 191 Java Road, North Point, Hong Kong",
+    "lat": 22.2932357,
+    "lng": 114.2047775
+  },
+  {
+    "name": "DBS Bank",
+    "address": "DBS Bank, One Island East, 18 Westlands Road, Quarry Bay, Hong Kong",
+    "lat": 22.2861176,
+    "lng": 114.213358
+  },
+  {
+    "name": "Fortis Centre",
+    "address": "Fortis Centre, 1063 King's Road, Quarry Bay, Hong Kong",
+    "lat": 22.284818,
+    "lng": 114.213776
+  },
+  {
+    "name": "Hoi Kwong Street",
+    "address": "Tai Fung Building, 26 & 28 Hoi Kwong Street, Quarry Bay, Hong Kong",
+    "lat": 22.2880734,
+    "lng": 114.2108067
+  },
+  {
+    "name": "Westlands Gardens",
+    "address": "Westlands Gardens, 12A-12H Westlands Road, Quarry Bay, Hong Kong",
+    "lat": 22.2863301,
+    "lng": 114.2130328
+  },
+  {
+    "name": "One Island East",
+    "address": "Area A, One Island East, 18 Westlands Road, Quarry Bay, Hong Kong",
+    "lat": 22.2861485,
+    "lng": 114.213338
+  },
+  {
+    "name": "Lei King Wan",
+    "address": "25 Tai On Street, Lei King Wan, Sai Wan Ho, Hong Kong",
+    "lat": 22.283681,
+    "lng": 114.223924
+  },
+  {
+    "name": "Hollywood Centre",
+    "address": "Hollywood Centre, 233 Hollywood Road, Sheung Wan, Hong Kong",
+    "lat": 22.2855449,
+    "lng": 114.1481621
+  },
+  {
+    "name": "the L.plaza",
+    "address": "the Lplaza, 367-375 Queen's Road, Sheung Wan, Hong Kong",
+    "lat": 22.28528,
+    "lng": 114.15355
+  },
+  {
+    "name": "Shun Tak Centre",
+    "address": "Shun Tak Centre, 200 Connaught Road Central, Sheung Wan, Hong Kong",
+    "lat": 22.2879098,
+    "lng": 114.1517914
+  },
+  {
+    "name": "Infinitus Plaza",
+    "address": "Infinitus Plaza, 199 Des Voeux Road Central, Hong Kong",
+    "lat": 22.286463,
+    "lng": 114.1536893
+  },
+  {
+    "name": "The Repulse Bay",
+    "address": "The Repulse Bay, 109 Repulse Bay Road, Hong Kong",
+    "lat": 22.239155,
+    "lng": 114.196213
+  },
+  {
+    "name": "The Stanley",
+    "address": "80 Stanley Village Road, Hong Kong",
+    "lat": 22.218461,
+    "lng": 114.212889
+  },
+  {
+    "name": "Cityplaza 5/F",
+    "address": "Cityplaza 1, Taikoo Shing, Hong Kong",
+    "lat": 22.286944,
+    "lng": 114.217719
+  },
+  {
+    "name": "King's Commercial Centre",
+    "address": "King's Commercial Centre, 25 King’s Road, Tin Hau, Hong Kong",
+    "lat": 22.2837975,
+    "lng": 114.1924124
+  },
+  {
+    "name": "AIA Building",
+    "address": "AIA Building, No1 Stubbs Road, Hong Kong",
+    "lat": 22.2738036,
+    "lng": 114.1773299
+  },
+  {
+    "name": "Allied Kajima Building",
+    "address": "Allied Kajima Building, 138 Gloucester Road, Wan Chai, Hong Kong",
+    "lat": 22.2792687,
+    "lng": 114.176401
+  },
+  {
+    "name": "Causeway Centre",
+    "address": "Causeway Centre, 28 Harbour Road, Wan Chai, Hong Kong",
+    "lat": 22.2802899,
+    "lng": 114.1761456
+  },
+  {
+    "name": "CC Wu Building",
+    "address": "CC Wu Building, 302-308 Hennessy Road, Wan Chai, Hong Kong",
+    "lat": 22.2777777,
+    "lng": 114.1778408
+  },
+  {
+    "name": "Central Plaza",
+    "address": "Central Plaza, 18 Harbour Road, Wan Chai, Hong Kong",
+    "lat": 22.2798732,
+    "lng": 114.173727
+  },
+  {
+    "name": "East Town Building",
+    "address": "East Town Building, 41 Lockhart Road, Wan Chai, Hong Kong",
+    "lat": 22.2785189,
+    "lng": 114.1706419
+  },
+  {
+    "name": "Fortis Bank Tower",
+    "address": "Fortis Bank Tower, 77 - 79 Gloucester Road, Wan Chai, Hong Kong",
+    "lat": 22.2788601,
+    "lng": 114.1726781
+  },
+  {
+    "name": "Great Eagle Centre",
+    "address": "Great Eagle Centre, 23 Harbour Road, Wan Chai, Hong Kong",
+    "lat": 22.281036,
+    "lng": 114.1748684
+  },
+  {
+    "name": "Tai Yau Plaza",
+    "address": "Tai Yau Plaza, 181 Johnston Road, Wan Chai, Hong Kong",
+    "lat": 22.2770061,
+    "lng": 114.1756812
+  },
+  {
+    "name": "The Vine Centre",
+    "address": "The Vine Centre, 29 Burrows Street, Wan Chai, Hong Kong",
+    "lat": 22.2761865,
+    "lng": 114.1763354
+  },
+  {
+    "name": "Bonham Road",
+    "address": "Kam Ning Mansion, 13 & 15 Bonham Road, Hong Kong",
+    "lat": 22.396428,
+    "lng": 114.109497
+  },
+  {
+    "name": "Davis Street",
+    "address": "Luen Wai Apartments, Nos 136, 140 & 142 Belcher’s Street and Nos 7 & 7A Davis Street, Hong Kong",
+    "lat": 22.396428,
+    "lng": 114.109497
+  },
+  {
+    "name": "HKU, Swire Hall",
+    "address": "Global Lounge, Registry, The University of Hong Kong, Pok Fu Lam Road, Hong Kong",
+    "lat": 22.2645749,
+    "lng": 114.1354472
+  },
+  {
+    "name": "Fortune Metropolis",
+    "address": "Atrium B1, Fortune Metropolis, 6 Metropolis Drive, Hung Hom, Hong Kong",
+    "lat": 22.302663,
+    "lng": 114.183191
+  },
+  {
+    "name": "Poly U",
+    "address": "Podium, Pao Yue-kong Library, The Hong Kong Polytechnic University, Hong Kong",
+    "lat": 22.3051948,
+    "lng": 114.1794674
+  },
+  {
+    "name": "Whampoa Garden",
+    "address": "Whampoa Garden, Hung Hom, Hong Kong",
+    "lat": 22.3039,
+    "lng": 114.1922
+  },
+  {
+    "name": "Queen Elizabeth Hospital",
+    "address": "Queen Elizabeth Hospital, 30 Gasscoigne Road, Jordan, Hong Kong",
+    "lat": 22.3071831,
+    "lng": 114.1743861
+  },
+  {
+    "name": "Chevalier Engineering Service Centre",
+    "address": "Chevalier Engineering Service Centre, 21 Sheung Yuet Road, Kowloon Bay, Hong Kong",
+    "lat": 22.3221986,
+    "lng": 114.2112792
+  },
+  {
+    "name": "EMax",
+    "address": "EMax, 1 Trademart Drive, Kowloon Bay, Hong Kong",
+    "lat": 22.323968,
+    "lng": 114.2039416
+  },
+  {
+    "name": "Octa Tower",
+    "address": "Octa Tower, 8 Lam Chak Street, Kowloon Bay, Hong Kong",
+    "lat": 22.3156595,
+    "lng": 114.2118365
+  },
+  {
+    "name": "HKU SPACE",
+    "address": "HKU SPACE, Kowloon East Campus, 28 Wang Hoi Road, Kowloon Bay, Hong Kong",
+    "lat": 22.324276,
+    "lng": 114.211002
+  },
+  {
+    "name": "Skyline Tower",
+    "address": "Skyline Tower, 39 Wang Kwong Road, Kowloon Bay, Hong Kong",
+    "lat": 22.3264211,
+    "lng": 114.2055206
+  },
+  {
+    "name": "MegaBox",
+    "address": "MegaBox, Enterprise Square Five, 38 Wang Chiu Road, Kowloon Bay, Hong Kong",
+    "lat": 22.3198993,
+    "lng": 114.2091786
+  },
+  {
+    "name": "Telford Plaza Phase 2",
+    "address": "Telford Plaza Phase 2, Kowloon Bay, Hong Kong",
+    "lat": 22.3255374,
+    "lng": 114.2141193
+  },
+  {
+    "name": "Festival Walk",
+    "address": "Festival Walk, Tat Chee Avenue, Kowloon Tong, Hong Kong",
+    "lat": 22.332693,
+    "lng": 114.175444
+  },
+  {
+    "name": "",
+    "address": "Festival Walk, Tat Chee Avenue, Kowloon Tong, Hong Kong",
+    "lat": 22.332693,
+    "lng": 114.175444
+  },
+  {
+    "name": "Inno Centre",
+    "address": "Inno Centre, 72 Tat Chee Avenue, Kowloon Tong, Hong Kong",
+    "lat": 22.3352403,
+    "lng": 114.1761688
+  },
+  {
+    "name": "Run Run Shaw Creative Media Centre",
+    "address": "Run Run Shaw Creative Media Centre, City University of Hong Kong, 18 Tat Hong Avenue, Hong Kong",
+    "lat": 22.340143,
+    "lng": 114.168536
+  },
+  {
+    "name": "APM",
+    "address": "APM, Kwun Tong, Hong Kong",
+    "lat": 22.3124122,
+    "lng": 114.2252932
+  },
+  {
+    "name": "Manulife Financial Centre",
+    "address": "Manulife Financial Centre, 223 Wai Yip Street, Kwun Tong, Hong Kong",
+    "lat": 22.3072719,
+    "lng": 114.2240966
+  },
+  {
+    "name": "Millennium City 6",
+    "address": "Office Lobby, Millennium City 6, 392 Kwun Tong Road, Kwun Tong, Hong Kong",
+    "lat": 22.313323,
+    "lng": 114.222047
+  },
+  {
+    "name": "Laguna Plaza",
+    "address": "Laguna Plaza, 88 Cha Kwo Ling Road, Lam Tin, Hong Kong",
+    "lat": 22.3068298,
+    "lng": 114.2279975
+  },
+  {
+    "name": "Flower Market",
+    "address": "152A-D Prince Edward Road West, Mong Kok, Hong Kong",
+    "lat": 22.324559,
+    "lng": 114.170404
+  },
+  {
+    "name": "Grand Century Place",
+    "address": "Grand Century Place, 193 Prince Edward Road West, MongKok, Hong Kong",
+    "lat": 22.3229802,
+    "lng": 114.1720817
+  },
+  {
+    "name": "HSBC Centre",
+    "address": "HSBC Centre, 1 Sham Mong Road, Tai Kok Tsui, Hong Kong",
+    "lat": 22.3188296,
+    "lng": 114.1610742
+  },
+  {
+    "name": "Langham Place",
+    "address": "Langham Place, Mong Kok, Hong Kong",
+    "lat": 22.31824,
+    "lng": 114.16796
+  },
+  {
+    "name": "Olympian City 3",
+    "address": "Olympian City 3, 1 Hoi Wang Road, Mong Kok, Hong Kong",
+    "lat": 22.3174202,
+    "lng": 114.1639371
+  },
+  {
+    "name": "Tung Wah College",
+    "address": "Tung Wah College, 31 Wylie Road, Ho Man Tin, Hong Kong",
+    "lat": 22.312505,
+    "lng": 114.1757508
+  },
+  {
+    "name": "9 Wing Hong Street",
+    "address": "Lobby, 9 Wing Hong Street, Cheung Sha Wan, Hong Kong",
+    "lat": 22.3384755,
+    "lng": 114.1457004
+  },
+  {
+    "name": "Manhattan Mid-Town",
+    "address": "Manhattan Mid-Town, 1 Po Lun Street, Meifoo, Hong Kong",
+    "lat": 22.396428,
+    "lng": 114.109497
+  },
+  {
+    "name": "26 Nathan Road",
+    "address": "26 Nathan Road, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.2958616,
+    "lng": 114.1726391
+  },
+  {
+    "name": "China Hong Kong City",
+    "address": "Tower 1, China Hong Kong City, 33 Canton Road, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.3007936,
+    "lng": 114.1678504
+  },
+  {
+    "name": "Empire Centre",
+    "address": "Empire Centre, 68 Mody Road Tsim Sha Tsui, Hong Kong",
+    "lat": 22.2982675,
+    "lng": 114.1783981
+  },
+  {
+    "name": "Harbour City",
+    "address": "Ocean Terminal, Harbour City, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.287723,
+    "lng": 114.1502
+  },
+  {
+    "name": "Miramar Shopping Centre",
+    "address": "Miramar Shopping Centre, 132 Nathan Road, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.3009412,
+    "lng": 114.172221
+  },
+  {
+    "name": "Silvercord",
+    "address": "Shopping Arcade, Silvercord, 30 Canton Road, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.297667,
+    "lng": 114.169373
+  },
+  {
+    "name": "The One",
+    "address": "The One, 100 Nathan Road, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.2998217,
+    "lng": 114.1726855
+  },
+  {
+    "name": "Kowloon Commerce Centre",
+    "address": "Tower 1, Kowloon Commerce Centre, 51 Kwai Cheong Road, Kwai Chung, Hong Kong",
+    "lat": 22.3614854,
+    "lng": 114.1325091
+  },
+  {
+    "name": "Princess Margaret Hospital",
+    "address": "Main Block, Princess Margaret Hospital, Kwai Chung, Hong Kong",
+    "lat": 22.3618749,
+    "lng": 114.1350173
+  },
+  {
+    "name": "Metroplaza",
+    "address": "Metroplaza, Kwai Fong, Hong Kong",
+    "lat": 22.3574288,
+    "lng": 114.1276543
+  },
+  {
+    "name": "Wonderland Villas",
+    "address": "9 Wah King Hill Road, Kwai Chung, Hong Kong",
+    "lat": 22.351746,
+    "lng": 114.136906
+  },
+  {
+    "name": "Park Island",
+    "address": "Park Island - Pier, Ma Wan, Hong Kong",
+    "lat": 22.3527556,
+    "lng": 114.0640849
+  },
+  {
+    "name": "HomeSquare",
+    "address": "HomeSquare, Sha Tin, Hong Kong",
+    "lat": 22.3771304,
+    "lng": 114.1974398
+  },
+  {
+    "name": "Hong Kong Science Park",
+    "address": "Hong Kong Science Park, Pak Shek Kok, Sha Tin, Hong Kong",
+    "lat": 22.3808902,
+    "lng": 114.2005758
+  },
+  {
+    "name": "HSBC Data Centre Building",
+    "address": "HSBC Data Centre Building, 8 On Kwan Street, Shek Mun, Shatin, Hong Kong",
+    "lat": 22.396428,
+    "lng": 114.109497
+  },
+  {
+    "name": "New Town Plaza",
+    "address": "New Town Plaza, Phase I, Sha Tin, Hong Kong",
+    "lat": 22.381714,
+    "lng": 114.187849
+  },
+  {
+    "name": "The Hong Kong Institute of Education",
+    "address": "Learning Commons, The Hong Kong Institute of Education, 10 Lo Ping Road, Tai Po, Hong Kong",
+    "lat": 22.4704144,
+    "lng": 114.1972335
+  },
+  {
+    "name": "East Point City",
+    "address": "Area C, East Point City, 8 Chung Wa Road, Tseung Kwan O, Hong Kong",
+    "lat": 22.316905,
+    "lng": 114.265007
+  },
+  {
+    "name": "Hong Kong Design Institute and Hong Kong Institute of Vocational Education (Lee Wai Lee)",
+    "address": "Hong Kong Design Institute and Hong Kong Institute of Vocational Education (Lee Wai Lee), 3 King Ling Rd, Tseung Kwan O, Hong Kong",
+    "lat": 22.306143,
+    "lng": 114.254184
+  },
+  {
+    "name": "HSBC Building Tseung Kwan O",
+    "address": "HSBC Building Tseung Kwan O, 2 Chun Sing Street, Tseung Kwan O Industrial Estate, Tseung Kwan O, Hong Kong",
+    "lat": 22.3119357,
+    "lng": 114.2568776
+  },
+  {
+    "name": "Metro City",
+    "address": "Metro City Phase II, Tseung Kwan O, Hong Kong",
+    "lat": 22.3241635,
+    "lng": 114.2571368
+  },
+  {
+    "name": "Park Central",
+    "address": "9 Tong Tak Street, Tseung Kwan O, Hong Kong",
+    "lat": 22.307763,
+    "lng": 114.257989
+  },
+  {
+    "name": "Nina Tower",
+    "address": "Nina Tower, 8 Yeung Uk Road, Tsuen Wan, Hong Kong",
+    "lat": 22.368746,
+    "lng": 114.1130002
+  },
+  {
+    "name": "Tsuen Wan Plaza",
+    "address": "Open Café B, Tsuen Wan Plaza, 4-30 Tai Pa Street, Tsuen Wan, Hong Kong",
+    "lat": 22.3705677,
+    "lng": 114.1113664
+  },
+  {
+    "name": "Hong Kong Gold Coast Piazza",
+    "address": "Hong Kong Gold Coast Piazza, 1 Castle Peak Road, Tuen Mun, Hong Kong",
+    "lat": 22.3722635,
+    "lng": 113.9932306
+  },
+  {
+    "name": "Fairview Park",
+    "address": "Town Centre, Fairview Park, Yuen Long, Hong Kong",
+    "lat": 22.4780591,
+    "lng": 114.0443408
+  },
+  {
+    "name": "Asia World-Expo",
+    "address": "Asia World Expo, Hong Kong",
+    "lat": 22.3218126,
+    "lng": 113.9411831
+  },
+  {
+    "name": "",
+    "address": "Asia World-Expo, Hong Kong",
+    "lat": 22.3218126,
+    "lng": 113.9411831
+  },
+  {
+    "name": "",
+    "address": "Asia World-Expo, Hong Kong",
+    "lat": 22.3218126,
+    "lng": 113.9411831
+  },
+  {
+    "name": "",
+    "address": "Asia World-Expo, Hong Kong",
+    "lat": 22.3218126,
+    "lng": 113.9411831
+  },
+  {
+    "name": "Discovery Bay Ferry Pier",
+    "address": "Asia World-Expo, Hong Kong",
+    "lat": 22.3218126,
+    "lng": 113.9411831
+  },
+  {
+    "name": "",
+    "address": "Discovery Bay Ferry Pier, Discovery Bay, Hong Kong",
+    "lat": 22.29679,
+    "lng": 114.017773
+  },
+  {
+    "name": "Airport Gate 28",
+    "address": "Discovery Bay Plaza, Discovery Bay, Hong Kong",
+    "lat": 22.2952398,
+    "lng": 114.0165583
+  },
+  {
+    "name": "Skyplaza",
+    "address": "Airport Gate 28, Passenger Terminal Building, Hong Kong International Airport, Chek Lap Kok, Hong Kong",
+    "lat": 22.308047,
+    "lng": 113.9184808
+  },
+  {
+    "name": "",
+    "address": "South Concourse, Terminal 1, Hong Kong International Airport, Chep Lap Kok, Hong Kong",
+    "lat": 22.314559,
+    "lng": 113.936618
+  },
+  {
+    "name": "Mui Wo Pier",
+    "address": "Skyplaza, Terminal 2, Hong Kong International Airport, Chek Lap Kok, Hong Kong",
+    "lat": 22.3163316,
+    "lng": 113.9377118
+  },
+  {
+    "name": "Citygate outlets",
+    "address": "Lower Deck, Mui Wo Pier, Mui Wo, Hong Kong",
+    "lat": 22.260484,
+    "lng": 113.9982525
+  },
+  {
+    "name": "Kiang Wu Hospital",
+    "address": "Citygate outlets, 20 Tat Tung Road, Tung Chung, Hong Kong",
+    "lat": 22.2896486,
+    "lng": 113.9405428
+  },
+  {
+    "name": "City of Dreams - Dancing Water Boulevard",
+    "address": "Travessa dos Anjos 16, EdfTin Fook G FL, Hong Kong",
+    "lat": 22.396428,
+    "lng": 114.109497
+  }
+]
