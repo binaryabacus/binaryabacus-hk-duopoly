@@ -46,14 +46,14 @@ var coastlineClip = svg.append('clipPath')
   .append('path');
 
 $.when(
-  $.getJSON('/data/hongkong-admin.topojson'),
-  $.getJSON('/data/hongkong-coastline-intersection.topojson'),
-  $.getJSON('/data/parknshop.geojson'),
-  $.getJSON('/data/wellcome.geojson'),
-  $.getJSON('/data/pacificcoffee.geojson'),
-  $.getJSON('/data/starbucks.geojson'),
-  $.getJSON('/data/watsons.geojson'),
-  $.getJSON('/data/mannings.geojson')
+  $.getJSON('data/hongkong-admin.topojson'),
+  $.getJSON('data/hongkong-coastline-intersection.topojson'),
+  $.getJSON('data/parknshop.geojson'),
+  $.getJSON('data/wellcome.geojson'),
+  $.getJSON('data/pacificcoffee.geojson'),
+  $.getJSON('data/starbucks.geojson'),
+  $.getJSON('data/watsons.geojson'),
+  $.getJSON('data/mannings.geojson')
 ).then(function (hkdistrict, hkcoastline, parknshop, wellcome, pacificcoffee, starbucks, watsons, mannings) {
   hkdistrict = hkdistrict[0];
   hkcoastline = hkcoastline[0];

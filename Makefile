@@ -108,4 +108,10 @@ data/mannings.geojson: data/mannings.json
 data/mannings.topojson: data/mannings.geojson
 	$(topojson) $< -p name -p address -o $@
 
+# Github Pages
+
+publish:
+	git push origin master
+	git push origin master:gh-pages
+
 .PHONY: all data cleanmap
