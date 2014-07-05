@@ -1,0 +1,2889 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.198071,
+          22.290943
+        ]
+      },
+      "properties": {
+        "name": "375 King’s Road",
+        "address": "G/F, 375 King’s Road, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.154577,
+          22.248478
+        ]
+      },
+      "properties": {
+        "name": "Aberdeen Centre",
+        "address": "Shop 6C, Hoi Chu Court, Aberdeen Centre, Aberdeen, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.165134,
+          22.279432
+        ]
+      },
+      "properties": {
+        "name": "Admiralty Centre",
+        "address": "1/F Tower 1, Shop 23-28, 81-83 Admiralty Centre, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.215772,
+          22.325088
+        ]
+      },
+      "properties": {
+        "name": "Amoy Plaza",
+        "address": "Shop Nos. F58-60, 1/F, Phase I, Amoy Plaza, 77 Ngau Tau Kok Road , Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.172819,
+          22.303237
+        ]
+      },
+      "properties": {
+        "name": "Austin Road",
+        "address": "Shop on G/F, No.114 Austin Road, Kowloon, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.128718,
+          22.282708
+        ]
+      },
+      "properties": {
+        "name": "Belcher’s Street",
+        "address": "Shop 1 & 2 on Lower Ground Floor, Belcher’s Hill, 42-44 Belcher’s Street,Kennedy Town, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.102038,
+          22.372438
+        ]
+      },
+      "properties": {
+        "name": "Belvedere Garden",
+        "address": "Shop 29, G/F, Belvedere Square, Belvedere Garden Phase III, 625 Castle Peak Road, Tsuen Wan, NT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.11778,
+          22.368437
+        ]
+      },
+      "properties": {
+        "name": "Bo Shek Mansion",
+        "address": "Shop G18, G/F., Plaza 328, Bo Shek Mansion, No. 328 Sha Tsui Road, Tsuen Wan, NT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.963453,
+          22.374876
+        ]
+      },
+      "properties": {
+        "name": "Butterfly Estate",
+        "address": "Shop Nos. L201, L206 and L207, Level 2, Butterfly Shopping Centre, Butterfly Estate, Tuen Mun, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.151066,
+          22.282534
+        ]
+      },
+      "properties": {
+        "name": "Caine Road",
+        "address": "Shop B- D & Store 2, G/F, 99 Caine Road,Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.173366,
+          22.298966
+        ]
+      },
+      "properties": {
+        "name": "Cameron Road",
+        "address": "Shop 5, G/F & Basement, Hang Sang Building, 18 Carnarvon Road, Tsimshatsui"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.181002,
+          22.277317
+        ]
+      },
+      "properties": {
+        "name": "Canal Road West",
+        "address": "G/F, No. 23 Canal Road West, Wan Chai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.157868,
+          22.337297
+        ]
+      },
+      "properties": {
+        "name": "Castle Peak Road",
+        "address": "G/F, Tat Ming Building, No. 244 Castle Peak Road, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.026053,
+          22.444673
+        ]
+      },
+      "properties": {
+        "name": "Castle Peak Road (Yuen Long)",
+        "address": "G/F, No.205 Castle Peak Road, Yuen Long, NT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.182836,
+          22.28036
+        ]
+      },
+      "properties": {
+        "name": "Causeway Bay Plaza 1",
+        "address": "Unit 101,102 & 103 on 1st Floor, Causeway Bay Plaza 1, No. 489 Hennessy Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.142475,
+          22.287391
+        ]
+      },
+      "properties": {
+        "name": "Centre Street",
+        "address": "Ground Floor, No.13-15 Centre Street, Sai Ying Pun, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.974131,
+          22.4007
+        ]
+      },
+      "properties": {
+        "name": "Chelsea Heights",
+        "address": "Shop 101, 1/F., Chelsea Heights, Tuen Mun, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.028805,
+          22.207235
+        ]
+      },
+      "properties": {
+        "name": "Cheung Chau",
+        "address": "G/F, 1/F, 2/F, 3/F, & roof, 85 Praya Road, Cheung Chau, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.103113,
+          22.362516
+        ]
+      },
+      "properties": {
+        "name": "Cheung Fat Estate",
+        "address": "Shop No. 209, 2/F., Cheung Fat Shopping Centre, Tsing Yi, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.138787,
+          22.257951
+        ]
+      },
+      "properties": {
+        "name": "Chi Fu",
+        "address": "Shop Nos. 403 & 405A, 4/F, Chi Fu Landmark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.979992,
+          22.387349
+        ]
+      },
+      "properties": {
+        "name": "Chi Lok Fa Yuen",
+        "address": "Shop No. 68 on G/F, Chi Lok Fa Yuen, Tuen Mun, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.167898,
+          22.300492
+        ]
+      },
+      "properties": {
+        "name": "China Hong Kong City",
+        "address": "UG/F 43D, Floor UG, China Hong Kong City (UG & PL), 33 Canton Road, Tsim Sha Tsui, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.203908,
+          22.330891
+        ]
+      },
+      "properties": {
+        "name": "Ching Long Shopping Centre",
+        "address": "Shop B021, G/F, Ching Long Shopping Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.213409,
+          22.329891
+        ]
+      },
+      "properties": {
+        "name": "Choi Tak Shopping Centre",
+        "address": "Shop 513, 5/F, Choi Tak Shopping Centre, Ngau Tau Kok, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21454,
+          22.33392
+        ]
+      },
+      "properties": {
+        "name": "Choi Wan Shopping Centre",
+        "address": "Shop No. B203, 2/F, Choi Wan Shopping Centre Phase 3, Ngau Chi Wan, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.126295,
+          22.500881
+        ]
+      },
+      "properties": {
+        "name": "Choi Yuen Plaza",
+        "address": "Shop No. R42 & R43, 3/F, Choi Yuen Plaza, Sheung Shui, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.193448,
+          22.344938
+        ]
+      },
+      "properties": {
+        "name": "Chuk Yuen",
+        "address": "Shop No. S231, Chuk Yuen Shopping Centre, Wong Tai Sin, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.997933,
+          22.461574
+        ]
+      },
+      "properties": {
+        "name": "Chung Fu",
+        "address": "Shop No. 19, Chung Fu Shopping Centre, Tin Shui Wai, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.226597,
+          22.421929
+        ]
+      },
+      "properties": {
+        "name": "Chung On",
+        "address": "Shop 4A, 4B & 19, G/F, Chung On Shopping Centre, Ma On Shan, NT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.116482,
+          22.369387
+        ]
+      },
+      "properties": {
+        "name": "Chung On Street",
+        "address": "Shop on G/F, 65 & 67 Chung On Street, Tsuen Wan, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.114687,
+          22.368164
+        ]
+      },
+      "properties": {
+        "name": "Ciytwalk Phase 2",
+        "address": "Shop G66-68, G/F, Citywalk2, 18 Yeung Uk Road, Tsuen Wan, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.178191,
+          22.278675
+        ]
+      },
+      "properties": {
+        "name": "CLI Building",
+        "address": "Shop G1, G/F, CLI Building, 313-317 Hennessy Road, Wanchai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.225631,
+          22.311729
+        ]
+      },
+      "properties": {
+        "name": "Crocodile Centre",
+        "address": "Shop A, G/F, Crocodile Centre, 79 Hoi Yuen Road, Kwun Tong, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.144773,
+          22.487653
+        ]
+      },
+      "properties": {
+        "name": "Dawning Views Plaza",
+        "address": "Shop Nos G12B-G13, Ground Floor, Dawning Views Plaza, 23 Yat Ming Road, Fanling, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.202277,
+          22.34079
+        ]
+      },
+      "properties": {
+        "name": "Diamond Hill",
+        "address": "Shop No. 228, L2, Plaza Hollywood, Diamond Hill, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.016599,
+          22.295164
+        ]
+      },
+      "properties": {
+        "name": "Discovery Bay",
+        "address": "Shop 135,1/F,Block C, D B Plaza, Discovery Bay, Lantau Island, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.111588,
+          22.376301
+        ]
+      },
+      "properties": {
+        "name": "Discovery Park Shopping Centre",
+        "address": "Shops 2058-61, Level 2 of Discovery Park Shopping Centre, Tsuen Wan, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.238184,
+          22.296825
+        ]
+      },
+      "properties": {
+        "name": "Domain",
+        "address": "Shop No. 220, 2/F, Domain, Yau Tong, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.159783,
+          22.331147
+        ]
+      },
+      "properties": {
+        "name": "Dragon Centre",
+        "address": "Unit 205 & part of unit 206, 2/F, Dragon Centre,37KYen Chow Street,Sham Shui Po,Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.265307,
+          22.316488
+        ]
+      },
+      "properties": {
+        "name": "East Point City",
+        "address": "Shop No. 261 on Level 2 of East Point City, 8 Chung Wa Road, Tseung Kwan O, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.166397,
+          22.452841
+        ]
+      },
+      "properties": {
+        "name": "Eightland Garden",
+        "address": "Shop No. 8, G/F Eightland Gardens, 2 On Chee Road, Tai Po, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.187726,
+          22.30854
+        ]
+      },
+      "properties": {
+        "name": "Eldex Building",
+        "address": "Shop B, G/F, Eldex Ind Building, 21 Ma Tau Wai Road, Hunghom, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.171622,
+          22.315994
+        ]
+      },
+      "properties": {
+        "name": "Fa Yuen Street",
+        "address": "Shop 6, G/F, Hung Hay Building, No. 1 Fa Yuen Street, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.139111,
+          22.492448
+        ]
+      },
+      "properties": {
+        "name": "Fanling Town Centre",
+        "address": "Shop No. 28B, Level 2, Fanling Town Centre, Fanling, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.174592,
+          22.337262
+        ]
+      },
+      "properties": {
+        "name": "Festival Walk",
+        "address": "Portion of Unit MTR-01, Level MTR, Festival Walk, 80 Tat Chee Avenue, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.141225,
+          22.485851
+        ]
+      },
+      "properties": {
+        "name": "Flora Plaza",
+        "address": "Shop Nos. 11-12 and 35-38 on the Ground Floor of Flora Plaza, Fanling, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20401,
+          22.386523
+        ]
+      },
+      "properties": {
+        "name": "Fortune City One Plus",
+        "address": "Shop G24B, G25 & G26 Of Fortune City One, Shatin, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.174734,
+          22.454276
+        ]
+      },
+      "properties": {
+        "name": "Fu Shin Estate",
+        "address": "Shop 123 on 1/F, Fu Shin Shopping Centre, Fu Shin Estate, Tai Po, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.187544,
+          22.327904
+        ]
+      },
+      "properties": {
+        "name": "Fuk Lo Tsun Road",
+        "address": "G/F, No. 13 Fuk Lo Tsun Road, Kowloon City, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15753,
+          22.283135
+        ]
+      },
+      "properties": {
+        "name": "Fung House",
+        "address": "Ground Floor Shop, Fung House, 19-20 Connaught Road Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.195279,
+          22.380816
+        ]
+      },
+      "properties": {
+        "name": "Garden Rivera",
+        "address": "Shop 19-20 Level 1 Garden Rivera 20-30 Tai Chung Kiu Road Shatin,New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17174,
+          22.318463
+        ]
+      },
+      "properties": {
+        "name": "Golden Era Plaza",
+        "address": "Shop 1AB, G/F, Golden Era Plaza, 39 Sai Yee Street, Mongkok, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.171917,
+          22.323321
+        ]
+      },
+      "properties": {
+        "name": "Grand Century Place",
+        "address": "Shop No.102A, Floor L1, Grand Century Place, Mongkok, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.171502,
+          22.296043
+        ]
+      },
+      "properties": {
+        "name": "Hankow Road",
+        "address": "Portion of Ground Floor of Kaiseng Commercial Centre, 4-6 Hankow Road, Tsimshatsui, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.184266,
+          22.26966
+        ]
+      },
+      "properties": {
+        "name": "Happy Valley",
+        "address": "Shop 19 on G/F, Hang Fung Mansion, 17-19 Wong Nai Chung Road, Happy Valley, HK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.168294,
+          22.299261
+        ]
+      },
+      "properties": {
+        "name": "Harbour City",
+        "address": "Shop 3302, Level 3, Gateway Arcade, Harbour City, Tsimshatsui, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.266355,
+          22.317312
+        ]
+      },
+      "properties": {
+        "name": "Hau Tak",
+        "address": "Shop Nos. L189-L190, 1/F, Hau Tak Shopping Centre (West Wing), Tseung Kwan O, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.174932,
+          22.278074
+        ]
+      },
+      "properties": {
+        "name": "Hennessy Road",
+        "address": "G/F & M/F,205-207 Hennessy Road,Wanchai,Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1689,
+          22.2487
+        ]
+      },
+      "properties": {
+        "name": "Heung Yip Road",
+        "address": "Shop G08, G/F, One Island South, 2 Heung Yip Road, Wong Chuk Hang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.177175,
+          22.299634
+        ]
+      },
+      "properties": {
+        "name": "Hilton Tower",
+        "address": "Portion of Shop C, G/F, Hilton Tower, 96 Granville Road, Tsimshatsui, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.23584,
+          22.262521
+        ]
+      },
+      "properties": {
+        "name": "Hing Wah Shopping Centre",
+        "address": "Shop No. 119-120, 1/F Hing Wah Plaza, Chai Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.992791,
+          22.371818
+        ]
+      },
+      "properties": {
+        "name": "HK Gold Coast",
+        "address": "Shop No 9-10, G/F., Marina Magic Shopping Mall, HK Gold Coast, 1 Castle Peak Road, Tsuen Wan, NT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.146849,
+          22.332628
+        ]
+      },
+      "properties": {
+        "name": "Hoi Lai Estate",
+        "address": "Portion of Shop 106, 1st Floor, Hoi Lai Shopping Centre, Hoi Lai Estate, Shamshuipo, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.181761,
+          22.31658
+        ]
+      },
+      "properties": {
+        "name": "Homantin Plaza",
+        "address": "Shop No. 7-8, G/F, Homantin Plaza, 80 Fat Kwong Street, Ho Man Tin, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.157643,
+          22.284979
+        ]
+      },
+      "properties": {
+        "name": "Hong Kong Station",
+        "address": "MTR Hong Kong Station, Central, Hong Kong Concession No#HOK51, In-Town Check-in Concourse, H.K."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.171601,
+          22.274724
+        ]
+      },
+      "properties": {
+        "name": "Hopewell Centre",
+        "address": "Shop 301-306, Hopewell Centre, 183 Queen's Road East, Wanchai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.187839,
+          22.309917
+        ]
+      },
+      "properties": {
+        "name": "Hung Hom Square",
+        "address": "Part of Shop 13-14, Shop 61-67, 1/F, Hunghom Commercial Centre, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.185688,
+          22.305912
+        ]
+      },
+      "properties": {
+        "name": "Hunghom Bay",
+        "address": "Shop 10, G/F., Hunghom Bay Centre, 92-112 Baker Street, Hunghom, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.209798,
+          22.334069
+        ]
+      },
+      "properties": {
+        "name": "Infinity Eight",
+        "address": "Shop B206, Basement 2 Floor, Infinity Eight, 8 Clear Water Bay Road, Choi Hung, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.202564,
+          22.291342
+        ]
+      },
+      "properties": {
+        "name": "Island Place",
+        "address": "Shop 111, 1/F, Island Place, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.199651,
+          22.292199
+        ]
+      },
+      "properties": {
+        "name": "Java Road",
+        "address": "Shop 3, G/F, The Java, No. 98 Java Road, North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.170512,
+          22.276873
+        ]
+      },
+      "properties": {
+        "name": "Johnston Road",
+        "address": "Shop A, G/F., Johnston Court, 28 - 34 Johnston Road, Wanchai, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.171496,
+          22.304599
+        ]
+      },
+      "properties": {
+        "name": "Jordan",
+        "address": "Shop No. A and B on G/F and A portion of the Roof, Cumberland House, 38 Pilkem Street, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.189403,
+          22.322031
+        ]
+      },
+      "properties": {
+        "name": "Jubilant Place",
+        "address": "Shop 28-30 & 46-49, G/F, Jubilant Place, 33 Ma Tau Kok Road, Tokwawan, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.173808,
+          22.297375
+        ]
+      },
+      "properties": {
+        "name": "K11",
+        "address": "Shop No. B108 on Basement 1, K11, Tsimshatsui, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.975033,
+          22.396284
+        ]
+      },
+      "properties": {
+        "name": "Kai Man Path",
+        "address": "Shop 9, G/F., Mei Hang Building, 15-45 Kai Man Path, Tuen Mun, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.23452,
+          22.308659
+        ]
+      },
+      "properties": {
+        "name": "Kai Tin",
+        "address": "Shop 101, 1/F, Kai Tin Shopping Centre, Lam Tin, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.96929,
+          22.407185
+        ]
+      },
+      "properties": {
+        "name": "Kin Sang Estate",
+        "address": "Shop Nos. 109 & 110, G/F, Kin Sang Shopping Centre, Kin Sang Estate, Tuen Mun."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.004118,
+          22.457385
+        ]
+      },
+      "properties": {
+        "name": "Kingswood Ginza",
+        "address": "Shop No.139-141, 1/F, Phase 1, Kingswood Ginza, Kingswood Villas, Tin Shui Wai, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16194,
+          22.334389
+        ]
+      },
+      "properties": {
+        "name": "Kiu Kiang Street",
+        "address": "Shop Nos. 2-5, G/F, Celebrity Comm. Centre, 64 Castle Peak Road, Sham Shui Po, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.216187,
+          22.284915
+        ]
+      },
+      "properties": {
+        "name": "Kornhill Plaza",
+        "address": "Portion of Mezzanine Floor, Kornhill Plaza (North), 1-2 Kornhill Road, Quarry Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.188502,
+          22.331045
+        ]
+      },
+      "properties": {
+        "name": "Kowloon City Plaza",
+        "address": "Shop No. LG13-15, Lower Ground Floor, Kowloon City Plaza, 128 Carpenter Road, Kowloon City, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.127302,
+          22.364751
+        ]
+      },
+      "properties": {
+        "name": "Kwai Shing Est.",
+        "address": "Shop No. 103A, Kwai Shing East Shopping Centre, Kwai Shing East Estate, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.167393,
+          22.448062
+        ]
+      },
+      "properties": {
+        "name": "Kwong Fuk Lane",
+        "address": "Shop 2 on G/F & Cockloft, Fuk Cheong Building, Nos. 12-14 Kwong Fuk Lane, Nos. 5, 7 & 19 Kwong Fuk Square, Tai Po, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.177335,
+          22.278045
+        ]
+      },
+      "properties": {
+        "name": "Kwong Sang Hong",
+        "address": "Shop A2, G/F, Kwong Sang Hong Building Block A, 298 Hennessy Road, Wan Chai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.227989,
+          22.307066
+        ]
+      },
+      "properties": {
+        "name": "Laguna City",
+        "address": "Shop 60-63, Level 1, Laguna City Plaza, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.161148,
+          22.328333
+        ]
+      },
+      "properties": {
+        "name": "Lai Chi Kok",
+        "address": "Ground Floor including Cockloft, 308 Lai Chi Kok Road, Shamshuipo, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.126988,
+          22.359366
+        ]
+      },
+      "properties": {
+        "name": "Lai Fong Street",
+        "address": "Shop 8, 9 & 10 on G/F, Foon Tak Building, No. 1 Lai Fong Street, Nos. 38-44 Shing Fong Street, Kwai Chung, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.157031,
+          22.333576
+        ]
+      },
+      "properties": {
+        "name": "Lai Kok Estate",
+        "address": "Shop 1-2 on Ground Flor, Lai Kok Shopping Centre, Lai Kok Estate, Shamshuipo, Kowloon, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.221251,
+          22.283296
+        ]
+      },
+      "properties": {
+        "name": "Lai Wan Building",
+        "address": "Shop F on G/F & Cockloft, Lai Wan Building, Nos.33, 37-55 Shau Kei Wan Road, No.1 Tai Hong Street,H.K."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.168811,
+          22.31824
+        ]
+      },
+      "properties": {
+        "name": "Langham Place",
+        "address": "Shop 35b in Basement 2, Langham Place, 8 Argyle Street,Mongkok, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.136515,
+          22.378105
+        ]
+      },
+      "properties": {
+        "name": "Lei Muk Shue",
+        "address": "Shop 117, Lei Muk Shue Shopping Centre, Lei Muk Shue Estate, Tsuen Wan, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.155856,
+          22.24115
+        ]
+      },
+      "properties": {
+        "name": "Lei Tung Estate",
+        "address": "Shop 205,1/F,Commercial Centre,Lei Tung Estate,Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.239616,
+          22.296579
+        ]
+      },
+      "properties": {
+        "name": "Lei Yue Mun",
+        "address": "Shop No. 124A, 1/F, Lei Yue Mun Plaza, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.963545,
+          22.406647
+        ]
+      },
+      "properties": {
+        "name": "Leung King",
+        "address": "Shop Nos. L307 and L308, Level 3, Leung King Shopping Centre, Leung King Estate, No. 31 Tin King Road, Tuen Mun, N. T"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.059119,
+          22.366606
+        ]
+      },
+      "properties": {
+        "name": "Lido Avenue",
+        "address": "Shop Nos. 7 & 8 on Ground Floor of Lido Avenue, No. 41 – 63 Castle Peak Road, Sham Tseng, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.000232,
+          22.452328
+        ]
+      },
+      "properties": {
+        "name": "Locwood Court",
+        "address": "Shop Nos. 3 & 4 on 1/F, The Mall of Commercial Development, Locwood Court, Kingswood Villas, 1 Tin Wu Road, Tin Shui Wai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.187445,
+          22.338505
+        ]
+      },
+      "properties": {
+        "name": "Lok Fu",
+        "address": "Shop Nos. L106-108, Upper Ground Floor 1, Lok Fu Plaza, Wang Tau Hom, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.186527,
+          22.338545
+        ]
+      },
+      "properties": {
+        "name": "Lok Fu Shopping Centre",
+        "address": "Shop 2117, 2/F, Lok Fu Shopping Centre, Lok Fu, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.066557,
+          22.514564
+        ]
+      },
+      "properties": {
+        "name": "Lok Ma Chau MTR Station(Shop no. 1)",
+        "address": "MTR Station Shop LMC 115 and Storeroom LMC STR 11, Lok Ma Chau Station, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.065621,
+          22.514614
+        ]
+      },
+      "properties": {
+        "name": "Lok Ma Chau MTR Station(Shop no. 2)",
+        "address": "MTR Station, Shop LMC 208 and Storeroom LMC STR 12,Lok Ma Chau Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.219975,
+          22.321852
+        ]
+      },
+      "properties": {
+        "name": "Lok Wah",
+        "address": "Shop 314, 3/F., Lok Wah (North) Shopping Centre, Lok Wah (North) Estate, Ngau Tau Kok, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19124,
+          22.382743
+        ]
+      },
+      "properties": {
+        "name": "Lucky Plaza",
+        "address": "Shop 37A, Level 3, Lucky Plaza, Shatin, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.119818,
+          22.372723
+        ]
+      },
+      "properties": {
+        "name": "Luk Yeung Sun Chuen",
+        "address": "F20, 1/F, Luk Yeung Shopping Centre, Luk Yeung Sun Chuen, Tsuen Wan, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.191803,
+          22.342254
+        ]
+      },
+      "properties": {
+        "name": "Lung Cheung Mall",
+        "address": "Shop 107A & 108A, Level 1, Lung Cheung Mall , 136 Lung Cheung Road, Wong Tai Sin, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.230773,
+          22.425596
+        ]
+      },
+      "properties": {
+        "name": "Ma On Shan",
+        "address": "Shop 222-225, Level 2, Ma On Shan Plaza, Ma On Shan, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.107944,
+          22.359309
+        ]
+      },
+      "properties": {
+        "name": "Maritime Square",
+        "address": "Unit 149, Level 1, Maritime Square, Tsing Yi, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.208245,
+          22.319594
+        ]
+      },
+      "properties": {
+        "name": "Mega Box",
+        "address": "Unit 6 on Level 5, Mega Box, Enterprise Square Five, 38 Wan Chiu Road, Kowloon Bay, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.139063,
+          22.337741
+        ]
+      },
+      "properties": {
+        "name": "Mei Foo",
+        "address": "G/F, N58 & N65-N68, No.5-7 Mount Sterling Mall, Stage 7, Mei Foo, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15661,
+          22.282279
+        ]
+      },
+      "properties": {
+        "name": "Melbourne Plaza",
+        "address": "Shop G1-A, G/F, Melbourne Plaza, 33 Queen's Road Central,Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.257598,
+          22.322966
+        ]
+      },
+      "properties": {
+        "name": "Metro City Phase II",
+        "address": "Shops UG026-27, Upper Ground Floor, Metro City Phase II,Tseung Kwan O, Town Lot No. 27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.251745,
+          22.304058
+        ]
+      },
+      "properties": {
+        "name": "Metro Town",
+        "address": "Shop Nos.L12-018 & L2-019 on Level 2 of the Commercial Development of Metro Town, Tseung Kwan O Town Lot.No.73, Tseung Kwan O, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.127133,
+          22.357329
+        ]
+      },
+      "properties": {
+        "name": "Metroplaza",
+        "address": "Shop 221-223, Level 2, Metroplaza, Kwai Fong, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.183277,
+          22.302981
+        ]
+      },
+      "properties": {
+        "name": "Metropolis Mall",
+        "address": "Shop No. 719 & 720B, Level 7, The Metropolis Mall , 6 Metropolis Drive, Hunghom."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.195848,
+          22.332352
+        ]
+      },
+      "properties": {
+        "name": "Mikiki",
+        "address": "Shop No. 135 on the First Floor of Mikiki, 638 Prince Edward Road East, San Po Kong, NKIL 6307, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17257,
+          22.322061
+        ]
+      },
+      "properties": {
+        "name": "Mong Kok East Station",
+        "address": "MTR Station Shop MKK 22 at Mong Kok East Station, Mongkok, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.169289,
+          22.318441
+        ]
+      },
+      "properties": {
+        "name": "Mongkok",
+        "address": "Shop No.C1, G/F. & Whole of Mezzanine Floor, Wu Sang House, 655 Nathan Road, Mongkok, KLN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.195065,
+          22.290176
+        ]
+      },
+      "properties": {
+        "name": "Nam Tin Building",
+        "address": "Part of Ground Floor of Nam Tin Building, 275 King's Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.116438,
+          22.373799
+        ]
+      },
+      "properties": {
+        "name": "Nan Fung Centre",
+        "address": "Unit A120, Nan Fung Centre, 264-298 Castle Peak Road Tsuen Wan,Tsuen Wan, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.171016,
+          22.312538
+        ]
+      },
+      "properties": {
+        "name": "Nathan Road",
+        "address": "Shop on G/F, Golden Dragon Commercial Building, No.522 Nathan Road, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.236975,
+          22.264164
+        ]
+      },
+      "properties": {
+        "name": "New Jade Shopping Arcade",
+        "address": "Shop No. 113, Level 1, New Jade Shopping Arcade, Chai Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.188067,
+          22.381853
+        ]
+      },
+      "properties": {
+        "name": "New Town Plaza",
+        "address": "Shops 451-453 on Level 4, New Town Plaza, Phase 1, Shatin, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.027714,
+          22.442866
+        ]
+      },
+      "properties": {
+        "name": "New Yuen Long",
+        "address": "Shop 2 & 3, 8-10, G/F, Hing Fat House, 9-13 Kau Yuk Road, Yuen Long, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.222348,
+          22.315083
+        ]
+      },
+      "properties": {
+        "name": "Ngau Tau Kok Road",
+        "address": "Shop 1 on G/F, 327-33 Ngau Tau Kok Road, Kwun Tong, Kkowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.127904,
+          22.282425
+        ]
+      },
+      "properties": {
+        "name": "No.102-114 Belcher’s Street",
+        "address": "Shop G & H, G/F, No. 102-114 Belcher’s Street, Luen Yau Building, Sai Wan, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.178494,
+          22.311987
+        ]
+      },
+      "properties": {
+        "name": "Oi Man",
+        "address": "Shop No. G16, G/F, Oi Man Shopping Centre, No. 60 Chung Hau Street, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.162377,
+          22.316185
+        ]
+      },
+      "properties": {
+        "name": "Olympian City",
+        "address": "Shop 108, 1/F., Olympian City 2, 18 Hoi Ting Road, Tsimshatsui, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.159201,
+          22.321902
+        ]
+      },
+      "properties": {
+        "name": "Olympian City 3",
+        "address": "SHOP NOS. UG91 & UG92, UG/F, OLYMPIAN CITY 3, 1 HOI WANG ROAD, KLN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.026696,
+          22.446002
+        ]
+      },
+      "properties": {
+        "name": "On Ning Road",
+        "address": "Shop A and Cockloft on G/F, Sun Wing Building, 61 Yuen Long On Ning Road, Yuen Long, NT."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.975386,
+          22.38762
+        ]
+      },
+      "properties": {
+        "name": "On Ting Shopping Centre",
+        "address": "Shop No. M205 and M206, Second Floor, Restaurant Block, On Ting Estate, Tuen Mun, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.030746,
+          22.444281
+        ]
+      },
+      "properties": {
+        "name": "Opulence Height",
+        "address": "Shop No. 4-5 on Ground Floor, Opulence Height, No.46A, 48 Castle Peak Road, Yuen Long, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16481,
+          22.277781
+        ]
+      },
+      "properties": {
+        "name": "Pacific Place",
+        "address": "Unit 145, Level One, Pacific Place, Phase II, 88 Queensway,Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.198697,
+          22.394553
+        ]
+      },
+      "properties": {
+        "name": "Palazzo",
+        "address": "Shop 102B, The Palazzo, Fo Tan, Shatin, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.166432,
+          22.448183
+        ]
+      },
+      "properties": {
+        "name": "Po Heung Street",
+        "address": "Portion of G/F & 1/F, 82 Po Heung Street, Tai Po, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.167506,
+          22.323768
+        ]
+      },
+      "properties": {
+        "name": "Prince Edward Rd West",
+        "address": "Ground Floor, Nos. 135 Prince Edward Road West, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15646,
+          22.283403
+        ]
+      },
+      "properties": {
+        "name": "Prosperous Building",
+        "address": "Shop A on G/F & Shop B on G/F and B/M, Prosperous Building, 48-52 Des Voeux Road Central, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.195274,
+          22.292263
+        ]
+      },
+      "properties": {
+        "name": "Provident Centre",
+        "address": "Shop B20, Basement, Commercial Podium of Provident Ctr., 21-53 Wharf Road, North Point, HK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.212443,
+          22.284552
+        ]
+      },
+      "properties": {
+        "name": "Quarry Bay",
+        "address": "Portion of Lower Ground Floor, Fok Cheong Building, 1032-1044 King’s Road, Quarry Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.11006,
+          22.343244
+        ]
+      },
+      "properties": {
+        "name": "Rambler Plaza",
+        "address": "Shop No. 7 on Level 1, Rambler Plaza, Rambler Crest, 1 Tsing Yi Road, Tsing Yi Town Lot 140, Tsing Yi, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.144256,
+          22.501354
+        ]
+      },
+      "properties": {
+        "name": "Regentville",
+        "address": "Shop No. 27-28 on First Floor, Regentville Shopping Mall, 8 Wo Mun Street, Luen Wo Hui, Fanling, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.272068,
+          22.382899
+        ]
+      },
+      "properties": {
+        "name": "Sai Kung",
+        "address": "Shop No. 54 & 55, G/F, Sai Kung Town Centre, 22-40 Fuk Man Rd, Sai Kung, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.170807,
+          22.315612
+        ]
+      },
+      "properties": {
+        "name": "Sai Yeung Choi Street South",
+        "address": "Shop Nos. 2W and 2X Sai Yeung Choi Street South, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.129144,
+          22.503708
+        ]
+      },
+      "properties": {
+        "name": "San Hong Street",
+        "address": "G/F & C/L, No. 86 San Hong Street North, Sheung Shui, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.196393,
+          22.335992
+        ]
+      },
+      "properties": {
+        "name": "San Po Kong",
+        "address": "G/F, 52 Tseuk Luk Street, Sanpokong, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.028221,
+          22.445097
+        ]
+      },
+      "properties": {
+        "name": "Sau Fu Street",
+        "address": "G/F, 17 Sau Fu Street, Yuen Long, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.232034,
+          22.319642
+        ]
+      },
+      "properties": {
+        "name": "Sau Mau Ping Shopping Centre",
+        "address": "Shop 2, G/F, Sau Mau Ping Shopping Centre, 101 Sau Ming Road, Kwun Tong, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.233574,
+          22.307004
+        ]
+      },
+      "properties": {
+        "name": "Sceneway Plaza",
+        "address": "Portion B of Shop No.1 of Unit 2 on Level (site 1) 26 of Commercial Development Sceneway Garden, No. 8 Sceneway Road, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.224229,
+          22.546254
+        ]
+      },
+      "properties": {
+        "name": "Sha Tau Kok Chuen",
+        "address": "Shop 1 on G/F, Block 16, Sha Tau Kok Chuen, Sha Tau Kok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.164667,
+          22.331422
+        ]
+      },
+      "properties": {
+        "name": "Sham Shui Po",
+        "address": "Entrance of Shop C on G/F and Portion of Shops no. A & B on 1/F, Diamond Bldg., 2A – B Un Chau Street, Sham Shui Po, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.190365,
+          22.382919
+        ]
+      },
+      "properties": {
+        "name": "Shatin Centre",
+        "address": "Shop 52A & 52B1, Level 3, Shatin Centre, N. T., STTL16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.189153,
+          22.383269
+        ]
+      },
+      "properties": {
+        "name": "Shatin Plaza",
+        "address": "Shop 33, L3, Shatin Plaza, STTL 189, N. T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.227074,
+          22.277451
+        ]
+      },
+      "properties": {
+        "name": "Shau Kei Wan",
+        "address": "Shop D & E, G/F., King Fai Building, 104 Shau Kei Wan Main Street, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.139213,
+          22.365706
+        ]
+      },
+      "properties": {
+        "name": "Shek Lei Estate II",
+        "address": "Shop No. 1, Ground Floor, Shek Lei Shopping Centre II, Shek Lei II Estate, Kwai Chung, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.138594,
+          22.371622
+        ]
+      },
+      "properties": {
+        "name": "Shek Yam",
+        "address": "Shop No. 101, LG 1/F., Shek Yam Shopping Centre, Shek Yam Estate, Kwai Chung, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.197651,
+          22.343646
+        ]
+      },
+      "properties": {
+        "name": "Sheung Fung Street",
+        "address": "Shop A & B, No.6 Sheung Fung Street and No. 2 Wan Fung Street, Wong Tai Sin, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.127243,
+          22.504016
+        ]
+      },
+      "properties": {
+        "name": "Sheung Shui",
+        "address": "G/F & Cockloft, 43-45 Fu Hing Street, Sheung Shui, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.130697,
+          22.501144
+        ]
+      },
+      "properties": {
+        "name": "Sheung Shui Centre",
+        "address": "Shop 2037, Level 2, Sheung Shui Centre, 3 Chi Cheong Road, Sheung Shui, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.128229,
+          22.501144
+        ]
+      },
+      "properties": {
+        "name": "Sheung Shui Station",
+        "address": "MTR Station Shop SHS 3 at Sheung Shui Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.258848,
+          22.311061
+        ]
+      },
+      "properties": {
+        "name": "Sheung Tak",
+        "address": "Shop 202, 2/F, Sheung Tak Shopping Centre, Tseung Kwan O, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.248771,
+          22.262824
+        ]
+      },
+      "properties": {
+        "name": "Siu Sai Wan Shopping Centre",
+        "address": "Shop No. 108, First Floor, Siu Sai Wai Shopping Centre, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.121272,
+          22.368814
+        ]
+      },
+      "properties": {
+        "name": "Smartland",
+        "address": "Shop G7, G/F, East Asia Gardens, 16 Tsuen Wah Street, Tsuen Wan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.146758,
+          22.243928
+        ]
+      },
+      "properties": {
+        "name": "South Horizons",
+        "address": "Shop112, 112A & 113 Rear Portion, 1/F, South Horizon Marina Square West Comm.Ctr., Apleichau, HK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21269,
+          22.218836
+        ]
+      },
+      "properties": {
+        "name": "Stanley",
+        "address": "G/F & 1/F, Shop A3&5 Stanley New Street,Stanley,Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.168828,
+          22.294512
+        ]
+      },
+      "properties": {
+        "name": "Star House",
+        "address": "Shop 1 & 2, G/F, Star House, 3 Salisbury Road, Tsimshatsui, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.181147,
+          22.369258
+        ]
+      },
+      "properties": {
+        "name": "Sun Chui Estate",
+        "address": "Shop 4 on Ground Floor, Sun Chui Shopping Centre, Sun Chui Estate, Tai Wai, Shatin, New Territories, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.963754,
+          22.381644
+        ]
+      },
+      "properties": {
+        "name": "Sun Tuen Mun Centre",
+        "address": "Shop 125, Level 3, Sun Tuen Mun Shopping Centre, 55-65 Lung Mun Road, Tuen Mun, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.231814,
+          22.424222
+        ]
+      },
+      "properties": {
+        "name": "Sunshine City",
+        "address": "Shop Nos. 2192-95, Level 2, Sunshine City Plaza, Ma On Shan, Shatin Town Lot 307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16172,
+          22.32177
+        ]
+      },
+      "properties": {
+        "name": "Tai Kok Tsui",
+        "address": "Shop 1, G/F, Tai Kung Building, Cosmopolitan Estate, 107-127 Tai Kok Tsui Road,Tai Kok Tsui, KLN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.169273,
+          22.452477
+        ]
+      },
+      "properties": {
+        "name": "Tai Po Mega Mall",
+        "address": "Shop No. 673, Level 1, Zone D, Tai Po Mega Mall, Tai Po, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.177791,
+          22.375516
+        ]
+      },
+      "properties": {
+        "name": "Tai Wai",
+        "address": "Shop A & B, G/F & Cockloft, Chung Pak Lau, 28-30 Tai Wai Road, Tai Wai, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.178272,
+          22.372534
+        ]
+      },
+      "properties": {
+        "name": "Tai Wai KCR Station",
+        "address": "Shop No.31 & 32at the Unpaid Concourse, Tai Wai Station, MTR East Rail, New Territories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.160207,
+          22.450722
+        ]
+      },
+      "properties": {
+        "name": "Tai Wo Estate",
+        "address": "Shop 230, 230A and 231, Level 2, Tai Wo Shopping Centre, Tai Wo Estate, Tai Po, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.217164,
+          22.285912
+        ]
+      },
+      "properties": {
+        "name": "Taikooshing",
+        "address": "Unit 210, 2/F, Cityplaza N, Taikoo Shing, Quarry Bay, HK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.237929,
+          22.310341
+        ]
+      },
+      "properties": {
+        "name": "Tak Tin Shopping Centre",
+        "address": "Shop No. G2A, G/F, Tak Tin Shopping Centre, 223 Pik Wan Road, Lam Tin, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.213693,
+          22.323934
+        ]
+      },
+      "properties": {
+        "name": "Telford Plaza",
+        "address": "Shop Units 506-507, Telford Plaza II, Kowloon Bay, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.149615,
+          22.334146
+        ]
+      },
+      "properties": {
+        "name": "The Pacifica Mall",
+        "address": "Shop No. 41, 42 & 47, 2/F, The Pacifica Mall, No. 9 Sham Shing Road, Lai Chi Kok, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.184218,
+          22.282242
+        ]
+      },
+      "properties": {
+        "name": "The World Trade Centre",
+        "address": "Shop No. P211A on Podium 2 of The World Trade Centre, 280 Gloucester Road, Causeway Bay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.182016,
+          22.27836
+        ]
+      },
+      "properties": {
+        "name": "Times Square",
+        "address": "Shop 905A, 9/F, Times Square, Causeway Bay, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.998708,
+          22.46846
+        ]
+      },
+      "properties": {
+        "name": "Tin Chak",
+        "address": "Shop No. 105, Tin Chak Shopping Centre, Tin Chak Estate, Tin Shui Wai, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19241,
+          22.282931
+        ]
+      },
+      "properties": {
+        "name": "Tin Hau",
+        "address": "Shop C, C1 & D, G/F., Kiu Hing Mansion , 14 King's Road , North Point, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.133634,
+          22.50348
+        ]
+      },
+      "properties": {
+        "name": "Tin Ping Estate",
+        "address": "Shops 108 & 120 on Ground Floor, Tin Ping Shopping Centre, Tin Ping Estate, Sheung Shui, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.003319,
+          22.450781
+        ]
+      },
+      "properties": {
+        "name": "Tin Yiu Estate",
+        "address": "Shop Nos. L033 and L034, Ground Floor, Tin Yiu Shopping Centre, Tin Shui Wai, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.190524,
+          22.317438
+        ]
+      },
+      "properties": {
+        "name": "Tokwawan",
+        "address": "G/F, Shop 20-1, Portion of Shop 30B, Honor Building, 80-2 Tokwawan Road,Tokwawan,Kln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.975599,
+          22.393226
+        ]
+      },
+      "properties": {
+        "name": "Trend Plaza, Tuen Mun",
+        "address": "Shop 11A &11B, Level 2, South Wing, Trend Plaza, Tuen Mun, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9779,
+          22.40249
+        ]
+      },
+      "properties": {
+        "name": "Tseng Choi Street",
+        "address": "Shop Nos11 & 12 on G/F, Kam Men Mansion, No.15 Tseng Choi Street, Tuen Mun, New Territores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.110811,
+          22.37093
+        ]
+      },
+      "properties": {
+        "name": "Tsuen Wan Plaza",
+        "address": "Shop Nos. 201-202, Level 2, Tsuen Wan Plaza, Tsuen Wan, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.200343,
+          22.347426
+        ]
+      },
+      "properties": {
+        "name": "Tsz Wan Shan",
+        "address": "Shop 414-416, Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Tze Wan Shan, Kln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.976602,
+          22.393509
+        ]
+      },
+      "properties": {
+        "name": "Tuen Mun",
+        "address": "Shop 2115-2122, 2/F, Tuen Mun Town Plaza, Tuen Mun, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.976476,
+          22.394087
+        ]
+      },
+      "properties": {
+        "name": "Tuen Mun Town Plaza Phase II",
+        "address": "Shop Nos. 43, 1/F, Tuen Mun Town Plaza Phase II, 3 Tuen Long Street, Tuen Mun, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.941234,
+          22.289067
+        ]
+      },
+      "properties": {
+        "name": "Tung Chung MTR Station (Shop no. 1)",
+        "address": "MTR Concessions TUC 11 and TUC 12, MTR Tung Chung Station, Lantau Island, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.941234,
+          22.289067
+        ]
+      },
+      "properties": {
+        "name": "Tung Chung MTR Station (Shop no. 2)",
+        "address": "MTR Station Concessions TUC 23-24, MTR Tung Chung Station, Lantau Island, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.187906,
+          22.279097
+        ]
+      },
+      "properties": {
+        "name": "Tung Lo Wan Road",
+        "address": "Portion of Portion # 2 of Shop A, G/F., Cathay Mansion, 3-5 Tung Lo Wan Road, Causeway Bay, HK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.154907,
+          22.33859
+        ]
+      },
+      "properties": {
+        "name": "Un Chau Shopping Centre",
+        "address": "Shop No.1, Un Chau Shopping Centre, Un Chau Street, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.167886,
+          22.3254
+        ]
+      },
+      "properties": {
+        "name": "Union Park Centre",
+        "address": "Shop Nos. 4-6, Ground Floor, Union Park Centre, 771-775 Nathan Road, Mongkok, Kowloon, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.165303,
+          22.278643
+        ]
+      },
+      "properties": {
+        "name": "United Centre",
+        "address": "Shop 1003-1004, 1/F., United Centre, 95 Queensway Road, Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.169249,
+          22.444063
+        ]
+      },
+      "properties": {
+        "name": "Uptown Plaza",
+        "address": "Shop 079-082, Level 1, Uptown Plaza, Tai Po, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.974233,
+          22.394412
+        ]
+      },
+      "properties": {
+        "name": "V City",
+        "address": "Shop M -32, MTR Level, V City, 83 Tuen Mun Heung Sze Wui Road, Tuen Mun, N.T."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.136888,
+          22.286937
+        ]
+      },
+      "properties": {
+        "name": "Wah Ming Centre",
+        "address": "G/F,Wah Ming Centre,396 Des Voeux Road West,Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.977989,
+          22.391916
+        ]
+      },
+      "properties": {
+        "name": "Waldorf Avenue",
+        "address": "Shop No. 5B1 on Level Three of Waldorf Avenue, No 1 Tuen Lee Street, Tuen Mun, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.189161,
+          22.305207
+        ]
+      },
+      "properties": {
+        "name": "Whampoa Garden",
+        "address": "Shop G5 & B7, G/F & B/F, Site 2, Whampoa Garden, 9 Shung King Street, Hunghom, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18649,
+          22.280435
+        ]
+      },
+      "properties": {
+        "name": "Windsor House",
+        "address": "Shop 73, 75 & 76 on Basement, Windsor House, 311 Gloucester Road, Causeway Bay, HK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.195371,
+          22.387889
+        ]
+      },
+      "properties": {
+        "name": "Wo Che Estate",
+        "address": "Shop No. 233, Second Floor, Wo Che Shopping Centre, Wo Che Estate, Shatin, NT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.194309,
+          22.341443
+        ]
+      },
+      "properties": {
+        "name": "Wong Tai Sin Shopping Centre",
+        "address": "Shop No. B02, Basement Floor, Wong Tai Sin Shopping Centre, Wong Tai Sin Estate, Kowloon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.027395,
+          22.444428
+        ]
+      },
+      "properties": {
+        "name": "Yuen Long",
+        "address": "G/F, 1/F & 2/F, 142 Castle Peak Road,Yuen Long, New Territories"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.028525,
+          22.442639
+        ]
+      },
+      "properties": {
+        "name": "Yuen Long Citimall",
+        "address": "Shop Nos. 2, 41 & 42, G/F, Citimall, 1 Kau Yuk Road, Yuen Long"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.023996,
+          22.444926
+        ]
+      },
+      "properties": {
+        "name": "Yuen Long Plaza",
+        "address": "Shop Nos. 65-70 on G/F, Yuen Long Plaza, 245-251 Castle Peak Road, Yuen Long, New Territories"
+      }
+    }
+  ]
+}

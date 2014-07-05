@@ -1694,20 +1694,6 @@
         "name": "Kiang Wu Hospital",
         "address": "Citygate outlets, 20 Tat Tung Road, Tung Chung, Hong Kong"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.109497,
-          22.396428
-        ]
-      },
-      "properties": {
-        "name": "City of Dreams - Dancing Water Boulevard",
-        "address": "Travessa dos Anjos 16, EdfTin Fook G FL, Hong Kong"
-      }
     }
   ]
 }

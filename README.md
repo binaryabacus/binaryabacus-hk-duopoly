@@ -4,6 +4,10 @@
 - google place API to get location of chain store?
 - voronoi diagram clip by hong kong topojson
 
+## analysis
+- https://www.jasondavies.com/maps/voronoi/us-capitals/
+- focus on duopoly
+
 ## todos
 
 ### done
@@ -14,12 +18,20 @@
 - fade in maps when zoomed in
   - https://www.mapbox.com/blog/election-mapping-usatoday/
   - http://bl.ocks.org/ZJONSSON/2957559
-
-### features
+- limit paning area
+- make better coastline map
 - process pacific coffee and starbucks
   - http://www.pacificcoffee.com/eng/store/fulllist.php
   - http://www.starbucks.com.hk/store-locator/search/location/Hong%20Kong
   - https://opendata.socrata.com/Business/All-Starbucks-Locations-in-the-World/xy4y-c4mk
+
+### features
+- mannings vs watsons
+  - 
+- 711 vs ok
+- fortress vs broadway?
+- kfc vs mcdonalds?
+- chinese fast food restaurant?
 - animate between parknshop + wellcome and normal district
   - transition between sets of points
   - for each point from new set, find closest points from old set
@@ -32,9 +44,8 @@
 - click to zoom doesn't work after color-filled in voronoi
 
 ### good-to-have
-- limit paning area
-- find better coastline map
-  - http://gazetteer.hk/scripts/geo/ca_polygon.topo.json
+- graph coloring so that district color won't collide
+  - http://bl.ocks.org/1wheel/5899035
 
 ### optimization
 - clip district by preprocessing

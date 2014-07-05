@@ -78,4 +78,22 @@ data/pacificcoffee.geojson: data/pacificcoffee.json
 data/pacificcoffee.topojson: data/pacificcoffee.geojson
 	$(topojson) $< -p name -p address -o $@
 
+data/starbucks.json:
+	./starbucks.js -o $@ -v
+
+data/starbucks.geojson: data/starbucks.json
+	./latlng-to-geojson.js $< -o $@ -v
+
+data/starbucks.topojson: data/starbucks.geojson
+	$(topojson) $< -p name -p address -o $@
+
+data/watsons.json:
+	./watsons.js -v -o $@
+
+data/watsons.geojson: data/watsons.json
+	./latlng-to-geojson.js $< -o $@ -v
+
+data/watsons.topojson: data/watsons.geojson
+	$(topojson) $< -p name -p address -o $@
+
 .PHONY: all data cleanmap

@@ -179,7 +179,7 @@ fs.readFileAsync(inputFile, { encoding: 'utf8' }).then(function (content) {
     log(shop.name, ' | ', shop.address, shop.lat, shop.lng);
   });
 
-  return fs.writeFileAsync(outputFile, JSON.stringify(shops, null, 2))
+  return fs.writeFileAsync(outputFile, JSON.stringify(shops, null, 2));
 });
 
 function getLatLng (address) {

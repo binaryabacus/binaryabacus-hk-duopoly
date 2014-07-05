@@ -27,13 +27,18 @@ map._initPathRoot();
 var svg = d3.select('#leaflet svg')
 var g = svg.append('g');
 
-var tip = d3.tip().html(function(d) {
+var voronoi_tip = d3.tip().html(function(d) {
   return '<div>' +
     '<p><span class="shop-type">' + d.id + '</span> - <span class="shop-name">' + d.data.name + '</span></p>' +
     '<p><span class="shop-address">' + d.data.address + '</span></p>' +
     '</div>'
 });
-svg.call(tip);
+svg.call(voronoi_tip);
+
+var district_tip = d3.tip().html(function(d) {
+  return '<p>' + d.properties.name + '</p>'
+});
+svg.call(district_tip);
 
 var coastlineClip = svg.append('clipPath')
   .attr('id', 'coastline')
@@ -43,38 +48,67 @@ $.when(
   $.getJSON('/data/hongkong-admin.topojson'),
   $.getJSON('/data/hongkong-coastline-intersection.topojson'),
   $.getJSON('/data/parknshop.geojson'),
-  $.getJSON('/data/wellcome.geojson')
-).then(function (hkdistrict, hkcoastline, parknshop, wellcome) {
-  parknshop = parknshop[0];
-  wellcome = wellcome[0];
+  $.getJSON('/data/wellcome.geojson'),
+  $.getJSON('/data/pacificcoffee.geojson'),
+  $.getJSON('/data/starbucks.geojson'),
+  $.getJSON('/data/watsons.geojson')
+).then(function (hkdistrict, hkcoastline, parknshop, wellcome, pacificcoffee, starbucks, watsons) {
   hkdistrict = hkdistrict[0];
   hkcoastline = hkcoastline[0];
+  parknshop = parknshop[0];
+  wellcome = wellcome[0];
+  pacificcoffee = pacificcoffee[0];
+  starbucks = starbucks[0];
+  watsons = watsons[0];
 
   topojson.presimplify(hkdistrict);
 
   var district = topojson.feature(hkdistrict, hkdistrict.objects['hongkong-admin']).features;
   var coastline = topojson.feature(hkcoastline, hkcoastline.objects['hongkong-coastline-intersection']);
 
-  function update () {
-    var parknshop_points = parknshop.features.map(function (d) {
-      return {
-        coor: projection(d.geometry.coordinates),
-        data: d.properties,
-        id: 'Parknshop',
-        color: '#333c91'
-      };
-    });
+  parknshop.meta = { id: 'ParkNShop', color: '#333c91' };
+  wellcome.meta = { id: 'Wellcome', color: '#c9213a' };
+  pacificcoffee.meta = { id: 'Pacific Coffee', color: '#b7010c' };
+  starbucks.meta = { id: 'Starbucks', color: '#006341' };
+  watsons.meta = { id: 'Watson\'s', color: '#00a0a0' };
 
-    var wellcome_points = wellcome.features.map(function (d) {
-      return {
-        coor: projection(d.geometry.coordinates),
-        data: d.properties,
-        id: 'Wellcome',
-        color: '#c9213a'
-      };
-    });
+  var data_group = {
+    grocery: [parknshop, wellcome],
+    coffee: [pacificcoffee, starbucks],
+    phramacy: [watsons],
+    district: []
+  };
+  var current_group = 'district';
 
-    var points = [].concat(parknshop_points).concat(wellcome_points);
+  d3.select('#coastline path').datum(coastline);
+  g.attr('clip-path', 'url(#coastline)');
+
+  var district_path = g.selectAll('path.hk').data(district)
+    district_path.attr('d', path)
+    district_path.enter().append('path')
+      .attr('d', path)
+      .attr('class', 'district')
+      .style('fill', 'none')
+
+  window.update = update;
+
+  function update (group) {
+    current_group = group || current_group;
+
+    var points = data_group[current_group].reduce(function (points, data) {
+      if (!data) {
+        return points;
+      }
+
+      return points.concat(data.features.map(function (d) {
+        return {
+          coor: projection(d.geometry.coordinates),
+          data: d.properties,
+          id: data.meta.id,
+          color: data.meta.color
+        };
+      }));
+    }, []);
 
     var voronoi = d3.geom.voronoi()
       // .clipExtent([[0, 0], [width, height]])
@@ -86,41 +120,43 @@ $.when(
       d.voronoi = voronoi[i];
     });
 
-    d3.select('#coastline path')
-      .datum(coastline)
-        .attr('d', path);
+    d3.select('#coastline path').attr('d', path);
 
-    g.attr('clip-path', 'url(#coastline)');
+    district_path.attr('d', path);
 
-    g.selectAll('path.hk').data(district)
-        .attr('d', path)
-      .enter().append('path')
-        .attr('d', path)
-        .attr('class', 'district')
-        // .attr('clip-path', 'url(#coastline)')
-        // .style('fill', function (d) { return color(d.properties.name); })
-        .style('fill', 'none')
+    if (group === 'district') {
+      district_path.style('fill', function (d) { return color(d.properties.name); })
+        .on('mouseover', district_tip.show)
+        .on('mousemove', district_tip.show)
+        .on('mouseout', district_tip.hide)
+    } else {
+      district_path.style('fill', 'none')
+    }
 
-    g.selectAll('path.voronoi').data(points)
-        .attr('d', function(d, i) { return d && d.voronoi && 'M' + d.voronoi.join('L') + 'Z'} )
-      .enter().append('path')
-        .attr('d', function(d, i) { return d && d.voronoi && 'M' + d.voronoi.join('L') + 'Z'} )
-        .style('fill', function (d) { return d.color; })
-        .style('opacity', 0.75)
-        .attr('title', function (d) { return d.data.name })
-        .attr('class', 'voronoi')
-        // .on('click', clicked)
-        .on('mouseover', tip.show)
-        .on('mousemove', tip.show)
-        .on('mouseout', tip.hide)
+    var voronoi_path = g.selectAll('path.voronoi').data(points, function (d) { return d.id + d.data.name + d.data.address; })
+    voronoi_path.attr('d', function(d, i) { return d && d.voronoi && 'M' + d.voronoi.join('L') + 'Z'} )
+    voronoi_path.enter().append('path')
+      .attr('d', function(d, i) { return d && d.voronoi && 'M' + d.voronoi.join('L') + 'Z'} )
+      .style('fill', function (d) { return d.color; })
+      .style('opacity', 0.75)
+      .attr('title', function (d) { return d.data.name })
+      .attr('class', 'voronoi')
+      // .on('click', clicked)
+      .on('mouseover', voronoi_tip.show)
+      .on('mousemove', voronoi_tip.show)
+      .on('mouseout', voronoi_tip.hide)
+    voronoi_path.exit()
+      .remove();
 
-    g.selectAll('circle').data(points)
-        .attr('cx', function (d) { return d.coor[0]; })
-        .attr('cy', function (d) { return d.coor[1]; })
-      .enter().append('circle')
-        .attr('r', '1')
-        .attr('cx', function (d) { return d.coor[0]; })
-        .attr('cy', function (d) { return d.coor[1]; });
+    var circle = g.selectAll('circle').data(points, function (d) { return d.data.name + d.data.address; })
+    circle.attr('cx', function (d) { return d.coor[0]; })
+      .attr('cy', function (d) { return d.coor[1]; })
+    circle.enter().append('circle')
+      .attr('r', '1')
+      .attr('cx', function (d) { return d.coor[0]; })
+      .attr('cy', function (d) { return d.coor[1]; })
+    circle.exit()
+      .remove();
   }
 
   function reset () {
@@ -128,14 +164,16 @@ $.when(
   }
 
   var map_opacity_scale = d3.scale.linear().domain([11, 18]).range([0.25, 0.9]);
-  var voronoi_opacity_scale = d3.scale.linear().domain([11, 18]).range([0.75, 0.4]);
+  var overlay_opacity_scale = d3.scale.linear().domain([11, 18]).range([0.75, 0.4]);
 
   function viewreset () {
     d3.select('#leaflet .leaflet-layer')
       .style('opacity', map_opacity_scale(map.getZoom()));
     g.selectAll('path.voronoi')
-      .style('opacity', voronoi_opacity_scale(map.getZoom()));
-    update();
+      .style('opacity', overlay_opacity_scale(map.getZoom()));
+    g.selectAll('path.district')
+      .style('opacity', overlay_opacity_scale(map.getZoom()));
+    update(current_group);
   }
 
   viewreset();
