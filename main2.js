@@ -74,7 +74,7 @@ $.when(
   pacificcoffee.meta = { id: 'Pacific Coffee', color: '#b7010c' };
   starbucks.meta = { id: 'Starbucks', color: '#006341' };
   watsons.meta = { id: 'Watson\'s', color: '#00a0a0' };
-  mannings.meta = { id: 'Mannings', color: 'orange' };
+  mannings.meta = { id: 'Mannings', color: 'fc6523' };
 
   var data_group = {
     grocery: [parknshop, wellcome],
@@ -82,7 +82,7 @@ $.when(
     phramacy: [watsons, mannings],
     district: []
   };
-  var current_group = 'phramacy';
+  var current_group = 'district';
 
   d3.select('#coastline path').datum(coastline);
   g.attr('clip-path', 'url(#coastline)');
@@ -199,3 +199,11 @@ function findBoundary (vertices) {
 
   return [ [minX, minY], [maxX, maxY] ];
 }
+
+window.addEventListener('message', function (event) {
+  try {
+    eval(event.data);
+  } catch (err) {
+    log(err);
+  }
+}, false);

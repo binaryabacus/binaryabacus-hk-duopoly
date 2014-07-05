@@ -10,6 +10,7 @@
 ## todos
 
 ### features
+- loading indicator
 - mannings vs watsons
 - 711 vs ok
 - fortress vs broadway?
