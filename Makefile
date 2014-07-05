@@ -42,7 +42,7 @@ data/hongkong-coastline.topojson: data/hongkong-coastline.geojson
 data/hongkong-coastline-intersection.topojson: data/hongkong-coastline-intersection.geojson
 	$(topojson) $< -s 1e-12 -q 1e7 -o $@
 
-# LatLong Data
+# LatLng Data
 
 data/parknshop-raw.json:
 	curl https://www.kimonolabs.com/api/2v41nzhc?apikey=32zL6ZvMbT0GcgwScxK2DRimiQng0lPH > $@
@@ -94,6 +94,18 @@ data/watsons.geojson: data/watsons.json
 	./latlng-to-geojson.js $< -o $@ -v
 
 data/watsons.topojson: data/watsons.geojson
+	$(topojson) $< -p name -p address -o $@
+
+data/mannings-raw.json:
+	./mannings.js -v -o $@
+
+data/mannings.json: data/mannings-raw.json
+	./get-latlong.js --name mannings $< -o $@ -v
+
+data/mannings.geojson: data/mannings.json
+	./latlng-to-geojson.js $< -o $@ -v
+
+data/mannings.topojson: data/mannings.geojson
 	$(topojson) $< -p name -p address -o $@
 
 .PHONY: all data cleanmap

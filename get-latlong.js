@@ -119,13 +119,15 @@ fs.readFileAsync(inputFile, { encoding: 'utf8' }).then(function (content) {
         /level/ig,
         /\/f/ig, // Remove 1/F
         /g\d+/ig, // Remove G31 - G32
+        /r\d+/ig, // R32 &amp; R33
+        /a\d+/ig, // A55-A59&amp;100
         /floor/ig,
         /^block/ig,
         /portion/ig,
-        /between/ig, // Remove Between Hall 3 and 4
+        /hall/ig,
+        /zone/ig,
         /site \d/ig,
-        /site [a-z]/ig,
-        /site [a-z]/ig
+        /test [a-z]/ig
       ].some(function (regex) {
         return part.match(regex);
       });
@@ -172,12 +174,14 @@ fs.readFileAsync(inputFile, { encoding: 'utf8' }).then(function (content) {
     });
   });
 }).then(function (shops) {
-  log('all done');
+  log('all done', shops.length);
 
-  log('shops without latlng');
-  shops.filter(function (shop) { return !shop.lat; }).forEach(function (shop) {
-    log(shop.name, ' | ', shop.address, shop.lat, shop.lng);
+  shops = shops.filter(function (shop) {
+    // 22.396428, 114.109497 is what GMaps returns when it can't find
+    // anything except Hong Kong
+    return shop.lat && shop.lng && shop.lat !== 22.396428 && shop.lng !== 114.109497;
   });
+  log('shops without latlng', shops.length);
 
   return fs.writeFileAsync(outputFile, JSON.stringify(shops, null, 2));
 });

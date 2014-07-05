@@ -1,0 +1,1187 @@
+{
+  "name": "mannings",
+  "results": {
+    "mannings": [
+      {
+        "name": "Lo Wu Station",
+        "address": "Shop Low 4, MTR Lo Wu Station, Lo Wu, New Territories"
+      },
+      {
+        "name": "Lo Wu Station Arrival",
+        "address": "Shop LOW K12, MTR Lo Wu Station, New Territories"
+      },
+      {
+        "name": "Ching Ho Shopping Centre",
+        "address": "Shop 9, Ching Ho Shopping Centre, Ching Ho Estate, Sheung Shui, New Territories"
+      },
+      {
+        "name": "Choi Yuen Plaza",
+        "address": "Shop Nos. R25,R27,R29,R32 &amp; R33, 3/F, Choi Yuen Plaza, Choi Yuen Estate, Sheung Shui ,New Territories"
+      },
+      {
+        "name": "Lok Ma Chau Departure",
+        "address": "Shops. LMC 119 &amp; 120, MTR Lok Ma Chau Station, New Territories"
+      },
+      {
+        "name": "Lung Fung Garden",
+        "address": "Shop 41, G/F, Lung Fung Garden, 33 Lung Sum Avenue, Sheung Shui, New Territories"
+      },
+      {
+        "name": "San Fung Avenue",
+        "address": "Portion of Shop B G/F, Lung Ha Bldg, 130 San Fung Avenue, Sheung Shui, New Territories"
+      },
+      {
+        "name": "San Hong Street",
+        "address": "G/F., No.96 San Hong Street, Sheung Shui, New Territories"
+      },
+      {
+        "name": "Sheung Shui",
+        "address": "Shop 241-243 &amp; 244B, Metropolis Plaza, 8 Lung Wun Street, Sheung Shui, New Territories"
+      },
+      {
+        "name": "Sheung Shui Centre",
+        "address": "Shop Nos. 2095-2100, Level 2, Sheung Shui Centre, Sheung Shui, New Territories"
+      },
+      {
+        "name": "Sheung Shui Landmark",
+        "address": "Shop 407,Level 4,Landmark North, Shek Wu Hui, Sheung Shui, New Territories"
+      },
+      {
+        "name": "Avon Park",
+        "address": "Shop 19-21, UG/F, Avon Park, 15 Yat Ming Road, Fanling, New Territories"
+      },
+      {
+        "name": "Fanling Centre",
+        "address": "Shop 130, G/F, 33 San Wan Road, Fanling Centre, Phase II, Fanling ,New Territories"
+      },
+      {
+        "name": "Fanling Station",
+        "address": "Shop FAN 9, MTR Fanling Station, Fanling, New Territories"
+      },
+      {
+        "name": "Fanling Town Center",
+        "address": "Shop No. 5, Level 2, Fanling Town Center, 18 Fanling Station Road, Fanling, New Territories"
+      },
+      {
+        "name": "Flora Plaza",
+        "address": "Shop A52, A55-A59&amp;100, G/F, Flora Plaza, 88 Pak Wo Road, Fanling ,New Territories"
+      },
+      {
+        "name": "Ka Fuk Shopping Centre",
+        "address": "Shop no. 111,1/F., Ka Fuk Shopping Centre, Ka Fuk Estate, Fanling, New Territories"
+      },
+      {
+        "name": "Regentville",
+        "address": "Shop 1 &amp; 2, Level 1, Regentville Phase 1, 8 Wo Mun Street, Luen Wo Hui, Fanling ,New Territories"
+      },
+      {
+        "name": "Yung Shing Shopping Centre",
+        "address": "Shop nos. 104-106, 1/F., Yung Shing Shopping Centre, Yung Shing Court, Fanling ,New Territories"
+      },
+      {
+        "name": "Fu Heng",
+        "address": "Shop 28, Fu Heng Shopping Centre, Fu Heng Estate, Tai Po, New Territories"
+      },
+      {
+        "name": "Kwong Fuk Shopping Centre",
+        "address": "Shop nos. 206-209, 1/F., Kwong Fuk Shopping Centre, Kwong Fuk Estate, Tai Po ,New Territories"
+      },
+      {
+        "name": "Po Heung Street",
+        "address": "G/F, 52 Po Heung Street, Tai Po, New Territories"
+      },
+      {
+        "name": "Tai Po",
+        "address": "Shop nos. 067-071 &amp; 071a, L2, Zone A, Tai Po Mega Mall, Tai Po ,New Territories"
+      },
+      {
+        "name": "Tai Wo",
+        "address": "Shop no S214, Second Floor, Tai Woo Shopping Centre, Tai Po, New Territories"
+      },
+      {
+        "name": "Tai Yuen Estate",
+        "address": "Shop 1, G/F., New Annex Block, Tai Yuen Shopping Ctr, Tai Yuen Estate, Tai Po ,New Territories"
+      },
+      {
+        "name": "Uptown Plaza",
+        "address": "Shop 007, Level 1, Uptown Plaza, Tai Po, New Territories"
+      },
+      {
+        "name": "Wan Tau Tong",
+        "address": "Shop 29, Shopping Centre, Wan Tau Tong Estate, Tai Po, New Territories"
+      },
+      {
+        "name": "Tai Wing Lane",
+        "address": "Shop E, G/F, Mee Fat Building, 34-38 &amp; 42-48 Tai Wing Lane, Tai Po, N.T."
+      },
+      {
+        "name": "Fo Tan",
+        "address": "Shop 7-9, 1/F, Shatin Galleria, 18 Shan Mei Street, Fo Tan, New Territories"
+      },
+      {
+        "name": "Plaza Ascot",
+        "address": "Shop Units G63-65, Plaza Ascot, Fotan, New Territories"
+      },
+      {
+        "name": "Chun Shek Shopping Centre",
+        "address": "Shop no.23, 1/F, Chun Shek Shopping Centre, Chun Shek Estate, Shatin, New Territories"
+      },
+      {
+        "name": "Greenwood Garden",
+        "address": "Shop Nos. 12-13, G/F., Greenwood Garden, 7-11 Sha Kok Street, Shatin ,New Territories"
+      },
+      {
+        "name": "Hin Keng",
+        "address": "Shop No.113, G/F, Hin Keng Shopping Ctr, Hin Keng Estate, Shatin ,New Territories"
+      },
+      {
+        "name": "Kwong Yuen",
+        "address": "CB4, Shop 1-3, Kwong Yuen Estate, Shatin, New Territories"
+      },
+      {
+        "name": "Lake Silver",
+        "address": "Shop G02, Lake Silver, Sha Tin Town Lot No.530, Shatin, New Territories"
+      },
+      {
+        "name": "Lek Yuen",
+        "address": "Shop 214, 2/F, Lek Yuen Shopping Centre, Lek Yuen Estate, Shatin ,New Territories"
+      },
+      {
+        "name": "Lung Hang Shopping Centre",
+        "address": "Shop 102,1/F, Lung Hang Shopping Centre, Lung Hang Estate, Shatin, New Territories"
+      },
+      {
+        "name": "Mei Lam Shopping Centre",
+        "address": "Shops 20-22, G/F., Mei Lam Shopping Centre, Mei Lam Estate, Tai Wai, New Territories"
+      },
+      {
+        "name": "Mei Tin Shopping Centre",
+        "address": "Shops 103 &amp; 104, 1/F., Mei Tin Shopping Centre, Mei Tin Estate, Tai Wai ,New Territories"
+      },
+      {
+        "name": "New Town Plaza Phase3",
+        "address": "Shop A194-A196,Lv 1, New Town Plaza Phase III, 2-8 Sha Tin Centre St, Shatin ,New Territories"
+      },
+      {
+        "name": "Choi Ming",
+        "address": "Shop 236-237, Choi Ming Shopping Centre, Tseung Kwan O, New Territories"
+      },
+      {
+        "name": "East Point City",
+        "address": "Shop no.238B, Level 2, East Point City, 8 Chung Wa Road, Tseung Kwan O ,New Territories"
+      },
+      {
+        "name": "Hau Tak Shopping Centre",
+        "address": "Shop no. G23-24, G/F., East Wing, Hau Tak Shopping Centre, Tseung Kwan O ,New Territories"
+      },
+      {
+        "name": "Metro City",
+        "address": "Shop UG006-07, Phase 2, Metrocity, Tseung Kwan O ,New Territories"
+      },
+      {
+        "name": "Metrocity Phase 3",
+        "address": "Shop 205 &amp; 208, Level 2, Metrocity Phase 3, The Metropolis, Tseung Kwan O ,New Territories"
+      },
+      {
+        "name": "Park Central",
+        "address": "Shop No. G33, Park Central, Tong Tak Street, Tseung Kwan O, New Territories"
+      },
+      {
+        "name": "Popcorn",
+        "address": "Shop Units F66&amp;67, 1/F, PopCorn, 9 Tong Yin Street, Tseung Kwan O ,New Territories"
+      },
+      {
+        "name": "Sai Kung",
+        "address": "Shop 26-27, G/F Sai Kung Villa, 22-40 Fuk Man Road, Sai Kung, Kowloon"
+      },
+      {
+        "name": "Sheung Tak Shopping Centre",
+        "address": "Shop 109, 1/F, Sheung Tak Shopping Ctr, Sheung Tak Est, 2 Tong Ming Street, Tseung Kwan O ,New Territories"
+      },
+      {
+        "name": "The Capitol",
+        "address": "Shop Unit 2, Level 3, The Capitol, Tseung Kwan O, New Territories"
+      },
+      {
+        "name": "The Lane",
+        "address": "Shop 1080-1082, Phase 2, Shop Unit 119-121, 1/F., The Lane, Hang Hau, Tseung Kwan O, New Territories"
+      },
+      {
+        "name": "Tsui Lam Shopping Centre",
+        "address": "Shop 101, 5/F., Tsui Lam Shopping Centre, Tsui Lam Estate, Tseung Kwan O, New Territories"
+      },
+      {
+        "name": "Po Lam Estate",
+        "address": "Shop 116 &amp; 117, G/F, Po Kan Hse, Po Lam Est, 18 Po Lam Rd North, Tseung Kwan O, N.T."
+      },
+      {
+        "name": "Tseung Kwan O Baby",
+        "address": "Shop Unit F68, 1/F, Pop Corn, 9 Tong Chun Street, Tseung Kwan O, N.T."
+      },
+      {
+        "name": "New Choi Ming Shopping Centre",
+        "address": "Shop 310,, Choi Ming Shopping Centre,, Tseung Kwan O, N.T."
+      },
+      {
+        "name": "Chun Yin Square",
+        "address": "Shop no. 16, G/F &amp; Cockloft, Kuen Yick Building, No.18 Chun Yin Square, Yuen Long ,New Territories"
+      },
+      {
+        "name": "Fairview Park",
+        "address": "Shop No. 2, G/F, Block D, Town Centre, Fairview Park, Yuen Long ,New Territories"
+      },
+      {
+        "name": "Fung Kam Street",
+        "address": "Shop No.73, G/F, Fortune Centre, 15-21 Fung Kam Street, Yuen Long, New Territories"
+      },
+      {
+        "name": "Hung Shui Kiu",
+        "address": "Shop no. 3, G/F., Beauty Court, 3 Hung Tai Road, Hung Shui Kiu, Yuen Long ,New Territories"
+      },
+      {
+        "name": "Kar Shing",
+        "address": "Shop B &amp; C,G/F, Lok Sing Building, 12-14 Kau Yuk Rd, Yuen Long, New Territories"
+      },
+      {
+        "name": "Kuk Ting Street",
+        "address": "G/F, Kit Man House, 15 Kuk Ting Street, Yuen Long, New Territories"
+      },
+      {
+        "name": "Kwok Wah Mansion",
+        "address": "Shop E, G/F, Kwok Wah Mansion, No.142-148 Castle Peak Road, Yuen Long, New Territories"
+      },
+      {
+        "name": "Kwong Wah Centre",
+        "address": "Shop 4, G/F., Kwong Wah Centre, 34-36 Fau Tsoi Street, Yuen Long, New Territories"
+      },
+      {
+        "name": "Long Ping Estate",
+        "address": "Shop&#xA0;M006 &amp; M007, Mezzanine Floor, Kang Ping House, Blk 5, Long Ping Estate, Yuen Long, New Territories"
+      },
+      {
+        "name": "Richly Plaza",
+        "address": "Shop C61 &amp; C62, 1/F, Richly Plaza, Tin Shui Wai, Yuen Long ,New Territories"
+      },
+      {
+        "name": "Sau Fu Street",
+        "address": "Shop nos.4A&amp;4B, G/F, Yuen Long Centre, No. 51-59 Sau Fu Street, Yuen Long ,New Territories"
+      },
+      {
+        "name": "Tai Hang",
+        "address": "Shop 8-11 &amp; 30, G/F, Tai Hang Building, 10 Tai Hang St, Yuen Long ,New Territories"
+      },
+      {
+        "name": "Tin Shing Shopping Centre",
+        "address": "Shop 118, 1/F, 1/F, Tin Shing Shopping Centre, Tin Shui Wai, Yuen Long ,New Territories"
+      },
+      {
+        "name": "Yuen Long Main Road",
+        "address": "G/F &amp; Cockloft, 187 Castle Peak Road, Lot 3605, D.D.120, Yuen Long ,New Territories"
+      },
+      {
+        "name": "Yuen Long Plaza",
+        "address": "Shop 270-271, Yuen Long Plaza, Yuen Long, New Territories"
+      },
+      {
+        "name": "Yuen Long Wing Wah",
+        "address": "G/F, No 84 Yuen Long Main Road, Yuen Long, New Territories"
+      },
+      {
+        "name": "Sun Yuen Long Centre",
+        "address": "Shop No. A212a, Level 2, , Sun Yuen Long Centre,, Yuen Long,, NT"
+      },
+      {
+        "name": "Chung Fu",
+        "address": "Shop 20, G/F, Phase II, Chung Fu Plaza, Tin Shui Wai, New Territories"
+      },
+      {
+        "name": "Grandeur Terrace",
+        "address": "Shop 104, 1/F., Grandeur Terrace, 88 Tin Shui Road, Tin Shui Wai, New Territories"
+      },
+      {
+        "name": "Kcr - Tin Shui Wai",
+        "address": "Shop 30-33, Paid Concourse, MTR Tin Shui Wai Station, New Territories"
+      },
+      {
+        "name": "Tin Ching Shopping Centre",
+        "address": "Shop 8, Tin Ching Shopping Centre, Tin Ching Estate, Tin Shui Wai, New Territories"
+      },
+      {
+        "name": "Tin Shui Shopping Centre",
+        "address": "Shop no.G31, G/F, Tin Shui Shopping Centre, Tin Shui Wai, New Territories"
+      },
+      {
+        "name": "Tin Wah Estate",
+        "address": "Shop 1B, G/F, Ancillary Facilities Block, Tin Wah Estate, Tin Shui Wai ,New Territories"
+      },
+      {
+        "name": "Tin Yiu",
+        "address": "Shop 9 &amp; 10, Tin Yiu Shopping Centre, Tin Yiu Estate, Tin Shui Wai ,New Territories"
+      },
+      {
+        "name": "Tin Chak Shopping Centre",
+        "address": "Shop 206, 2/F, Tin Chak Shopping Centre, Tin Chak Estate, 71, 73, 75 &amp; 77 Tin Shui Road, Tin Shui Wai"
+      },
+      {
+        "name": "Blossom Garden",
+        "address": "Shop&#xA0;Nos.25-27, G/F, Blossom Garden, 11 Leung Tak Street, Tuen Mun ,New Territories"
+      },
+      {
+        "name": "Butterfly",
+        "address": "Shop L132-133 &amp; L136-137, Level 1, Butterfly Plaza, Tuen Mun ,New Territories"
+      },
+      {
+        "name": "Chi Lok Fa Yuen",
+        "address": "Shop no. 66A, G/F., Chi Lok Fa Yuen, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Fu Tai",
+        "address": "Shop 211, 2/F., Fu Tai Shopping Centre, 9 Tuen Kwai Road, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Glorious Garden",
+        "address": "Shop 55, 56 &amp; 58, Glorious Garden, 45 Lung Mun Road, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Hanford Plaza",
+        "address": "Shop 213-214, Level 2, Hanford Plaza, No.333 Castle Peak Road, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Kcr Siu Hong",
+        "address": "Shop No. 6-9, Unpaid Concourse, MTR Siu Hong Station, New Territories"
+      },
+      {
+        "name": "Kcr Tuen Mun",
+        "address": "Shop No. 9-11, Paid Concourse, MTR Tuen Mun Station, New Territories"
+      },
+      {
+        "name": "Leung King",
+        "address": "Shop 207, Leung King Shopping Centre, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Ocean Walk",
+        "address": "Shop nos. 1 &amp; 85-86, Ocean Walk, 168-236 Wu Chui Road, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Po Tin Shopping Centre",
+        "address": "Shop no 7&amp;8, G/F, Po Tin Shopping Centre, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Shan King",
+        "address": "Shop 125, Shan King Shopping Centre, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Tai Hing Estate",
+        "address": "Shop No. 64, Tai Hing Estate, Shopping Centre, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Tai Hing Garden",
+        "address": "Shop No. 1, G/F., Tai Hing Garden Phase 1, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Trend Plaza",
+        "address": "Shop nos.8 &amp; 39, Level 3, South Wing, Trend Plaza, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Tuen Mun Hospital",
+        "address": "G/F, Ambulatory Care Centre, Tuen Mun Hospital, Tsing Chung Koon Rd, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Tuen Mun Old Town",
+        "address": "Shop C&amp;D, G/F, Forward Mansion, 26A Yan Ching St, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Tuen Mun Town Plaza",
+        "address": "Shop 2199B-2199F, 2/F, Phase 1, Tuen Mun Town Plaza, 1 Tuen Shun Street, Tuen Mun, New Territories"
+      },
+      {
+        "name": "Bellagio Mall",
+        "address": "Shop no. 8, Level 3, Bellagio Mall, 33 Castle Peak Road, Sham Tseng, New Territories"
+      },
+      {
+        "name": "Chung On Street",
+        "address": "Ground Floor Shop, 79 Chung On Street, Tsuen Wan, New Territories"
+      },
+      {
+        "name": "City Landmark",
+        "address": "Shop No G50 - 53 &amp; G56 - 57, G/F, City Landmark Shopping Arcade, 68 Chung On St., Tsuen Wan, New Territories"
+      },
+      {
+        "name": "Citywalk",
+        "address": "Shop No. G39 &amp; G41, G/F, Citywalk, Tsuen Wan, New Territories"
+      },
+      {
+        "name": "Luk Yeung Galleria",
+        "address": "Shop Units P11A &amp; P11B, Luk Yeung Galleria, Tsuen Wan, New Territories"
+      },
+      {
+        "name": "Moon Lok Dai Ha",
+        "address": "Shop 3, G/F, Hong Lok Lau, Moon Lok Dai Ha, No.50 Hoi Pa Street, Tsuen Wan, New Territories"
+      },
+      {
+        "name": "Nina Tower",
+        "address": "Shop No.135,Level 1, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, New Territories"
+      },
+      {
+        "name": "Panda Place",
+        "address": "Shop B118, Basement 1, Panda Place of Panda Hotel, 3 Tsuen Wah Street, Tsuen Wan, New Territories"
+      },
+      {
+        "name": "Sha Tsui Road",
+        "address": "No.240-242 Sha Tsui Road, Tsuen Wan, New Territorie"
+      },
+      {
+        "name": "Tai Ho Road",
+        "address": "G/F, 19 Tai Ho Road, Tsuen Wan, New Territories"
+      },
+      {
+        "name": "Tai Wo Hau",
+        "address": "Shop B1, commercial Centre, Tai Wo Hau Estate, Tsuen Wan, New Territories"
+      },
+      {
+        "name": "Tsuen Kam",
+        "address": "Shop 110-125, Tsuen Kam Centre, Tsuen Wan, New Territories"
+      },
+      {
+        "name": "Tsuen Wan",
+        "address": "Upper Ground Floor, Shop 28-41, Block 15-17, Phase 2, Tsuen Wan Centre, Tsuen Wan, New Territories"
+      },
+      {
+        "name": "Tsuen Wan Plaza",
+        "address": "Shop 251-253, Level 2, Tsuen Wan Plaza, TWTL 326, Tsuen Wan,, New Territories"
+      },
+      {
+        "name": "New Discovery Park",
+        "address": "Shop 2050, Level 2, Discovery Park Shopping Centre, 398 Castle Peak Road,, Tsuen Wan, N.T."
+      },
+      {
+        "name": "Citywalk 2",
+        "address": "Shops UG70-73 &amp; UG75-77, Upper G/F, Citywalk 2, , 18 Yeung Uk Road,, Tsuen Wan,, N.T."
+      },
+      {
+        "name": "Lei Muk Shue Shopping Centre",
+        "address": "Shop 125, , Lei Muk Shue Shopping Centre,, Tsuen Wan, N.T."
+      },
+      {
+        "name": "Shek Lei Shopping Ctr",
+        "address": "Shop 235,  , 2/F, Shek Lei Shopping Centre,, Phase 2, N.T."
+      },
+      {
+        "name": "Broadview Garden",
+        "address": "Shop 8-11, G/F., Comm Ctr, Broadview Garden, 1 Tsing Luk St, Tsing Yi, New Territories"
+      },
+      {
+        "name": "Cheung Ching Estate",
+        "address": "Shops 14 &amp; 14A, Commercial Complex, Cheung Ching Estate, Tsing Yi, New Territories"
+      },
+      {
+        "name": "Cheung Hang",
+        "address": "Shop no. 109, Lower G/F, Cheung Hang Shopping Centre, Tsing Yi, New Territories"
+      },
+      {
+        "name": "Cheung Hong Shopping Centre",
+        "address": "Shop 301, Lv 3, Cheung Hong Shopping Centre No.2, Cheung Hong Estate, 12 Ching Hong Road, Tsing Yi, New Territories"
+      },
+      {
+        "name": "Greenfield Garden",
+        "address": "Shop nos. G27, G29 &amp; G31, G/F, Greenfield Garden, Commercial Centre at Phase 2, Tsing Yi, New Territories"
+      },
+      {
+        "name": "Maritime Square",
+        "address": "Shop Unit 216-217, Level 2, Maritime Square, 33 Tsing King Road, Tsing Yi, New Territories"
+      },
+      {
+        "name": "Tivoli Garden",
+        "address": "Shop 2-5, Commercial Centre, Tivoli Gdn,75 Tsing King Rd, Tsing Yi, New Territories"
+      },
+      {
+        "name": "Tsing Yi",
+        "address": "Shop no, 217, 2/F, Cheung Fat Plaza, Cheung Fat Estate, Tsing Yi, New Territories"
+      },
+      {
+        "name": "Kwai Hing",
+        "address": "Shop 2-8 &amp; 23-25, 2/F, Sun Kwai Hing Shopping Mall, Kwai Hing,, New Territories"
+      },
+      {
+        "name": "Wo Tong Tsui Street",
+        "address": "85 Wo Tong Tsui Street, Kwai Hing,New Territories"
+      },
+      {
+        "name": "Kwai Hing Station ",
+        "address": "Kiosk No.KWH 5, MTR Kwai Hing Station, Kwai Hing, N.T."
+      },
+      {
+        "name": "Kwai Chung Shopping Ctr",
+        "address": "Shop 104, Kwai Chung Shopping Centre, Kwai Chung Estate Phase III, Sheung Kok Street, Kwai Chung, New Territories"
+      },
+      {
+        "name": "Kwai Shing West Estate",
+        "address": "Shops&#xA0;20-21,Kwai Shing West Estate Shopping Centre, Kwai Chung,New Territories"
+      },
+      {
+        "name": "Lung Tang",
+        "address": "Shop C, D&amp;E, G/F, Lung Tang Bldg, 41-43 Shing Fong Street, Kwai Chung, New Territories"
+      },
+      {
+        "name": "Ming Tong Building",
+        "address": "Shops B &amp; C, G/F w/cockloft., Block A, Ming Tong Building, 444-448 Castle Peak Road, Kwai Chung, New Territories"
+      },
+      {
+        "name": "Shek Yam",
+        "address": "Shop no. 1, G/F., Tin On House, 96 Shek Yam Road, Kwai Chung,, New Territories"
+      },
+      {
+        "name": "Kwai Fong",
+        "address": "Shop No. 177 Level 1, Metroplaza, Kwai Fong, New Territories"
+      },
+      {
+        "name": "Happy Valley",
+        "address": "G/F., no 25-27 Sing Woo Road, Happy Valley, Hong Kong"
+      },
+      {
+        "name": "Yue Wan Estate",
+        "address": "Shop 2, G/F, Yue Fung House, Yue Wan Estate, Chai Wan, Hong Kong"
+      },
+      {
+        "name": "Perkins Road",
+        "address": "Jardine Look Out, Dairy Farm Centre, Hong Kong"
+      },
+      {
+        "name": "Hang Lung Centre",
+        "address": "Shop F01, 1/F., Hang Lung Centre, 2-20 Paterson Street, Causeway Bay, Hong Kong"
+      },
+      {
+        "name": "Hysan Place",
+        "address": "Shop B, Basement 2, Hysan Place, No. 500 Hennessy Road, Causeway Bay, Hong Kong"
+      },
+      {
+        "name": "Leighton Road",
+        "address": "Portion of G/F, First Commercial Building, No.33-35 Leighton Road, Causeway Bay, Hong Kong"
+      },
+      {
+        "name": "Pak Sha Road",
+        "address": "G/F., No 13 Pak Sha Road, Causeway Bay, Hong Kong"
+      },
+      {
+        "name": "President Theatre",
+        "address": "Shop B, G/F., 517 Jaffe Road, Causeway Bay, Hong Kong"
+      },
+      {
+        "name": "Amtel Building",
+        "address": "G/F, Amtel Building, 144-148 Des Voeux Road Central, Sheung Wan, Hong Kong"
+      },
+      {
+        "name": "Des Vouex Road West",
+        "address": "Shop A &amp; B, G/F, 202-204 Des Vouex Road West, Hong Kong"
+      },
+      {
+        "name": "Lai Yan Lau",
+        "address": "Shop A, G/F., Lai Yan Lau, 42-56 Queen&apos;s Road West, Sheung Wan, Hong Kong"
+      },
+      {
+        "name": "Sai Ying Pun",
+        "address": "Shop no. 8, G/F., Hang Yue Building, No. 334-350 Des Voeux Road West, Hong Kong"
+      },
+      {
+        "name": "Sheung Wan",
+        "address": "Shop 6, 1/F, Welland Building, 368 Queen&apos;s Road, Central, Hong Kong"
+      },
+      {
+        "name": "Shun Tak Centre",
+        "address": "Shop No.203,&#xA0;2/F, Shun Tak Centre, 200 Connaught Road Central, Sheung Wan, Hong Kong"
+      },
+      {
+        "name": "Hk Mtr Station",
+        "address": "Shop HOK 49, MTR Hong Kong Station, Hong Kong"
+      },
+      {
+        "name": "Int'l Finance Centre",
+        "address": "Shop no.2004 on Podium Level Two, IFC mall, 1 Harbour View Street, Central ,Hong Kong"
+      },
+      {
+        "name": "Island Resort",
+        "address": "Shop UG 51, UG/F, Island Resort Mall, 28 Siu Sai Wan Road, Hong Kong"
+      },
+      {
+        "name": "Siu Sai Wan",
+        "address": "Shop No. 119-120, 1/F, Siu Sai Wan Shopping Centre, Chai Wan, Hong Kong"
+      },
+      {
+        "name": "Tin Hau",
+        "address": "Shop C, G/F, Park View Mansion, 3 Lau Sin Street, Tin Hau ,Hong Kong"
+      },
+      {
+        "name": "Tai Koo Shing",
+        "address": "Shop 420, City Plaza 1, 18 Tai Koo Shing Road, Island East, Hong Kong"
+      },
+      {
+        "name": "Aberdeen",
+        "address": "G/F, 174-176 Aberdeen Main Road, Aberdeen, Hong Kong"
+      },
+      {
+        "name": "Ap Lei Chau",
+        "address": "Ground Floor, 65 Main Street, Ap Lei Chau, Hong Kong"
+      },
+      {
+        "name": "Port Center",
+        "address": "Shop nos. 106-107, 1/F., Port Centre, Aberdeen, Hong Kong"
+      },
+      {
+        "name": "South Horizons",
+        "address": "Shop no. G05, G/F., East Commercial Block, South Horizons, No.18A South Horizon Drive, Ap Lei Chau. Hong Kong"
+      },
+      {
+        "name": "Tin Wan Shopping Ctr",
+        "address": "Shop 103, Level 1, Tin Wan Shopping Centre, Aberdeen, Hong Kong"
+      },
+      {
+        "name": "Chi Fu",
+        "address": "Shop 303,  , Chi Fu Landmark,, Pokfulam, H.K."
+      },
+      {
+        "name": "Mei Foo",
+        "address": "Shop 99B, G/F, 69-119 Broadway, Mei Foo Sun Chuen, Kowloon"
+      },
+      {
+        "name": "Mount Sterling",
+        "address": "Shop N72, G/F, Mount Sterling Mall, Mei Foo Sun Chuen, Kowloon"
+      },
+      {
+        "name": "Liberte",
+        "address": "Shop Nos. 130 &amp; 132, 1/F., Liberte, 833 Lai Chi Kok Road, Kowloon"
+      },
+      {
+        "name": "New Lai Chi Kok",
+        "address": "Shop B &amp; C, G/F, Tai Wah House, 50-52 Lai Chi Kok Road, Kowloon"
+      },
+      {
+        "name": "Cheung Sha Wan",
+        "address": "Units 121-123, 1/F, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road, Kowloon"
+      },
+      {
+        "name": "Park Building",
+        "address": "Shop G01, G/F, Park Bldg, 476 Castle Peak Road, Cheung Sha Wan, Kowloon"
+      },
+      {
+        "name": "Apollo Shopping Ctr",
+        "address": "Flat G18A-B, G/F Apollo Shopping Ctr, 164-170 Castle Peak Rd, Shamshuipo, Kowloon"
+      },
+      {
+        "name": "Dragon Centre",
+        "address": "Shop 501B, Dragon Ctr, Level 5, 37K Yen Chow St, Sham Shui Po, Kowloon"
+      },
+      {
+        "name": "Fu Cheong",
+        "address": "Shop 24, G/F., Fu Cheong Shopping Centre, Sham Shui Po, Kowloon"
+      },
+      {
+        "name": "Hoi Lai Shopping Centre",
+        "address": "Shop nos. 12 &amp; 13, G/F., Hoi Lai Shopping Centre, Hoi Lai Estate, Sham Shui Po ,Kowloon"
+      },
+      {
+        "name": "Kcr - Nam Cheong",
+        "address": "Shop 10-12, Paid Concourse, Nam Cheong MTR Station, Kowloon"
+      },
+      {
+        "name": "Lai Chi Kok",
+        "address": "G/F, 316-318 Lai Chi Kok Road, Sham Shui Po, Kowloon"
+      },
+      {
+        "name": "Lei Cheng Uk",
+        "address": "Shop G11, G/F, Sun Light Building, 273 Shunning Road, Kowloon"
+      },
+      {
+        "name": "Nam Cheong Street",
+        "address": "G/F., Maintown Plaza, 223-237 Nam Cheong St., Kowloon"
+      },
+      {
+        "name": "Prince Edward",
+        "address": "G/F, 10A Tai Po Road, Kowloo"
+      },
+      {
+        "name": "Rondall Building",
+        "address": "Shop 4, 5 &amp; 11, G/F., Rondall Building, 168-178 Tai Po Road, Kowloon"
+      },
+      {
+        "name": "Un Chau Street",
+        "address": "G/F, no. 324A Un Chau Street, Sham Shui Po, Kowloon"
+      },
+      {
+        "name": "Yen Chow Street",
+        "address": "Shop G14-16, G/F., No.94 Yen Chow Street, Sham Shui Po, Kowloon"
+      },
+      {
+        "name": "Shek Kip Mei",
+        "address": "Shop A, G/F, Ample Building, Nos. 1 - 13 Woh Chai Street, Shek Kip Mei, Kowloon"
+      },
+      {
+        "name": "Shek Kip Mei Estate Phase 2",
+        "address": "Shop No9, G/F, Mei Leong House, Shek Kip Mei Estate Phase 2, Kowloon"
+      },
+      {
+        "name": "Fuk Tsun Street",
+        "address": "Shop C, G/F, Fok Hong Mansion, No.17-19 Fuk Tsun Street, Tai Kok Tsui, Kowloon"
+      },
+      {
+        "name": "Ivy Street",
+        "address": "Shop 3-4, G/F., Tai Fong Building, 51-65 Ivy Street, Tai Kok Tsui, Kowloon"
+      },
+      {
+        "name": "Metro Harbour Plaza",
+        "address": "Shop 109-110, Level 1, Metro Harbour Plaza, 8 Fuk Lee Street, Tai Kok Tsui ,Kowloon"
+      },
+      {
+        "name": "New Kowloon Plaza",
+        "address": "Shop 056-059, G/F, New Kowloon Plaza, 38 Tai Kok Tsui Road, Kowloon"
+      },
+      {
+        "name": "Olympian City 1",
+        "address": "Shop no. UG05,Upper G/F, Olympian City 1, 11 Hoi Fai Road, West Kowloon"
+      },
+      {
+        "name": "Olympian City Two",
+        "address": "Shop 142-143, 1/F., Olympian City 2, Tai Kok Tsui, Kowloon"
+      },
+      {
+        "name": "Fa Yuen Street",
+        "address": "Shop no. 9, G/F., Hung Wai Building, Nos. 3-5 Fa Yuen Street, Mongkok ,Kowloon"
+      },
+      {
+        "name": "Full Win",
+        "address": "Shop A, G/F, Full Win Commercial Bldg, 569-573A Nathan Rd, Kowloon"
+      },
+      {
+        "name": "Golden Era Plaza",
+        "address": "Shop 1C G/F, Golden Era Plaza, 39 - 55 Sai Yee Street, MongKok, Kowloon"
+      },
+      {
+        "name": "Golden Plaza",
+        "address": "Shop nos. 12-15 &amp; 15A, G/F., Golden Plaza, 745-747 Nathan Road, Kowloon"
+      },
+      {
+        "name": "Hoi Fu",
+        "address": "Shop No.101, Hoi Fu Shopping Center, Hoi Wang Road, Mongkok West, Kowloon"
+      },
+      {
+        "name": "Mong Kok East Station",
+        "address": "Shop MKK 11, MTR Mong Kok East Station, Mong Kok, Kowloon"
+      },
+      {
+        "name": "Nathan Road",
+        "address": "Shop 2 &amp; 3, G/F, Trade Department Tower, 700 Nathan Road, Kowloon"
+      },
+      {
+        "name": "Nelson Street",
+        "address": "Shop C, G/F, Wu Sang House, 655 Nathan Road, Kowloon"
+      },
+      {
+        "name": "Nullah Road",
+        "address": "Flat B-D, G/F, Tung Lok Mansion, 34-36 Nullah Road, Mongkok ,Kowloon"
+      },
+      {
+        "name": "Shan Tung Street",
+        "address": "Shop 10-12, G/F, Sim City of Chung Kiu Co Bldg, Nos.47-51 Shan Tung Street, Mongkok, Kowloon"
+      },
+      {
+        "name": "Yau Ma Tei",
+        "address": "G/F, Oxford Commercial Building, 494-496 Nathan Road, Kowloon"
+      },
+      {
+        "name": "Ping On Building",
+        "address": "G/F., Shop Nos. 11 &amp; 28, G/F., Alhambra Building, 383-389C Nathan Road, Kowloon"
+      },
+      {
+        "name": "Argyle Street",
+        "address": "Shops C&amp;C1, G/F, King Hing Building, 52-54 Argyle Street, Mongkok, Kowloon"
+      },
+      {
+        "name": "Bute Street",
+        "address": "Shop A &amp; B,G/F,Sang Fat Building, 218-220 Sai Yeung Choi Street South, 41 Bute Street, Kowloon"
+      },
+      {
+        "name": "Sai Yeung Choi Street South",
+        "address": "Shop G1 &amp; G2, G/F, CTMA Centre, 1N Sai Yeung Choi Street South, MongKok"
+      },
+      {
+        "name": "Shanghai Street",
+        "address": "G/F, 388-390 Shanghai Street, Yau Ma Tei, Kowloon"
+      },
+      {
+        "name": "Man Wai Street",
+        "address": "Shop no. 17, G/F., Man Yuen Building, 7 Man Wai Street, Kowloon"
+      },
+      {
+        "name": "New Jordan Road",
+        "address": "Shop 6-8, G/F, No. 37L &amp; 37M Jordan Road, Kowloon"
+      },
+      {
+        "name": "Sino Cheer Plaza",
+        "address": "Shop 1, Sino Cheer Plaza, 23 Jordan Road, Kowloon"
+      },
+      {
+        "name": "Austin Road",
+        "address": "G/F &amp; Portion, 1/F Tai Chi Court, 134 Austin Road, Tsimshatsui, Kowloon"
+      },
+      {
+        "name": "Bowring Street",
+        "address": "G/F, 2-6 Bowring Street, Jordan, Kowloon"
+      },
+      {
+        "name": "China Hk City",
+        "address": "Shop nos. 81-83, Upper G/F., China Hong Kong City, 33 Canton Road, Tsim Sha Tsui ,Kowloon"
+      },
+      {
+        "name": "Cke Shopping Mall",
+        "address": "Shop nos. 2-29, 2/F, CKE Shopping Mall, 36-44 Nathan Road, Kowloon"
+      },
+      {
+        "name": "Elements",
+        "address": "Shop 1092, Level 1, Elements, 1 Austin Road West, Kowloon"
+      },
+      {
+        "name": "Fourseas Building",
+        "address": "Shop A, G/F &amp; B/F, Fourseas Building, 208-212 Nathan Road, Kowloon"
+      },
+      {
+        "name": "Golden Dragon Ctr",
+        "address": "G/F, Golden Dragon Centre, 38-40 Cameron Road, Tsimshatsui, Kowloon"
+      },
+      {
+        "name": "Granville Road",
+        "address": "Shop 24B, G/F, Granville Road, Tsim Sha Tsui, Kowloon"
+      },
+      {
+        "name": "Haiphong Road",
+        "address": "Shop B &amp; C, G/F, Bo Fung Building, Nos 32,32A,33 &amp; 33A Haiphong Road, Kowloon"
+      },
+      {
+        "name": "Kcr East Tst Station",
+        "address": "Shop ETS 8, MTR East Tsim Sha Tsui Station, Kowloon"
+      },
+      {
+        "name": "New Mandarin Plaza",
+        "address": "Shop 66-71, G/F., New Mandarin Plaza, Tsimshatsui East, Kowloon"
+      },
+      {
+        "name": "China Ferry Terminal",
+        "address": "Shop 2, Restricted Area, Departure Lv, China Ferry Terminal, Tsim Sha Tsui ,Kowloon"
+      },
+      {
+        "name": "Coronation Circle",
+        "address": "Shops UG10-11, UG/F, Coronation Circle ,, 1 Yau Cheung Road, Kowloon"
+      },
+      {
+        "name": "K11",
+        "address": "Shop nos. B109-B110, Basement 1, K11, ., No.18 Hanoi Road,, Tsim Sha Tsui,, Kowloon"
+      },
+      {
+        "name": "Hk Pacific Centre",
+        "address": "Shop no. 4, G/F., Hong Kong Pacific Centre,, 28 Hankow Road,, Tsim Sha Tsui,, Kowloon."
+      },
+      {
+        "name": "Dock Street",
+        "address": "Shop 6F3, G/F Whampoa Estate, 99K-99W Dock Street, Hunghom, Kowloon"
+      },
+      {
+        "name": "Hung Hom Square",
+        "address": "Shop 54-60, 1/F, Hunghom Commercial Centre, 37-41 Ma Tau Wai Rd., Hung Hom, Kowloon"
+      },
+      {
+        "name": "Hung Hom Station",
+        "address": "Shops HUH E1-E10, MTR Hung Hom Station, Hung Hom, Kowloon"
+      },
+      {
+        "name": "Planet Square",
+        "address": "Shop E, 1/F, Planet Square, 1-15 Tak Man Street, Hung Hom, Kowloon"
+      },
+      {
+        "name": "Po Loi Street",
+        "address": "Shop 17 G1A, G/F No. 1-7 Wu Kwong Street, Hung Hom, Kowloon"
+      },
+      {
+        "name": "Grand Waterfront Plaza",
+        "address": "Shop No.G02, G/F, Grand Waterfront Plaza, 38 San Ma Tau Street, Ma Tau Kok, Kowloon"
+      },
+      {
+        "name": "Honour Building",
+        "address": "Shop no. 31, G/F, Honour Building, 78-80W To Kwa Wan Road, Tokwawan, Kowloon"
+      },
+      {
+        "name": "Lok Man Sun Chuen",
+        "address": "Shop No.144, G/F, Block G, Lok Man Sun Chuen, No.144 Kau Pui Lung Road, Tokwawan ,Kowloon"
+      },
+      {
+        "name": "Ma Tau Wai Estate",
+        "address": "Shop 105, Geranium House, Ma Tau Wai Estate, Ma Tau Wai, Kowloon"
+      },
+      {
+        "name": "Ma Tau Wai Road",
+        "address": "G/F., Fuk Shing Mansion, No. 89-91 Ma Tau Wai Road, Kowloon"
+      },
+      {
+        "name": "Tokwawan",
+        "address": "Shop 243A, G/F, Mei King Mansion, Tokwawan Road, Tokwawan, Kowloon"
+      },
+      {
+        "name": "Ma Tau Kok Road",
+        "address": "Shop 3 &amp; 4, G/F, Metropolitan Rise, 28 Ma Tau Kok Road, Kowloon"
+      },
+      {
+        "name": "Nga Tsin Wai Road",
+        "address": "G/F, Shop 114, Nga Tsin Wai Road, Kowloon City, Kowloon"
+      },
+      {
+        "name": "Ching Long Shopping Centre",
+        "address": "Shop A004,G/F, Ching Long Shopping Centre, Muk Chui Street, Kowloon City, Kowloon"
+      },
+      {
+        "name": "Homantin",
+        "address": "Shop 307, Homantin Plaza, Ho Man Tin, Kowloon"
+      },
+      {
+        "name": "Oi Man Shopping Centre",
+        "address": "Shop No. G17, Oi Man Shopping Centre, Oi Man Estate, Homantin, Kowloon"
+      },
+      {
+        "name": "Test ",
+        "address": "test , test, test"
+      },
+      {
+        "name": "Cambridge Court",
+        "address": "Shop A &amp; B1A, G/F., Man Kee Mansion, 86D Waterloo Road, Kowloon"
+      },
+      {
+        "name": "Festival Walk",
+        "address": "Unit MTR-09, Festival Walk, 80 Tat Chee Avenue, Kowloon Tong, Kowloon"
+      },
+      {
+        "name": "Kowloon Tong Station",
+        "address": "Shops KOT 15 &amp; 16, MTR Kowloon Tong Station, Kowloon Tong, Kowloon"
+      },
+      {
+        "name": "New Kowloon Tong Station",
+        "address": "KOT 120, MTR Kowloon Tong Station, Kowloon"
+      },
+      {
+        "name": "Fu Shan Estate",
+        "address": "Shop L203-204, LG2/F, Fu Yan House, Fu Shan Estate, Kowloon"
+      },
+      {
+        "name": "Plaza Hollywood",
+        "address": "Shop 377-378, Plaza Hollywood, Diamond Hill, Kowloon"
+      },
+      {
+        "name": "Tsz Wan Shan Shopping Centre",
+        "address": "Shop 537-538, 5/F, Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Tsz Wan Shan ,Kowloon"
+      },
+      {
+        "name": "Chuk Yuen",
+        "address": "Shop S101, 1/F, Chuk Yuen Shopping Ctr, Chuk Yuen (South) Estate, Kowloon"
+      },
+      {
+        "name": "Fung Tak Shopping Centre",
+        "address": "Shop no.213 &amp; 214, 2/F., Fung Tak Shopping Centre, Wong Tai Sin, Kowloon"
+      },
+      {
+        "name": "Lok Fu",
+        "address": "Shop Nos. 3129-3130, 3/F., Lok Fu Plaza, Wang Tau Hom, Kowloon"
+      },
+      {
+        "name": "Rhythm Garden",
+        "address": "Shop&#xA0; No 433-434, G/F, Rhythm Garden, No.242 Choi Hung Road, Kowloon"
+      },
+      {
+        "name": "Sheung Fung Street",
+        "address": "G/F, 18 Sheung Fung Street, Wong Tai Sin, Kowloon"
+      },
+      {
+        "name": "Wong Tai Sin",
+        "address": "Shop no. UG23, Upper G/F, Wong Tai Sin Plaza, Wong Tai Sin, Kowloon"
+      },
+      {
+        "name": "San Po Kong",
+        "address": "Shop 10 - 11, G/F, 65-89 Shung Ling Street, San Po Kong, Kowloon"
+      },
+      {
+        "name": "Tseuk Luk Street",
+        "address": "G/F., 74-76 Tseuk Luk Street, San Po Kong, Kowloon"
+      },
+      {
+        "name": "Kai Yip Shopping Centre",
+        "address": "Shop no. 3A, G/F., Kai Yip Shopping Centre, Kowloon Bay, Kowloon"
+      },
+      {
+        "name": "Megabox",
+        "address": "Unit 3, G/F., Megabox, Enterprise Square 5, 38 Wang Chiu Road, Kowloon Bay ,Kowloon"
+      },
+      {
+        "name": "Richland Gardens",
+        "address": "Shop 2182, 2183 &amp; 2186, 2/F Richland Gardens&#xA0;(Commercial &amp;&#xA0;Garage Blk) Kowloon Bay, Kowloon"
+      },
+      {
+        "name": "Telford Centre",
+        "address": "Shop nos. F16A &amp; F17-F17A, Telford Plaza I, Kowloon Bay, Kowloon"
+      },
+      {
+        "name": "Emax",
+        "address": "Shop no. 18 &amp; 20, G/F, Emax-H.I.T.E.C., ., 1 Trademart Drive,, Kowloon Bay"
+      },
+      {
+        "name": "Amoy Plaza",
+        "address": "Shop 183-185, G/F, , moy Plaza, Phase 2, 77 Ngau Tau Kok Road ,Kowloon"
+      },
+      {
+        "name": "Hung Cheuk Lau",
+        "address": "Shop 281, G/F., Hung Cheuk Lau, 281 Ngau Tau Kok Road, Kwun Tong Garden Estate, Kowloon"
+      },
+      {
+        "name": "Lok Wah",
+        "address": "Shop no. 204, 2/F., Lok Wah North Shopping Centre, Lok Wah North Estate, Ngau Tau Kok, Kowloon"
+      },
+      {
+        "name": "Ping Shek Estate",
+        "address": "Shops 117-120, G/F, Yuk Shek House, Ping Shek Estate, Kowloon"
+      },
+      {
+        "name": "Lower Ngau Tau Kok Estate",
+        "address": "Shops 2 &amp; 3, G/F, Lower Ngau Tau Kok Estate Plaza, Kowloon"
+      },
+      {
+        "name": "Hip Wo Street",
+        "address": "Shop G, G/F, nos.93-115 Hip Wo Street, Kwun Tong, Kowloon"
+      },
+      {
+        "name": "Hoi Yuen Road",
+        "address": "Shop 20-25, G/F, Kwun Tong Plaza, 68 Hoi Yuen Road, Kwun Tong ,Kowloon"
+      },
+      {
+        "name": "Kwun Tong",
+        "address": "G/F, 7 Tung Ming Street, Kwun Tong, Kowloon"
+      },
+      {
+        "name": "Kwun Tong Mtr",
+        "address": "Shops KWT 33 &amp; 34, MTR Kwun Tong Station, Kwun Tong, Kowloon"
+      },
+      {
+        "name": "Laguna Plaza",
+        "address": "Shop nos. 34 &amp; 36, G.F., Laguna Plaza, 88 Cha Kwo Ling Road, Kwun Tong ,Kowloon"
+      },
+      {
+        "name": "Lei Yue Mun Plaza",
+        "address": "Shop 140, 1/F, Lei Yue Mun Plaza, Yau Tong, Kowloon"
+      },
+      {
+        "name": "Shui Wo Street",
+        "address": "Shops A &amp; G, G/F, Kwong Sen Mansion, Nos. 23-33 Shui Wo Street, Kwun Tong ,Kowloon"
+      },
+      {
+        "name": "Shun Lee",
+        "address": "Shop 201B, F2 Floor, Shun Lee Commercial Centre, Shun Lee Estate, 15 Lee On Road, Kwun Tong ,Kowloon"
+      },
+      {
+        "name": "Shun Tin",
+        "address": "Shop Nos. 9-10, G/F, Tin Kuen House, Shun Tin Estate, Kowloon ,Hong Kong"
+      },
+      {
+        "name": "Tsui Ping Estate",
+        "address": "Shop 4A, Tsui Ping Shopping Centre, Tsui Ping Estate, Kwun Tong, Kowloon"
+      },
+      {
+        "name": "Yue Man Square",
+        "address": "Shop 2-3, G/F, No. 16-18, Yue Man Square, Kwun Tong, Kowloon"
+      },
+      {
+        "name": "Choi Wan Shopping Centre",
+        "address": "Shop A111, Upper G/F, Choi Wan Shopping Ctr (Ph 2), , Choi Wan (I) Est,, Ngau Chi Wan,, Kowloon"
+      },
+      {
+        "name": "Apm",
+        "address": "Shop No. L1-28 &amp; L1-29, Level 1, , APM, Millennium City 5,, Kwun Tong,, Kowloon"
+      },
+      {
+        "name": "Po Tat",
+        "address": "Shop 7, G/F., Po Tat Shopping Centre, Po Lam Road, Sau Mau Ping, Kowloon"
+      },
+      {
+        "name": "Sau Mau Ping",
+        "address": "Shop 108, 1/F, Sau Mau Ping Shopping Centre, Sau Mau Ping, Kowloon"
+      },
+      {
+        "name": "Kai Tin",
+        "address": "Shop 238-239, Kai Tin Shopping Centre, Lam Tin, Kowloon"
+      },
+      {
+        "name": "Sceneway Garden",
+        "address": "Unit 1A, Level 26, Commercial Development, Sceneway Garden, No.8 Sceneway Road, Lam Tin ,Kowloon"
+      },
+      {
+        "name": "Tak Tin Shopping Centre",
+        "address": "Shop no.103, 1/F., Tak Tin Shopping Centre, 223 Pik Wan Road, Lam Tin ,Kowloon"
+      },
+      {
+        "name": "Domain",
+        "address": "Shop No. 233 2/F, Domain, Yau Tong"
+      },
+      {
+        "name": "Yau Lai Shopping Centre",
+        "address": "Shop 9, G/F, Yau Lai Shopping Centre, Yau Tong, Kowloon"
+      },
+      {
+        "name": "Airport Arrival",
+        "address": "Unit No. 3P124, Level 3, SkyPlaza, Terminal 2, Hong Kong International Airport, Hong Kong"
+      },
+      {
+        "name": "Airport Departure",
+        "address": "Unit No. 5P010, Level 5, SkyPlaza, Terminal 2, Hong Kong International Airport, Hong Kong"
+      },
+      {
+        "name": "North Satellite Concourse",
+        "address": "Unit 5NC144, North Satellite Concourse, Hong Kong International Airport, Lantau, Hong Kong"
+      },
+      {
+        "name": "Skypier",
+        "address": "Unit 4P105,Level 4,SkyPier, 3 Sky City Road East,Lantau, Hong Kong"
+      },
+      {
+        "name": "T1 L5 Arrival",
+        "address": "Unit 5t058, Level 5, Meeters &amp; Greeters Hall, Terminal 1, Hong Kong International Airport, Hong Kong"
+      },
+      {
+        "name": "T1 L7 Departure",
+        "address": "Unit 7T100, Level 7, Landside Check - In Hall, Terminal 1 , Hong Kong International Airport, Hong Kong"
+      },
+      {
+        "name": "Ti L5 Restricted Area",
+        "address": "Unit 5E525A, Terminal 1, Hong Kong International Airport, Lantau, Hong Kong"
+      },
+      {
+        "name": "Ti L6 Restricted Area",
+        "address": "Unit 6W511, Level 6, Northwest Concourse, Terminal 1, Hong Kong International Airport, Hong Kong"
+      },
+      {
+        "name": "Ti L7 Restricted Area",
+        "address": "Unit 7E107, Level 7, East Hall, Terminal 1, Hong Kong International Airport, Hong Kong"
+      },
+      {
+        "name": "Park Island",
+        "address": "Shop S10, Level 1, Park Island - Pier, Ma Wan"
+      },
+      {
+        "name": "Tung Chung Crescent",
+        "address": "Shops 3-4, G/F., Tung Chung Crescent, Tung Chung, Lantau, Hong Kong"
+      },
+      {
+        "name": "Yat Tung",
+        "address": "Shop 29, G/F, Yat Tung Shopping Centre, Yat Tung Estate, Tung Chung, Lantau, Hong Kong"
+      },
+      {
+        "name": "Fu Tung Shopping Centre",
+        "address": "Shop no. 103, 1/F., Fu Tung Shopping Centre, Tung Chung, New Territories"
+      },
+      {
+        "name": "Cheung Chau",
+        "address": "G/F, 31 Praya Road, Cheung Chau, Hong Kong"
+      }
+    ]
+  }
+}

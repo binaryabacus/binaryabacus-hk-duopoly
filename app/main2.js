@@ -8,6 +8,7 @@ var transform = d3.geo.transform({
 });
 
 var projection = function (coor) {
+  coor = coor || [0, 0];
   var point = map.latLngToLayerPoint(new L.LatLng(coor[1], coor[0]));
   return [point.x, point.y];
 }
@@ -19,7 +20,7 @@ var map = L.map('leaflet')
   .addLayer(new L.TileLayer('http://{s}.tiles.mapbox.com/v3/felixlaumon.im90hil1/{z}/{x}/{y}.png', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
-    minZoom: 11
+    minZoom: 12
   }))
   .setMaxBounds([[22.736, 113.715], [22.094, 114.505]]);
 map._initPathRoot();
@@ -51,8 +52,9 @@ $.when(
   $.getJSON('/data/wellcome.geojson'),
   $.getJSON('/data/pacificcoffee.geojson'),
   $.getJSON('/data/starbucks.geojson'),
-  $.getJSON('/data/watsons.geojson')
-).then(function (hkdistrict, hkcoastline, parknshop, wellcome, pacificcoffee, starbucks, watsons) {
+  $.getJSON('/data/watsons.geojson'),
+  $.getJSON('/data/mannings.geojson')
+).then(function (hkdistrict, hkcoastline, parknshop, wellcome, pacificcoffee, starbucks, watsons, mannings) {
   hkdistrict = hkdistrict[0];
   hkcoastline = hkcoastline[0];
   parknshop = parknshop[0];
@@ -60,6 +62,7 @@ $.when(
   pacificcoffee = pacificcoffee[0];
   starbucks = starbucks[0];
   watsons = watsons[0];
+  mannings = mannings[0];
 
   topojson.presimplify(hkdistrict);
 
@@ -71,14 +74,15 @@ $.when(
   pacificcoffee.meta = { id: 'Pacific Coffee', color: '#b7010c' };
   starbucks.meta = { id: 'Starbucks', color: '#006341' };
   watsons.meta = { id: 'Watson\'s', color: '#00a0a0' };
+  mannings.meta = { id: 'Mannings', color: 'orange' };
 
   var data_group = {
     grocery: [parknshop, wellcome],
     coffee: [pacificcoffee, starbucks],
-    phramacy: [watsons],
+    phramacy: [watsons, mannings],
     district: []
   };
-  var current_group = 'district';
+  var current_group = 'phramacy';
 
   d3.select('#coastline path').datum(coastline);
   g.attr('clip-path', 'url(#coastline)');

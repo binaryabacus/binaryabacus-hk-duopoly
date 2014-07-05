@@ -1,0 +1,1676 @@
+[
+  {
+    "name": "Lo Wu Station",
+    "address": "MTR Lo Wu Station, Lo Wu, Hong Kong",
+    "lat": 22.527801,
+    "lng": 114.113192
+  },
+  {
+    "name": "Lo Wu Station Arrival",
+    "address": "MTR Lo Wu Station, Hong Kong",
+    "lat": 22.527801,
+    "lng": 114.113192
+  },
+  {
+    "name": "Ching Ho Shopping Centre",
+    "address": "Ching Ho Shopping Centre, Ching Ho Estate, Sheung Shui, Hong Kong",
+    "lat": 22.5112008,
+    "lng": 114.1260991
+  },
+  {
+    "name": "Choi Yuen Plaza",
+    "address": "Choi Yuen Plaza, Choi Yuen Estate, Sheung Shui, Hong Kong",
+    "lat": 22.500708,
+    "lng": 114.125776
+  },
+  {
+    "name": "Lok Ma Chau Departure",
+    "address": "MTR Lok Ma Chau Station, Hong Kong",
+    "lat": 22.514464,
+    "lng": 114.065647
+  },
+  {
+    "name": "Lung Fung Garden",
+    "address": "Lung Fung Garden, 33 Lung Sum Avenue, Sheung Shui, Hong Kong",
+    "lat": 22.502597,
+    "lng": 114.129838
+  },
+  {
+    "name": "San Fung Avenue",
+    "address": "Lung Ha Bldg, 130 San Fung Avenue, Sheung Shui, Hong Kong",
+    "lat": 22.5035814,
+    "lng": 114.1265056
+  },
+  {
+    "name": "San Hong Street",
+    "address": "No96 San Hong Street, Sheung Shui, Hong Kong",
+    "lat": 22.5033669,
+    "lng": 114.1294862
+  },
+  {
+    "name": "Sheung Shui",
+    "address": "Metropolis Plaza, 8 Lung Wun Street, Sheung Shui, Hong Kong",
+    "lat": 22.372953,
+    "lng": 114.116055
+  },
+  {
+    "name": "Sheung Shui Centre",
+    "address": "Sheung Shui Centre, Sheung Shui, Hong Kong",
+    "lat": 22.500908,
+    "lng": 114.130291
+  },
+  {
+    "name": "Sheung Shui Landmark",
+    "address": "Landmark North, Shek Wu Hui, Sheung Shui, Hong Kong",
+    "lat": 22.502689,
+    "lng": 114.127782
+  },
+  {
+    "name": "Avon Park",
+    "address": "Avon Park, 15 Yat Ming Road, Fanling, Hong Kong",
+    "lat": 22.4871342,
+    "lng": 114.1432932
+  },
+  {
+    "name": "Fanling Centre",
+    "address": "33 San Wan Road, Fanling Centre, Phase II, Fanling, Hong Kong",
+    "lat": 22.4869909,
+    "lng": 114.13799
+  },
+  {
+    "name": "Fanling Station",
+    "address": "MTR Fanling Station, Fanling, Hong Kong",
+    "lat": 22.492073,
+    "lng": 114.138691
+  },
+  {
+    "name": "Fanling Town Center",
+    "address": "Fanling Town Center, 18 Fanling Station Road, Fanling, Hong Kong",
+    "lat": 22.492937,
+    "lng": 114.139073
+  },
+  {
+    "name": "Flora Plaza",
+    "address": "Flora Plaza, 88 Pak Wo Road, Fanling, Hong Kong",
+    "lat": 22.4851917,
+    "lng": 114.1420542
+  },
+  {
+    "name": "Ka Fuk Shopping Centre",
+    "address": "Ka Fuk Shopping Centre, Ka Fuk Estate, Fanling, Hong Kong",
+    "lat": 22.4869909,
+    "lng": 114.13799
+  },
+  {
+    "name": "Regentville",
+    "address": "Regentville Phase 1, 8 Wo Mun Street, Luen Wo Hui, Fanling, Hong Kong",
+    "lat": 22.5007348,
+    "lng": 114.1442104
+  },
+  {
+    "name": "Yung Shing Shopping Centre",
+    "address": "Yung Shing Shopping Centre, Yung Shing Court, Fanling, Hong Kong",
+    "lat": 22.4877,
+    "lng": 114.140872
+  },
+  {
+    "name": "Fu Heng",
+    "address": "Fu Heng Shopping Centre, Fu Heng Estate, Tai Po, Hong Kong",
+    "lat": 22.456213,
+    "lng": 114.171039
+  },
+  {
+    "name": "Kwong Fuk Shopping Centre",
+    "address": "Kwong Fuk Shopping Centre, Kwong Fuk Estate, Tai Po, Hong Kong",
+    "lat": 22.4423218,
+    "lng": 114.1655064
+  },
+  {
+    "name": "Po Heung Street",
+    "address": "52 Po Heung Street, Tai Po, Hong Kong",
+    "lat": 22.4470814,
+    "lng": 114.1658998
+  },
+  {
+    "name": "Tai Po",
+    "address": "Tai Po Mega Mall, Tai Po, Hong Kong",
+    "lat": 22.4524954,
+    "lng": 114.1718253
+  },
+  {
+    "name": "Tai Wo",
+    "address": "Tai Woo Shopping Centre, Tai Po, Hong Kong",
+    "lat": 22.4423218,
+    "lng": 114.1655064
+  },
+  {
+    "name": "Tai Yuen Estate",
+    "address": "New Annex Block, Tai Yuen Shopping Ctr, Tai Yuen Estate, Tai Po, Hong Kong",
+    "lat": 22.4423218,
+    "lng": 114.1655064
+  },
+  {
+    "name": "Uptown Plaza",
+    "address": "Uptown Plaza, Tai Po, Hong Kong",
+    "lat": 22.443385,
+    "lng": 114.169194
+  },
+  {
+    "name": "Wan Tau Tong",
+    "address": "Shopping Centre, Wan Tau Tong Estate, Tai Po, Hong Kong",
+    "lat": 22.307152,
+    "lng": 114.235589
+  },
+  {
+    "name": "Tai Wing Lane",
+    "address": "Mee Fat Building, 34-38 &amp; 42-48 Tai Wing Lane, Tai Po, Hong Kong",
+    "lat": 22.447021,
+    "lng": 114.167055
+  },
+  {
+    "name": "Fo Tan",
+    "address": "Shatin Galleria, 18 Shan Mei Street, Fo Tan, Hong Kong",
+    "lat": 22.397326,
+    "lng": 114.193426
+  },
+  {
+    "name": "Plaza Ascot",
+    "address": "Plaza Ascot, Fotan, Hong Kong",
+    "lat": 22.391145,
+    "lng": 114.209143
+  },
+  {
+    "name": "Greenwood Garden",
+    "address": "Greenwood Garden, 7-11 Sha Kok Street, Shatin, Hong Kong",
+    "lat": 22.3797499,
+    "lng": 114.1967181
+  },
+  {
+    "name": "Kwong Yuen",
+    "address": "Kwong Yuen Estate, Shatin, Hong Kong",
+    "lat": 22.3815801,
+    "lng": 114.2153195
+  },
+  {
+    "name": "Lake Silver",
+    "address": "Lake Silver, Sha Tin Town Lot No530, Shatin, Hong Kong",
+    "lat": 22.3991306,
+    "lng": 114.2164093
+  },
+  {
+    "name": "Mei Lam Shopping Centre",
+    "address": "Mei Lam Shopping Centre, Mei Lam Estate, Tai Wai, Hong Kong",
+    "lat": 22.4540587,
+    "lng": 114.1746826
+  },
+  {
+    "name": "Mei Tin Shopping Centre",
+    "address": "Mei Tin Shopping Centre, Mei Tin Estate, Tai Wai, Hong Kong",
+    "lat": 22.4540587,
+    "lng": 114.1746826
+  },
+  {
+    "name": "New Town Plaza Phase3",
+    "address": "New Town Plaza Phase III, 2-8 Sha Tin Centre St, Shatin, Hong Kong",
+    "lat": 22.379975,
+    "lng": 114.1874092
+  },
+  {
+    "name": "Choi Ming",
+    "address": "Choi Ming Shopping Centre, Tseung Kwan O, Hong Kong",
+    "lat": 22.3060498,
+    "lng": 114.2511234
+  },
+  {
+    "name": "East Point City",
+    "address": "East Point City, 8 Chung Wa Road, Tseung Kwan O, Hong Kong",
+    "lat": 22.3165218,
+    "lng": 114.264659
+  },
+  {
+    "name": "Hau Tak Shopping Centre",
+    "address": "East Wing, Hau Tak Shopping Centre, Tseung Kwan O, Hong Kong",
+    "lat": 22.3119357,
+    "lng": 114.2568776
+  },
+  {
+    "name": "Metro City",
+    "address": "Phase 2, Metrocity, Tseung Kwan O, Hong Kong",
+    "lat": 22.3241635,
+    "lng": 114.2571368
+  },
+  {
+    "name": "Metrocity Phase 3",
+    "address": "Metrocity Phase 3, The Metropolis, Tseung Kwan O, Hong Kong",
+    "lat": 22.322381,
+    "lng": 114.257139
+  },
+  {
+    "name": "Park Central",
+    "address": "Park Central, Tong Tak Street, Tseung Kwan O, Hong Kong",
+    "lat": 22.3072012,
+    "lng": 114.2570671
+  },
+  {
+    "name": "Popcorn",
+    "address": "PopCorn, 9 Tong Yin Street, Tseung Kwan O, Hong Kong",
+    "lat": 22.3119357,
+    "lng": 114.2568776
+  },
+  {
+    "name": "Sai Kung",
+    "address": "22-40 Fuk Man Road, Sai Kung, Hong Kong",
+    "lat": 22.382851,
+    "lng": 114.272117
+  },
+  {
+    "name": "Sheung Tak Shopping Centre",
+    "address": "Sheung Tak Shopping Ctr, Sheung Tak Est, 2 Tong Ming Street, Tseung Kwan O, Hong Kong",
+    "lat": 22.310416,
+    "lng": 114.256385
+  },
+  {
+    "name": "The Capitol",
+    "address": "The Capitol, Tseung Kwan O, Hong Kong",
+    "lat": 22.296377,
+    "lng": 114.271982
+  },
+  {
+    "name": "The Lane",
+    "address": "Phase 2, The Lane, Hang Hau, Tseung Kwan O, Hong Kong",
+    "lat": 22.3215874,
+    "lng": 114.2578565
+  },
+  {
+    "name": "Tsui Lam Shopping Centre",
+    "address": "Tsui Lam Shopping Centre, Tsui Lam Estate, Tseung Kwan O, Hong Kong",
+    "lat": 22.3119357,
+    "lng": 114.2568776
+  },
+  {
+    "name": "Po Lam Estate",
+    "address": "Po Kan Hse, Po Lam Est, 18 Po Lam Rd North, Tseung Kwan O, Hong Kong",
+    "lat": 22.3248448,
+    "lng": 114.2559991
+  },
+  {
+    "name": "Tseung Kwan O Baby",
+    "address": "Pop Corn, 9 Tong Chun Street, Tseung Kwan O, Hong Kong",
+    "lat": 22.3083647,
+    "lng": 114.2615409
+  },
+  {
+    "name": "New Choi Ming Shopping Centre",
+    "address": "Choi Ming Shopping Centre, Tseung Kwan O, Hong Kong",
+    "lat": 22.3060498,
+    "lng": 114.2511234
+  },
+  {
+    "name": "Chun Yin Square",
+    "address": "Kuen Yick Building, No18 Chun Yin Square, Yuen Long, Hong Kong",
+    "lat": 22.4464538,
+    "lng": 114.0231091
+  },
+  {
+    "name": "Fairview Park",
+    "address": "Town Centre, Fairview Park, Yuen Long, Hong Kong",
+    "lat": 22.4780591,
+    "lng": 114.0443408
+  },
+  {
+    "name": "Fung Kam Street",
+    "address": "Fortune Centre, 15-21 Fung Kam Street, Yuen Long, Hong Kong",
+    "lat": 22.442519,
+    "lng": 114.0331444
+  },
+  {
+    "name": "Hung Shui Kiu",
+    "address": "Beauty Court, 3 Hung Tai Road, Hung Shui Kiu, Yuen Long, Hong Kong",
+    "lat": 22.433482,
+    "lng": 113.996675
+  },
+  {
+    "name": "Kar Shing",
+    "address": "Lok Sing Building, 12-14 Kau Yuk Rd, Yuen Long, Hong Kong",
+    "lat": 22.4431884,
+    "lng": 114.0281965
+  },
+  {
+    "name": "Kuk Ting Street",
+    "address": "Kit Man House, 15 Kuk Ting Street, Yuen Long, Hong Kong",
+    "lat": 22.4448816,
+    "lng": 114.0296367
+  },
+  {
+    "name": "Kwok Wah Mansion",
+    "address": "Kwok Wah Mansion, No142-148 Castle Peak Road, Yuen Long, Hong Kong",
+    "lat": 22.444265,
+    "lng": 114.0277319
+  },
+  {
+    "name": "Kwong Wah Centre",
+    "address": "Kwong Wah Centre, 34-36 Fau Tsoi Street, Yuen Long, Hong Kong",
+    "lat": 22.4440052,
+    "lng": 114.0297993
+  },
+  {
+    "name": "Long Ping Estate",
+    "address": "Kang Ping House, Blk 5, Long Ping Estate, Yuen Long, Hong Kong",
+    "lat": 22.449752,
+    "lng": 114.0233472
+  },
+  {
+    "name": "Richly Plaza",
+    "address": "Richly Plaza, Tin Shui Wai, Yuen Long, Hong Kong",
+    "lat": 22.4522512,
+    "lng": 114.0003897
+  },
+  {
+    "name": "Sau Fu Street",
+    "address": "Yuen Long Centre, No 51-59 Sau Fu Street, Yuen Long, Hong Kong",
+    "lat": 22.4449531,
+    "lng": 114.0265472
+  },
+  {
+    "name": "Tai Hang",
+    "address": "Tai Hang Building, 10 Tai Hang St, Yuen Long, Hong Kong",
+    "lat": 22.4464732,
+    "lng": 114.0299591
+  },
+  {
+    "name": "Tin Shing Shopping Centre",
+    "address": "Tin Shing Shopping Centre, Tin Shui Wai, Yuen Long, Hong Kong",
+    "lat": 22.4488023,
+    "lng": 114.0028987
+  },
+  {
+    "name": "Yuen Long Main Road",
+    "address": "187 Castle Peak Road, Lot 3605, Yuen Long, Hong Kong",
+    "lat": 22.4445364,
+    "lng": 114.0262317
+  },
+  {
+    "name": "Yuen Long Plaza",
+    "address": "Yuen Long Plaza, Yuen Long, Hong Kong",
+    "lat": 22.4443636,
+    "lng": 114.0240858
+  },
+  {
+    "name": "Yuen Long Wing Wah",
+    "address": "No 84 Yuen Long Main Road, Yuen Long, Hong Kong",
+    "lat": 22.4679194,
+    "lng": 113.982811
+  },
+  {
+    "name": "Sun Yuen Long Centre",
+    "address": "Sun Yuen Long Centre, Yuen Long, Hong Kong",
+    "lat": 22.4453596,
+    "lng": 114.0350108
+  },
+  {
+    "name": "Chung Fu",
+    "address": "Phase II, Chung Fu Plaza, Tin Shui Wai, Hong Kong",
+    "lat": 22.366577,
+    "lng": 114.139275
+  },
+  {
+    "name": "Grandeur Terrace",
+    "address": "Grandeur Terrace, 88 Tin Shui Road, Tin Shui Wai, Hong Kong",
+    "lat": 22.4696225,
+    "lng": 114.0013422
+  },
+  {
+    "name": "Kcr - Tin Shui Wai",
+    "address": "Paid Concourse, MTR Tin Shui Wai Station, Hong Kong",
+    "lat": 22.448281,
+    "lng": 114.004687
+  },
+  {
+    "name": "Tin Ching Shopping Centre",
+    "address": "Tin Ching Shopping Centre, Tin Ching Estate, Tin Shui Wai, Hong Kong",
+    "lat": 22.287612,
+    "lng": 114.192841
+  },
+  {
+    "name": "Tin Shui Shopping Centre",
+    "address": "Tin Shui Shopping Centre, Tin Shui Wai, Hong Kong",
+    "lat": 22.4561363,
+    "lng": 113.9984383
+  },
+  {
+    "name": "Tin Wah Estate",
+    "address": "Ancillary Facilities Block, Tin Wah Estate, Tin Shui Wai, Hong Kong",
+    "lat": 22.4606419,
+    "lng": 114.0041996
+  },
+  {
+    "name": "Tin Yiu",
+    "address": "Tin Yiu Shopping Centre, Tin Yiu Estate, Tin Shui Wai, Hong Kong",
+    "lat": 22.4606419,
+    "lng": 114.0041996
+  },
+  {
+    "name": "Tin Chak Shopping Centre",
+    "address": "Tin Chak Shopping Centre, Tin Chak Estate, 75 &amp; 77 Tin Shui Road, Tin Shui Wai, Hong Kong",
+    "lat": 22.46841,
+    "lng": 113.99866
+  },
+  {
+    "name": "Blossom Garden",
+    "address": "Blossom Garden, 11 Leung Tak Street, Tuen Mun, Hong Kong",
+    "lat": 22.4082199,
+    "lng": 113.9686551
+  },
+  {
+    "name": "Butterfly",
+    "address": "Butterfly Plaza, Tuen Mun, Hong Kong",
+    "lat": 22.3746767,
+    "lng": 113.9634974
+  },
+  {
+    "name": "Chi Lok Fa Yuen",
+    "address": "Chi Lok Fa Yuen, Tuen Mun, Hong Kong",
+    "lat": 22.387257,
+    "lng": 113.979753
+  },
+  {
+    "name": "Fu Tai",
+    "address": "Fu Tai Shopping Centre, 9 Tuen Kwai Road, Tuen Mun, Hong Kong",
+    "lat": 22.4138836,
+    "lng": 113.9834772
+  },
+  {
+    "name": "Glorious Garden",
+    "address": "56 &amp; 58, Glorious Garden, 45 Lung Mun Road, Tuen Mun, Hong Kong",
+    "lat": 22.38281,
+    "lng": 113.965464
+  },
+  {
+    "name": "Hanford Plaza",
+    "address": "Hanford Plaza, No333 Castle Peak Road, Tuen Mun, Hong Kong",
+    "lat": 22.382463,
+    "lng": 113.977012
+  },
+  {
+    "name": "Kcr Siu Hong",
+    "address": "Unpaid Concourse, MTR Siu Hong Station, Hong Kong",
+    "lat": 22.411341,
+    "lng": 113.978772
+  },
+  {
+    "name": "Kcr Tuen Mun",
+    "address": "Paid Concourse, MTR Tuen Mun Station, Hong Kong",
+    "lat": 22.394875,
+    "lng": 113.973132
+  },
+  {
+    "name": "Leung King",
+    "address": "Leung King Shopping Centre, Tuen Mun, Hong Kong",
+    "lat": 22.3985231,
+    "lng": 113.96675
+  },
+  {
+    "name": "Ocean Walk",
+    "address": "Ocean Walk, 168-236 Wu Chui Road, Tuen Mun, Hong Kong",
+    "lat": 22.372765,
+    "lng": 113.966729
+  },
+  {
+    "name": "Po Tin Shopping Centre",
+    "address": "Po Tin Shopping Centre, Tuen Mun, Hong Kong",
+    "lat": 22.4095732,
+    "lng": 113.9667035
+  },
+  {
+    "name": "Shan King",
+    "address": "Shan King Shopping Centre, Tuen Mun, Hong Kong",
+    "lat": 22.3985231,
+    "lng": 113.96675
+  },
+  {
+    "name": "Tai Hing Estate",
+    "address": "Tai Hing Estate, Shopping Centre, Tuen Mun, Hong Kong",
+    "lat": 22.4362516,
+    "lng": 113.9977878
+  },
+  {
+    "name": "Tai Hing Garden",
+    "address": "Tai Hing Garden Phase 1, Tuen Mun, Hong Kong",
+    "lat": 22.400001,
+    "lng": 113.972539
+  },
+  {
+    "name": "Trend Plaza",
+    "address": "South Wing, Trend Plaza, Tuen Mun, Hong Kong",
+    "lat": 22.3922083,
+    "lng": 113.9758571
+  },
+  {
+    "name": "Tuen Mun Hospital",
+    "address": "Ambulatory Care Centre, Tuen Mun Hospital, Tsing Chung Koon Rd, Tuen Mun, Hong Kong",
+    "lat": 22.407398,
+    "lng": 113.976417
+  },
+  {
+    "name": "Tuen Mun Old Town",
+    "address": "Forward Mansion, 26A Yan Ching St, Tuen Mun, Hong Kong",
+    "lat": 22.3958236,
+    "lng": 113.9759036
+  },
+  {
+    "name": "Tuen Mun Town Plaza",
+    "address": "Phase 1, Tuen Mun Town Plaza, 1 Tuen Shun Street, Tuen Mun, Hong Kong",
+    "lat": 22.3927756,
+    "lng": 113.977251
+  },
+  {
+    "name": "Bellagio Mall",
+    "address": "Bellagio Mall, 33 Castle Peak Road, Sham Tseng, Hong Kong",
+    "lat": 22.3672477,
+    "lng": 114.0615298
+  },
+  {
+    "name": "Chung On Street",
+    "address": "79 Chung On Street, Tsuen Wan, Hong Kong",
+    "lat": 22.369091,
+    "lng": 114.1163612
+  },
+  {
+    "name": "City Landmark",
+    "address": "City Landmark Shopping Arcade, 68 Chung On St, Tsuen Wan, Hong Kong",
+    "lat": 22.370639,
+    "lng": 114.117679
+  },
+  {
+    "name": "Citywalk",
+    "address": "Citywalk, Tsuen Wan, Hong Kong",
+    "lat": 22.367985,
+    "lng": 114.114511
+  },
+  {
+    "name": "Luk Yeung Galleria",
+    "address": "Luk Yeung Galleria, Tsuen Wan, Hong Kong",
+    "lat": 22.3725473,
+    "lng": 114.1198749
+  },
+  {
+    "name": "Moon Lok Dai Ha",
+    "address": "Hong Lok Lau, Moon Lok Dai Ha, No50 Hoi Pa Street, Tsuen Wan, Hong Kong",
+    "lat": 22.3733912,
+    "lng": 114.1125822
+  },
+  {
+    "name": "Nina Tower",
+    "address": "Nina Tower, 8 Yeung Uk Road, Tsuen Wan, Hong Kong",
+    "lat": 22.368746,
+    "lng": 114.1130002
+  },
+  {
+    "name": "Panda Place",
+    "address": "Panda Place of Panda Hotel, 3 Tsuen Wah Street, Tsuen Wan, Hong Kong",
+    "lat": 22.368988,
+    "lng": 114.120796
+  },
+  {
+    "name": "Sha Tsui Road",
+    "address": "No240-242 Sha Tsui Road, Tsuen Wan, New Territorie, Hong Kong",
+    "lat": 22.3702862,
+    "lng": 114.1155361
+  },
+  {
+    "name": "Tai Ho Road",
+    "address": "19 Tai Ho Road, Tsuen Wan, Hong Kong",
+    "lat": 22.372255,
+    "lng": 114.116911
+  },
+  {
+    "name": "Tai Wo Hau",
+    "address": "commercial Centre, Tai Wo Hau Estate, Tsuen Wan, Hong Kong",
+    "lat": 22.368213,
+    "lng": 114.123254
+  },
+  {
+    "name": "Tsuen Kam",
+    "address": "Tsuen Kam Centre, Tsuen Wan, Hong Kong",
+    "lat": 22.3741515,
+    "lng": 114.1152298
+  },
+  {
+    "name": "Tsuen Wan",
+    "address": "Phase 2, Tsuen Wan Centre, Tsuen Wan, Hong Kong",
+    "lat": 22.3723019,
+    "lng": 114.1224829
+  },
+  {
+    "name": "Tsuen Wan Plaza",
+    "address": "Tsuen Wan Plaza, TWTL 326, Tsuen Wan, Hong Kong",
+    "lat": 22.3713227,
+    "lng": 114.1141601
+  },
+  {
+    "name": "New Discovery Park",
+    "address": "Discovery Park Shopping Centre, 398 Castle Peak Road, Tsuen Wan, Hong Kong",
+    "lat": 22.3713227,
+    "lng": 114.1141601
+  },
+  {
+    "name": "Citywalk 2",
+    "address": "Citywalk 2, 18 Yeung Uk Road, Tsuen Wan, Hong Kong",
+    "lat": 22.367939,
+    "lng": 114.1138738
+  },
+  {
+    "name": "Lei Muk Shue Shopping Centre",
+    "address": "Lei Muk Shue Shopping Centre, Tsuen Wan, Hong Kong",
+    "lat": 22.3780799,
+    "lng": 114.1367824
+  },
+  {
+    "name": "Shek Lei Shopping Ctr",
+    "address": "Shek Lei Shopping Centre, Phase 2, Hong Kong",
+    "lat": 22.3656637,
+    "lng": 114.1391977
+  },
+  {
+    "name": "Broadview Garden",
+    "address": "Comm Ctr, Broadview Garden, 1 Tsing Luk St, Tsing Yi, Hong Kong",
+    "lat": 22.3565067,
+    "lng": 114.1040351
+  },
+  {
+    "name": "Cheung Ching Estate",
+    "address": "Commercial Complex, Cheung Ching Estate, Tsing Yi, Hong Kong",
+    "lat": 22.358487,
+    "lng": 114.107261
+  },
+  {
+    "name": "Cheung Hang",
+    "address": "Cheung Hang Shopping Centre, Tsing Yi, Hong Kong",
+    "lat": 22.356577,
+    "lng": 114.097831
+  },
+  {
+    "name": "Cheung Hong Shopping Centre",
+    "address": "Cheung Hong Shopping Centre No2, Cheung Hong Estate, 12 Ching Hong Road, Tsing Yi, Hong Kong",
+    "lat": 22.350027,
+    "lng": 114.105611
+  },
+  {
+    "name": "Greenfield Garden",
+    "address": "Greenfield Garden, Commercial Centre at Phase 2, Tsing Yi, Hong Kong",
+    "lat": 22.358487,
+    "lng": 114.107261
+  },
+  {
+    "name": "Maritime Square",
+    "address": "Maritime Square, 33 Tsing King Road, Tsing Yi, Hong Kong",
+    "lat": 22.3557491,
+    "lng": 114.1083016
+  },
+  {
+    "name": "Tivoli Garden",
+    "address": "Commercial Centre, Tivoli Gdn, 75 Tsing King Rd, Tsing Yi, Hong Kong",
+    "lat": 22.354769,
+    "lng": 114.108094
+  },
+  {
+    "name": "Tsing Yi",
+    "address": "Cheung Fat Plaza, Cheung Fat Estate, Tsing Yi, Hong Kong",
+    "lat": 22.358487,
+    "lng": 114.107261
+  },
+  {
+    "name": "Wo Tong Tsui Street",
+    "address": "85 Wo Tong Tsui Street, Kwai Hing, Hong Kong",
+    "lat": 22.3672205,
+    "lng": 114.132222
+  },
+  {
+    "name": "Kwai Hing Station ",
+    "address": "MTR Kwai Hing Station, Kwai Hing, Hong Kong",
+    "lat": 22.363056,
+    "lng": 114.131207
+  },
+  {
+    "name": "Kwai Chung Shopping Ctr",
+    "address": "Kwai Chung Shopping Centre, Kwai Chung Estate Phase III, Sheung Kok Street, Kwai Chung, Hong Kong",
+    "lat": 22.3656637,
+    "lng": 114.1391977
+  },
+  {
+    "name": "Kwai Shing West Estate",
+    "address": "Kwai Shing West Estate Shopping Centre, Kwai Chung, Hong Kong",
+    "lat": 22.36233,
+    "lng": 114.123639
+  },
+  {
+    "name": "Lung Tang",
+    "address": "D&amp;E, Lung Tang Bldg, 41-43 Shing Fong Street, Kwai Chung, Hong Kong",
+    "lat": 22.358997,
+    "lng": 114.127176
+  },
+  {
+    "name": "Ming Tong Building",
+    "address": "Ming Tong Building, 444-448 Castle Peak Road, Kwai Chung, Hong Kong",
+    "lat": 22.3671182,
+    "lng": 114.1353657
+  },
+  {
+    "name": "Shek Yam",
+    "address": "Tin On House, 96 Shek Yam Road, Kwai Chung, Hong Kong",
+    "lat": 22.3696855,
+    "lng": 114.1396561
+  },
+  {
+    "name": "Kwai Fong",
+    "address": "Metroplaza, Kwai Fong, Hong Kong",
+    "lat": 22.3574288,
+    "lng": 114.1276543
+  },
+  {
+    "name": "Happy Valley",
+    "address": "no 25-27 Sing Woo Road, Happy Valley, Hong Kong",
+    "lat": 22.2695623,
+    "lng": 114.185396
+  },
+  {
+    "name": "Yue Wan Estate",
+    "address": "Yue Fung House, Yue Wan Estate, Chai Wan, Hong Kong",
+    "lat": 22.2656895,
+    "lng": 114.2409537
+  },
+  {
+    "name": "Hang Lung Centre",
+    "address": "Hang Lung Centre, 2-20 Paterson Street, Causeway Bay, Hong Kong",
+    "lat": 22.2801521,
+    "lng": 114.1860149
+  },
+  {
+    "name": "Hysan Place",
+    "address": "Hysan Place, No 500 Hennessy Road, Causeway Bay, Hong Kong",
+    "lat": 22.2798058,
+    "lng": 114.1837856
+  },
+  {
+    "name": "Leighton Road",
+    "address": "First Commercial Building, No33-35 Leighton Road, Causeway Bay, Hong Kong",
+    "lat": 22.2772536,
+    "lng": 114.1821369
+  },
+  {
+    "name": "Pak Sha Road",
+    "address": "No 13 Pak Sha Road, Causeway Bay, Hong Kong",
+    "lat": 22.2791176,
+    "lng": 114.1842623
+  },
+  {
+    "name": "President Theatre",
+    "address": "517 Jaffe Road, Causeway Bay, Hong Kong",
+    "lat": 22.281314,
+    "lng": 114.183475
+  },
+  {
+    "name": "Amtel Building",
+    "address": "Amtel Building, 144-148 Des Voeux Road Central, Sheung Wan, Hong Kong",
+    "lat": 22.2854195,
+    "lng": 114.1543627
+  },
+  {
+    "name": "Des Vouex Road West",
+    "address": "202-204 Des Vouex Road West, Hong Kong",
+    "lat": 22.287718,
+    "lng": 114.142918
+  },
+  {
+    "name": "Lai Yan Lau",
+    "address": "Lai Yan Lau, 42-56 Queen&apos;s Road West, Sheung Wan, Hong Kong",
+    "lat": 22.2865346,
+    "lng": 114.1476036
+  },
+  {
+    "name": "Sai Ying Pun",
+    "address": "Hang Yue Building, No 334-350 Des Voeux Road West, Hong Kong",
+    "lat": 22.2870178,
+    "lng": 114.1382124
+  },
+  {
+    "name": "Sheung Wan",
+    "address": "Welland Building, 368 Queen&apos;s Road, Central, Hong Kong",
+    "lat": 22.2858348,
+    "lng": 114.149091
+  },
+  {
+    "name": "Shun Tak Centre",
+    "address": "Shun Tak Centre, 200 Connaught Road Central, Sheung Wan, Hong Kong",
+    "lat": 22.2879098,
+    "lng": 114.1517914
+  },
+  {
+    "name": "Hk Mtr Station",
+    "address": "MTR Hong Kong Station, Hong Kong",
+    "lat": 22.284681,
+    "lng": 114.158177
+  },
+  {
+    "name": "Int'l Finance Centre",
+    "address": "IFC mall, 1 Harbour View Street, Central, Hong Kong",
+    "lat": 22.2799907,
+    "lng": 114.1587983
+  },
+  {
+    "name": "Island Resort",
+    "address": "Island Resort Mall, 28 Siu Sai Wan Road, Hong Kong",
+    "lat": 22.2666145,
+    "lng": 114.2504921
+  },
+  {
+    "name": "Siu Sai Wan",
+    "address": "Siu Sai Wan Shopping Centre, Chai Wan, Hong Kong",
+    "lat": 22.2625651,
+    "lng": 114.2513555
+  },
+  {
+    "name": "Tin Hau",
+    "address": "Park View Mansion, 3 Lau Sin Street, Tin Hau, Hong Kong",
+    "lat": 22.2832328,
+    "lng": 114.1921918
+  },
+  {
+    "name": "Tai Koo Shing",
+    "address": "City Plaza 1, 18 Tai Koo Shing Road, Island East, Hong Kong",
+    "lat": 22.3182466,
+    "lng": 114.1886854
+  },
+  {
+    "name": "Aberdeen",
+    "address": "174-176 Aberdeen Main Road, Aberdeen, Hong Kong",
+    "lat": 22.2492391,
+    "lng": 114.1556836
+  },
+  {
+    "name": "Ap Lei Chau",
+    "address": "65 Main Street, Ap Lei Chau, Hong Kong",
+    "lat": 22.2439435,
+    "lng": 114.1557595
+  },
+  {
+    "name": "Port Center",
+    "address": "Port Centre, Aberdeen, Hong Kong",
+    "lat": 22.2490583,
+    "lng": 114.1550362
+  },
+  {
+    "name": "South Horizons",
+    "address": "East Commercial Block, South Horizons, No18A South Horizon Drive, Ap Lei Chau Hong Kong, Hong Kong",
+    "lat": 22.2432296,
+    "lng": 114.1466335
+  },
+  {
+    "name": "Tin Wan Shopping Ctr",
+    "address": "Tin Wan Shopping Centre, Aberdeen, Hong Kong",
+    "lat": 22.2510024,
+    "lng": 114.1496019
+  },
+  {
+    "name": "Chi Fu",
+    "address": "Chi Fu Landmark, Pokfulam, Hong Kong",
+    "lat": 22.257928,
+    "lng": 114.1388261
+  },
+  {
+    "name": "Mei Foo",
+    "address": "69-119 Broadway, Mei Foo Sun Chuen, Hong Kong",
+    "lat": 22.336414,
+    "lng": 114.141827
+  },
+  {
+    "name": "Mount Sterling",
+    "address": "Mount Sterling Mall, Mei Foo Sun Chuen, Hong Kong",
+    "lat": 22.3375709,
+    "lng": 114.1401107
+  },
+  {
+    "name": "Liberte",
+    "address": "Liberte, 833 Lai Chi Kok Road, Hong Kong",
+    "lat": 22.3352049,
+    "lng": 114.1491607
+  },
+  {
+    "name": "New Lai Chi Kok",
+    "address": "Tai Wah House, 50-52 Lai Chi Kok Road, Hong Kong",
+    "lat": 22.323964,
+    "lng": 114.1668102
+  },
+  {
+    "name": "Cheung Sha Wan",
+    "address": "Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road, Hong Kong",
+    "lat": 22.3371349,
+    "lng": 114.148673
+  },
+  {
+    "name": "Park Building",
+    "address": "Park Bldg, 476 Castle Peak Road, Cheung Sha Wan, Hong Kong",
+    "lat": 22.3401463,
+    "lng": 114.1525281
+  },
+  {
+    "name": "Apollo Shopping Ctr",
+    "address": "164-170 Castle Peak Rd, Shamshuipo, Hong Kong",
+    "lat": 22.3721034,
+    "lng": 114.1187043
+  },
+  {
+    "name": "Dragon Centre",
+    "address": "Dragon Ctr, 37K Yen Chow St, Sham Shui Po, Hong Kong",
+    "lat": 22.3310175,
+    "lng": 114.1598202
+  },
+  {
+    "name": "Fu Cheong",
+    "address": "Fu Cheong Shopping Centre, Sham Shui Po, Hong Kong",
+    "lat": 22.327499,
+    "lng": 114.1547575
+  },
+  {
+    "name": "Hoi Lai Shopping Centre",
+    "address": "Hoi Lai Shopping Centre, Hoi Lai Estate, Sham Shui Po, Hong Kong",
+    "lat": 22.3325441,
+    "lng": 114.1468151
+  },
+  {
+    "name": "Kcr - Nam Cheong",
+    "address": "Paid Concourse, Nam Cheong MTR Station, Hong Kong",
+    "lat": 22.326734,
+    "lng": 114.153599
+  },
+  {
+    "name": "Lai Chi Kok",
+    "address": "316-318 Lai Chi Kok Road, Sham Shui Po, Hong Kong",
+    "lat": 22.328563,
+    "lng": 114.160914
+  },
+  {
+    "name": "Lei Cheng Uk",
+    "address": "Sun Light Building, 273 Shunning Road, Hong Kong",
+    "lat": 22.3372904,
+    "lng": 114.1584732
+  },
+  {
+    "name": "Nam Cheong Street",
+    "address": "Maintown Plaza, 223-237 Nam Cheong St, Hong Kong",
+    "lat": 22.3339672,
+    "lng": 114.1674253
+  },
+  {
+    "name": "Prince Edward",
+    "address": "10A Tai Po Road, Kowloo, Hong Kong",
+    "lat": 22.326879,
+    "lng": 114.167833
+  },
+  {
+    "name": "Rondall Building",
+    "address": "5 &amp; 11, Rondall Building, 168-178 Tai Po Road, Hong Kong",
+    "lat": 22.3311959,
+    "lng": 114.1654633
+  },
+  {
+    "name": "Un Chau Street",
+    "address": "no 324A Un Chau Street, Sham Shui Po, Hong Kong",
+    "lat": 22.337191,
+    "lng": 114.15724
+  },
+  {
+    "name": "Yen Chow Street",
+    "address": "No94 Yen Chow Street, Sham Shui Po, Hong Kong",
+    "lat": 22.332414,
+    "lng": 114.161891
+  },
+  {
+    "name": "Shek Kip Mei",
+    "address": "Ample Building, Nos 1 - 13 Woh Chai Street, Shek Kip Mei, Hong Kong",
+    "lat": 22.3315355,
+    "lng": 114.1702281
+  },
+  {
+    "name": "Shek Kip Mei Estate Phase 2",
+    "address": "Mei Leong House, Shek Kip Mei Estate Phase 2, Hong Kong",
+    "lat": 22.3323776,
+    "lng": 114.1676462
+  },
+  {
+    "name": "Fuk Tsun Street",
+    "address": "Fok Hong Mansion, No17-19 Fuk Tsun Street, Tai Kok Tsui, Hong Kong",
+    "lat": 22.3208854,
+    "lng": 114.1647404
+  },
+  {
+    "name": "Ivy Street",
+    "address": "Tai Fong Building, 51-65 Ivy Street, Tai Kok Tsui, Hong Kong",
+    "lat": 22.3214055,
+    "lng": 114.1613719
+  },
+  {
+    "name": "Metro Harbour Plaza",
+    "address": "Metro Harbour Plaza, 8 Fuk Lee Street, Tai Kok Tsui, Hong Kong",
+    "lat": 22.32436,
+    "lng": 114.161636
+  },
+  {
+    "name": "New Kowloon Plaza",
+    "address": "New Kowloon Plaza, 38 Tai Kok Tsui Road, Hong Kong",
+    "lat": 22.3197653,
+    "lng": 114.1626069
+  },
+  {
+    "name": "Olympian City 1",
+    "address": "Olympian City 1, 11 Hoi Fai Road, West Kowloon, Hong Kong",
+    "lat": 22.3187127,
+    "lng": 114.1586431
+  },
+  {
+    "name": "Olympian City Two",
+    "address": "Olympian City 2, Tai Kok Tsui, Hong Kong",
+    "lat": 22.3166563,
+    "lng": 114.1617597
+  },
+  {
+    "name": "Fa Yuen Street",
+    "address": "Hung Wai Building, Nos 3-5 Fa Yuen Street, Mongkok, Hong Kong",
+    "lat": 22.3164804,
+    "lng": 114.1715429
+  },
+  {
+    "name": "Full Win",
+    "address": "Full Win Commercial Bldg, 569-573A Nathan Rd, Hong Kong",
+    "lat": 22.3148953,
+    "lng": 114.1699917
+  },
+  {
+    "name": "Golden Era Plaza",
+    "address": "Golden Era Plaza, 39 - 55 Sai Yee Street, MongKok, Hong Kong",
+    "lat": 22.3183665,
+    "lng": 114.1717566
+  },
+  {
+    "name": "Golden Plaza",
+    "address": "Golden Plaza, 745-747 Nathan Road, Hong Kong",
+    "lat": 22.3232682,
+    "lng": 114.1683197
+  },
+  {
+    "name": "Hoi Fu",
+    "address": "Hoi Fu Shopping Center, Hoi Wang Road, Mongkok West, Hong Kong",
+    "lat": 22.315549,
+    "lng": 114.164557
+  },
+  {
+    "name": "Mong Kok East Station",
+    "address": "MTR Mong Kok East Station, Mong Kok, Hong Kong",
+    "lat": 22.3220713,
+    "lng": 114.1725926
+  },
+  {
+    "name": "Nathan Road",
+    "address": "Trade Department Tower, 700 Nathan Road, Hong Kong",
+    "lat": 22.3206,
+    "lng": 114.1694808
+  },
+  {
+    "name": "Nelson Street",
+    "address": "Wu Sang House, 655 Nathan Road, Hong Kong",
+    "lat": 22.3185003,
+    "lng": 114.1692486
+  },
+  {
+    "name": "Nullah Road",
+    "address": "Flat B-D, Tung Lok Mansion, 34-36 Nullah Road, Mongkok, Hong Kong",
+    "lat": 22.323655,
+    "lng": 114.16987
+  },
+  {
+    "name": "Shan Tung Street",
+    "address": "Sim City of Chung Kiu Co Bldg, Nos47-51 Shan Tung Street, Mongkok, Hong Kong",
+    "lat": 22.3177087,
+    "lng": 114.1700948
+  },
+  {
+    "name": "Yau Ma Tei",
+    "address": "Oxford Commercial Building, 494-496 Nathan Road, Hong Kong",
+    "lat": 22.3117371,
+    "lng": 114.1710558
+  },
+  {
+    "name": "Ping On Building",
+    "address": "Alhambra Building, 383-389C Nathan Road, Hong Kong",
+    "lat": 22.3086814,
+    "lng": 114.170967
+  },
+  {
+    "name": "Argyle Street",
+    "address": "King Hing Building, 52-54 Argyle Street, Mongkok, Hong Kong",
+    "lat": 22.3193811,
+    "lng": 114.1709903
+  },
+  {
+    "name": "Sai Yeung Choi Street South",
+    "address": "CTMA Centre, 1N Sai Yeung Choi Street South, MongKok, Hong Kong",
+    "lat": 22.3157847,
+    "lng": 114.1705723
+  },
+  {
+    "name": "Man Wai Street",
+    "address": "Man Yuen Building, 7 Man Wai Street, Hong Kong",
+    "lat": 22.332439,
+    "lng": 114.2077139
+  },
+  {
+    "name": "New Jordan Road",
+    "address": "No 37L &amp; 37M Jordan Road, Hong Kong",
+    "lat": 22.305513,
+    "lng": 114.170405
+  },
+  {
+    "name": "Sino Cheer Plaza",
+    "address": "Sino Cheer Plaza, 23 Jordan Road, Hong Kong",
+    "lat": 22.3055206,
+    "lng": 114.1708277
+  },
+  {
+    "name": "Austin Road",
+    "address": "134 Austin Road, Tsimshatsui, Hong Kong",
+    "lat": 22.303192,
+    "lng": 114.173773
+  },
+  {
+    "name": "Bowring Street",
+    "address": "2-6 Bowring Street, Jordan, Hong Kong",
+    "lat": 22.3042944,
+    "lng": 114.1715578
+  },
+  {
+    "name": "China Hk City",
+    "address": "China Hong Kong City, 33 Canton Road, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.300025,
+    "lng": 114.168191
+  },
+  {
+    "name": "Cke Shopping Mall",
+    "address": "CKE Shopping Mall, 36-44 Nathan Road, Hong Kong",
+    "lat": 22.296504,
+    "lng": 114.172528
+  },
+  {
+    "name": "Fourseas Building",
+    "address": "Fourseas Building, 208-212 Nathan Road, Hong Kong",
+    "lat": 22.303848,
+    "lng": 114.1720353
+  },
+  {
+    "name": "Golden Dragon Ctr",
+    "address": "Golden Dragon Centre, 38-40 Cameron Road, Tsimshatsui, Hong Kong",
+    "lat": 22.2989946,
+    "lng": 114.1747523
+  },
+  {
+    "name": "Granville Road",
+    "address": "Granville Road, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.300236,
+    "lng": 114.174957
+  },
+  {
+    "name": "Kcr East Tst Station",
+    "address": "MTR East Tsim Sha Tsui Station, Hong Kong",
+    "lat": 22.297604,
+    "lng": 114.172175
+  },
+  {
+    "name": "New Mandarin Plaza",
+    "address": "New Mandarin Plaza, Tsimshatsui East, Hong Kong",
+    "lat": 22.300215,
+    "lng": 114.1782124
+  },
+  {
+    "name": "China Ferry Terminal",
+    "address": "Restricted Area, Departure Lv, China Ferry Terminal, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.2988123,
+    "lng": 114.1721746
+  },
+  {
+    "name": "Coronation Circle",
+    "address": "Coronation Circle, 1 Yau Cheung Road, Hong Kong",
+    "lat": 22.309306,
+    "lng": 114.165718
+  },
+  {
+    "name": "K11",
+    "address": "No18 Hanoi Road, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.297457,
+    "lng": 114.173642
+  },
+  {
+    "name": "Hk Pacific Centre",
+    "address": "Hong Kong Pacific Centre, 28 Hankow Road, Tsim Sha Tsui, Hong Kong",
+    "lat": 22.2969894,
+    "lng": 114.1712922
+  },
+  {
+    "name": "Dock Street",
+    "address": "99K-99W Dock Street, Hunghom, Hong Kong",
+    "lat": 22.305697,
+    "lng": 114.187786
+  },
+  {
+    "name": "Hung Hom Square",
+    "address": "Hunghom Commercial Centre, 37-41 Ma Tau Wai Rd, Hung Hom, Hong Kong",
+    "lat": 22.310346,
+    "lng": 114.1880584
+  },
+  {
+    "name": "Hung Hom Station",
+    "address": "MTR Hung Hom Station, Hung Hom, Hong Kong",
+    "lat": 22.303067,
+    "lng": 114.181527
+  },
+  {
+    "name": "Planet Square",
+    "address": "Planet Square, 1-15 Tak Man Street, Hung Hom, Hong Kong",
+    "lat": 22.3065454,
+    "lng": 114.18738
+  },
+  {
+    "name": "Po Loi Street",
+    "address": "G/F No 1-7 Wu Kwong Street, Hung Hom, Hong Kong",
+    "lat": 22.306199,
+    "lng": 114.186496
+  },
+  {
+    "name": "Honour Building",
+    "address": "Honour Building, 78-80W To Kwa Wan Road, Tokwawan, Hong Kong",
+    "lat": 22.3169616,
+    "lng": 114.1906127
+  },
+  {
+    "name": "Lok Man Sun Chuen",
+    "address": "Lok Man Sun Chuen, No144 Kau Pui Lung Road, Tokwawan, Hong Kong",
+    "lat": 22.316819,
+    "lng": 114.185662
+  },
+  {
+    "name": "Ma Tau Wai Estate",
+    "address": "Geranium House, Ma Tau Wai Estate, Ma Tau Wai, Hong Kong",
+    "lat": 22.3224296,
+    "lng": 114.1874546
+  },
+  {
+    "name": "Ma Tau Wai Road",
+    "address": "Fuk Shing Mansion, No 89-91 Ma Tau Wai Road, Hong Kong",
+    "lat": 22.3128675,
+    "lng": 114.1878262
+  },
+  {
+    "name": "Tokwawan",
+    "address": "Mei King Mansion, Tokwawan Road, Tokwawan, Hong Kong",
+    "lat": 22.3159747,
+    "lng": 114.1896839
+  },
+  {
+    "name": "Ma Tau Kok Road",
+    "address": "Metropolitan Rise, 28 Ma Tau Kok Road, Hong Kong",
+    "lat": 22.3223471,
+    "lng": 114.1893588
+  },
+  {
+    "name": "Nga Tsin Wai Road",
+    "address": "Nga Tsin Wai Road, Kowloon City, Hong Kong",
+    "lat": 22.3289975,
+    "lng": 114.187005
+  },
+  {
+    "name": "Ching Long Shopping Centre",
+    "address": "Ching Long Shopping Centre, Muk Chui Street, Kowloon City, Hong Kong",
+    "lat": 22.3312743,
+    "lng": 114.2032391
+  },
+  {
+    "name": "Homantin",
+    "address": "Homantin Plaza, Ho Man Tin, Hong Kong",
+    "lat": 22.3161858,
+    "lng": 114.1818921
+  },
+  {
+    "name": "Cambridge Court",
+    "address": "Man Kee Mansion, 86D Waterloo Road, Hong Kong",
+    "lat": 22.3199514,
+    "lng": 114.1769119
+  },
+  {
+    "name": "Festival Walk",
+    "address": "Festival Walk, 80 Tat Chee Avenue, Kowloon Tong, Hong Kong",
+    "lat": 22.337381,
+    "lng": 114.1744322
+  },
+  {
+    "name": "Kowloon Tong Station",
+    "address": "MTR Kowloon Tong Station, Kowloon Tong, Hong Kong",
+    "lat": 22.336918,
+    "lng": 114.175852
+  },
+  {
+    "name": "New Kowloon Tong Station",
+    "address": "KOT 120, MTR Kowloon Tong Station, Hong Kong",
+    "lat": 22.336918,
+    "lng": 114.175852
+  },
+  {
+    "name": "Fu Shan Estate",
+    "address": "Fu Yan House, Fu Shan Estate, Hong Kong",
+    "lat": 22.3427701,
+    "lng": 114.2082606
+  },
+  {
+    "name": "Plaza Hollywood",
+    "address": "Plaza Hollywood, Diamond Hill, Hong Kong",
+    "lat": 22.3406515,
+    "lng": 114.2020839
+  },
+  {
+    "name": "Tsz Wan Shan Shopping Centre",
+    "address": "Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Tsz Wan Shan, Hong Kong",
+    "lat": 22.3482096,
+    "lng": 114.2005978
+  },
+  {
+    "name": "Fung Tak Shopping Centre",
+    "address": "Fung Tak Shopping Centre, Wong Tai Sin, Hong Kong",
+    "lat": 22.343866,
+    "lng": 114.1999476
+  },
+  {
+    "name": "Lok Fu",
+    "address": "Lok Fu Plaza, Wang Tau Hom, Hong Kong",
+    "lat": 22.339594,
+    "lng": 114.188228
+  },
+  {
+    "name": "Rhythm Garden",
+    "address": "Rhythm Garden, No242 Choi Hung Road, Hong Kong",
+    "lat": 22.33599,
+    "lng": 114.201942
+  },
+  {
+    "name": "Sheung Fung Street",
+    "address": "18 Sheung Fung Street, Wong Tai Sin, Hong Kong",
+    "lat": 22.344221,
+    "lng": 114.19771
+  },
+  {
+    "name": "Wong Tai Sin",
+    "address": "Wong Tai Sin Plaza, Wong Tai Sin, Hong Kong",
+    "lat": 22.3414698,
+    "lng": 114.194421
+  },
+  {
+    "name": "San Po Kong",
+    "address": "65-89 Shung Ling Street, San Po Kong, Hong Kong",
+    "lat": 22.334618,
+    "lng": 114.195826
+  },
+  {
+    "name": "Tseuk Luk Street",
+    "address": "74-76 Tseuk Luk Street, San Po Kong, Hong Kong",
+    "lat": 22.3356025,
+    "lng": 114.1969561
+  },
+  {
+    "name": "Kai Yip Shopping Centre",
+    "address": "Kai Yip Shopping Centre, Kowloon Bay, Hong Kong",
+    "lat": 22.3266646,
+    "lng": 114.2078426
+  },
+  {
+    "name": "Megabox",
+    "address": "Megabox, Enterprise Square 5, 38 Wang Chiu Road, Kowloon Bay, Hong Kong",
+    "lat": 22.3198071,
+    "lng": 114.2081443
+  },
+  {
+    "name": "Richland Gardens",
+    "address": "2183 &amp; 2186, Hong Kong",
+    "lat": 22.277024,
+    "lng": 114.175629
+  },
+  {
+    "name": "Telford Centre",
+    "address": "Telford Plaza I, Kowloon Bay, Hong Kong",
+    "lat": 22.3255374,
+    "lng": 114.2141193
+  },
+  {
+    "name": "Emax",
+    "address": "Emax-HITEC, 1 Trademart Drive, Kowloon Bay, Hong Kong",
+    "lat": 22.323968,
+    "lng": 114.2039416
+  },
+  {
+    "name": "Amoy Plaza",
+    "address": "moy Plaza, Phase 2, 77 Ngau Tau Kok Road, Hong Kong",
+    "lat": 22.323976,
+    "lng": 114.216218
+  },
+  {
+    "name": "Hung Cheuk Lau",
+    "address": "Hung Cheuk Lau, 281 Ngau Tau Kok Road, Kwun Tong Garden Estate, Hong Kong",
+    "lat": 22.316294,
+    "lng": 114.218985
+  },
+  {
+    "name": "Lok Wah",
+    "address": "Lok Wah North Shopping Centre, Lok Wah North Estate, Ngau Tau Kok, Hong Kong",
+    "lat": 22.322466,
+    "lng": 114.2167592
+  },
+  {
+    "name": "Ping Shek Estate",
+    "address": "Yuk Shek House, Ping Shek Estate, Hong Kong",
+    "lat": 22.3335127,
+    "lng": 114.2094681
+  },
+  {
+    "name": "Hip Wo Street",
+    "address": "nos93-115 Hip Wo Street, Kwun Tong, Hong Kong",
+    "lat": 22.315539,
+    "lng": 114.225727
+  },
+  {
+    "name": "Hoi Yuen Road",
+    "address": "Kwun Tong Plaza, 68 Hoi Yuen Road, Kwun Tong, Hong Kong",
+    "lat": 22.3111987,
+    "lng": 114.2260006
+  },
+  {
+    "name": "Kwun Tong",
+    "address": "7 Tung Ming Street, Kwun Tong, Hong Kong",
+    "lat": 22.315026,
+    "lng": 114.222902
+  },
+  {
+    "name": "Kwun Tong Mtr",
+    "address": "MTR Kwun Tong Station, Kwun Tong, Hong Kong",
+    "lat": 22.312238,
+    "lng": 114.226367
+  },
+  {
+    "name": "Laguna Plaza",
+    "address": "Laguna Plaza, 88 Cha Kwo Ling Road, Kwun Tong, Hong Kong",
+    "lat": 22.3068298,
+    "lng": 114.2279975
+  },
+  {
+    "name": "Lei Yue Mun Plaza",
+    "address": "Lei Yue Mun Plaza, Yau Tong, Hong Kong",
+    "lat": 22.2964166,
+    "lng": 114.2395606
+  },
+  {
+    "name": "Shui Wo Street",
+    "address": "Kwong Sen Mansion, Nos 23-33 Shui Wo Street, Kwun Tong, Hong Kong",
+    "lat": 22.315675,
+    "lng": 114.22497
+  },
+  {
+    "name": "Shun Lee",
+    "address": "Shun Lee Commercial Centre, Shun Lee Estate, 15 Lee On Road, Kwun Tong, Hong Kong",
+    "lat": 22.330394,
+    "lng": 114.226955
+  },
+  {
+    "name": "Shun Tin",
+    "address": "Tin Kuen House, Shun Tin Estate, Hong Kong",
+    "lat": 22.3256111,
+    "lng": 114.2258149
+  },
+  {
+    "name": "Tsui Ping Estate",
+    "address": "Tsui Ping Shopping Centre, Tsui Ping Estate, Kwun Tong, Hong Kong",
+    "lat": 22.32233,
+    "lng": 114.213055
+  },
+  {
+    "name": "Yue Man Square",
+    "address": "Yue Man Square, Kwun Tong, Hong Kong",
+    "lat": 22.3135921,
+    "lng": 114.2248007
+  },
+  {
+    "name": "Choi Wan Shopping Centre",
+    "address": "Choi Wan Shopping Ctr (Ph 2), Choi Wan (I) Est, Ngau Chi Wan, Hong Kong",
+    "lat": 22.3368838,
+    "lng": 114.213787
+  },
+  {
+    "name": "Apm",
+    "address": "APM, Millennium City 5, Kwun Tong, Hong Kong",
+    "lat": 22.31237,
+    "lng": 114.225192
+  },
+  {
+    "name": "Po Tat",
+    "address": "Po Tat Shopping Centre, Po Lam Road, Sau Mau Ping, Hong Kong",
+    "lat": 22.317809,
+    "lng": 114.236095
+  },
+  {
+    "name": "Sau Mau Ping",
+    "address": "Sau Mau Ping Shopping Centre, Sau Mau Ping, Hong Kong",
+    "lat": 22.3195058,
+    "lng": 114.232177
+  },
+  {
+    "name": "Kai Tin",
+    "address": "Kai Tin Shopping Centre, Lam Tin, Hong Kong",
+    "lat": 22.3086347,
+    "lng": 114.2347775
+  },
+  {
+    "name": "Sceneway Garden",
+    "address": "Commercial Development, Sceneway Garden, No8 Sceneway Road, Lam Tin, Hong Kong",
+    "lat": 22.3068677,
+    "lng": 114.2341437
+  },
+  {
+    "name": "Tak Tin Shopping Centre",
+    "address": "Tak Tin Shopping Centre, 223 Pik Wan Road, Lam Tin, Hong Kong",
+    "lat": 22.3028882,
+    "lng": 114.2396999
+  },
+  {
+    "name": "Yau Lai Shopping Centre",
+    "address": "Yau Lai Shopping Centre, Yau Tong, Hong Kong",
+    "lat": 22.2985562,
+    "lng": 114.237053
+  },
+  {
+    "name": "Airport Arrival",
+    "address": "SkyPlaza, Terminal 2, Hong Kong International Airport, Hong Kong",
+    "lat": 22.3163316,
+    "lng": 113.9377118
+  },
+  {
+    "name": "Airport Departure",
+    "address": "SkyPlaza, Terminal 2, Hong Kong International Airport, Hong Kong",
+    "lat": 22.3163316,
+    "lng": 113.9377118
+  },
+  {
+    "name": "North Satellite Concourse",
+    "address": "North Satellite Concourse, Hong Kong International Airport, Lantau, Hong Kong",
+    "lat": 22.3172631,
+    "lng": 113.9302248
+  },
+  {
+    "name": "Skypier",
+    "address": "SkyPier, 3 Sky City Road East, Lantau, Hong Kong",
+    "lat": 22.3185609,
+    "lng": 113.9445158
+  },
+  {
+    "name": "T1 L5 Arrival",
+    "address": "Terminal 1, Hong Kong International Airport, Hong Kong",
+    "lat": 22.298909,
+    "lng": 113.9287398
+  },
+  {
+    "name": "T1 L7 Departure",
+    "address": "Terminal 1, Hong Kong International Airport, Hong Kong",
+    "lat": 22.298909,
+    "lng": 113.9287398
+  },
+  {
+    "name": "Ti L5 Restricted Area",
+    "address": "Terminal 1, Hong Kong International Airport, Lantau, Hong Kong",
+    "lat": 22.3149715,
+    "lng": 113.9340063
+  },
+  {
+    "name": "Ti L6 Restricted Area",
+    "address": "Northwest Concourse, Terminal 1, Hong Kong International Airport, Hong Kong",
+    "lat": 22.308047,
+    "lng": 113.9184808
+  },
+  {
+    "name": "Ti L7 Restricted Area",
+    "address": "Terminal 1, Hong Kong International Airport, Hong Kong",
+    "lat": 22.298909,
+    "lng": 113.9287398
+  },
+  {
+    "name": "Park Island",
+    "address": "Park Island - Pier, Ma Wan, Hong Kong",
+    "lat": 22.3527556,
+    "lng": 114.0640849
+  },
+  {
+    "name": "Tung Chung Crescent",
+    "address": "Tung Chung Crescent, Tung Chung, Lantau, Hong Kong",
+    "lat": 22.2576254,
+    "lng": 113.9401331
+  },
+  {
+    "name": "Yat Tung",
+    "address": "Yat Tung Shopping Centre, Yat Tung Estate, Tung Chung, Lantau, Hong Kong",
+    "lat": 22.281466,
+    "lng": 113.9347808
+  },
+  {
+    "name": "Fu Tung Shopping Centre",
+    "address": "Fu Tung Shopping Centre, Tung Chung, Hong Kong",
+    "lat": 22.288753,
+    "lng": 113.942485
+  },
+  {
+    "name": "Cheung Chau",
+    "address": "31 Praya Road, Cheung Chau, Hong Kong",
+    "lat": 22.2069769,
+    "lng": 114.0287036
+  }
+]

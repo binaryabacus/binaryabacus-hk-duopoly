@@ -1,6 +1,5 @@
 # hk-oligopoly
 
-
 - google place API to get location of chain store?
 - voronoi diagram clip by hong kong topojson
 
@@ -10,24 +9,8 @@
 
 ## todos
 
-### done
-- hong kong land map is low resolution
-- process wellcome data
-- latlng is not all accurate
-- better tooltip (show on cursor instead)
-- fade in maps when zoomed in
-  - https://www.mapbox.com/blog/election-mapping-usatoday/
-  - http://bl.ocks.org/ZJONSSON/2957559
-- limit paning area
-- make better coastline map
-- process pacific coffee and starbucks
-  - http://www.pacificcoffee.com/eng/store/fulllist.php
-  - http://www.starbucks.com.hk/store-locator/search/location/Hong%20Kong
-  - https://opendata.socrata.com/Business/All-Starbucks-Locations-in-the-World/xy4y-c4mk
-
 ### features
 - mannings vs watsons
-  - 
 - 711 vs ok
 - fortress vs broadway?
 - kfc vs mcdonalds?
@@ -48,7 +31,6 @@
   - http://bl.ocks.org/1wheel/5899035
 
 ### optimization
-- clip district by preprocessing
 - improved zooming behavior
   - http://bl.ocks.org/mbostock/6242308
   - http://bl.ocks.org/mbostock/6301817
@@ -59,14 +41,26 @@
 - tweak semantic zooming (radius and stroke width)
   - http://bl.ocks.org/mbostock/3680957
 
+### done
+- hong kong land map is low resolution
+- process wellcome data
+- latlng is not all accurate
+- better tooltip (show on cursor instead)
+- fade in maps when zoomed in
+  - https://www.mapbox.com/blog/election-mapping-usatoday/
+  - http://bl.ocks.org/ZJONSSON/2957559
+- limit paning area
+- make better coastline map
+- process pacific coffee and starbucks
+  - http://www.pacificcoffee.com/eng/store/fulllist.php
+  - http://www.starbucks.com.hk/store-locator/search/location/Hong%20Kong
+  - https://opendata.socrata.com/Business/All-Starbucks-Locations-in-the-World/xy4y-c4mk
+
 ## data
 
 parknshop: https://www.kimonolabs.com/apis/2v41nzhc
 
 ## reference
-
-other ideas:
-- http://prag.ma/code/d3-cartogram/#popchange/2011
 
 performance:
 - http://bl.ocks.org/syntagmatic/raw/3267951/
